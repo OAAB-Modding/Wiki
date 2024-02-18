@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"25d3ea7fac12388d","type":"text","text":"Drenim Family","x":-300,"y":-20,"width":250,"height":60},
+		{"id":"43c1481c7ab42703","type":"text","text":"[[Endar Drenim]]","x":-300,"y":90,"width":250,"height":60},
+		{"id":"92b89c9ec1e8e226","type":"text","text":"Galas Drenim","x":-140,"y":240,"width":250,"height":60},
+		{"id":"f72582baf839a30d","type":"text","text":"Mavon Drenim","x":-460,"y":240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c00a66a849ad00c1","fromNode":"25d3ea7fac12388d","fromSide":"bottom","toNode":"43c1481c7ab42703","toSide":"top"},
+		{"id":"2eb0ecf7a7406cfe","fromNode":"43c1481c7ab42703","fromSide":"right","toNode":"92b89c9ec1e8e226","toSide":"right","label":"Step Siblings"},
+		{"id":"96a6b8e0538905b3","fromNode":"43c1481c7ab42703","fromSide":"left","toNode":"f72582baf839a30d","toSide":"left","label":"???"}
+	]
+}

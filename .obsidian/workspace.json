@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "3dbb1fbf7542bf53",
+    "type": "split",
+    "children": [
+      {
+        "id": "05b7eb4ad28d06c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc00d2e1daa03196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Galos Mathendis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65e5bbc45b9601c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "51857f60b37faf85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f05f1f012820c6c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ad60544a00019a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da7c5777e0f3c8ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab1247d6450b2ba9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b430e3f4925e875c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd8d02e414df4d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26062cf639ba384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/NPC/Galos Mathendis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f3030193ae80868",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/NPC/Galos Mathendis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3768a4d9ddcb99f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0208c80b3f0ffff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/NPC/Galos Mathendis.md"
+              }
+            }
+          },
+          {
+            "id": "4a26eecc03c4c562",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "bc00d2e1daa03196",
+  "lastOpenFiles": [
+    "Mod/OAAB Grazelands.md",
+    "Characters/NPC/Galos Mathendis.md",
+    "Characters/NPC/Endar Drenim.md",
+    "Characters/NPC/Dro'zharim.md",
+    "Characters/NPC/Divayth Fyr.md",
+    "Characters/NPC/Aryon.md",
+    "Characters/Relationships/Drenim Family.canvas",
+    "Characters/NPC/Reynel Uvirith.md",
+    "Drenim Family.md",
+    "Characters/Relationships",
+    "Mod/OAAB Tel Mora.md",
+    "Characters/NPC",
+    "Characters/NPC/Runethyne Andas.md",
+    "Characters/NPC/Hairan Mannanalit.md",
+    "World/Sunna Guradan.md",
+    "Factions/Ashlanders/Ghost Lantern.md",
+    "World/Molag Amur.md",
+    "Enchanting/Enchanting Candles.md",
+    "Races/Dwemer/Ideographer.md",
+    "Races",
+    "Factions",
+    "Factions/Ashlanders",
+    "Daedra/Atronach Monarchs.md",
+    "Daedra/Atronachs",
+    "Daedra",
+    "Mythos/Earthbones.md",
+    "Item/Artifacts/Sword of the Moon Reiver.md",
+    "Races/Dwemer/The Calling.md",
+    "Races/Dwemer/Puzzle Boxes.md",
+    "Characters/NPC/Milyn Faram.md",
+    "Characters/NPC/Telvon.md",
+    "Mythos.md",
+    "Mythos",
+    "Item/Scamp Tallow.md",
+    "Enchanting",
+    "Item/Artifacts"
+  ]
+}
