@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "3dbb1fbf7542bf53",
+    "id": "a5bc7a35efc2d5ac",
     "type": "split",
     "children": [
       {
-        "id": "3a35aaafb9b7739a",
+        "id": "aec2bea8c3acd94c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7f6a36eb8ff58a",
+            "id": "fd8dc78d71952cbb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "65e5bbc45b9601c0",
+    "id": "d4176965eb2229a1",
     "type": "split",
     "children": [
       {
-        "id": "51857f60b37faf85",
+        "id": "50f0e785cf5175a5",
         "type": "tabs",
         "children": [
           {
-            "id": "f05f1f012820c6c1",
+            "id": "3460d9e59e50c8bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,13 +39,13 @@
             }
           },
           {
-            "id": "5ad60544a00019a2",
+            "id": "8059ede18112cde0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -54,15 +54,7 @@
             }
           },
           {
-            "id": "da7c5777e0f3c8ec",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab1247d6450b2ba9",
+            "id": "580324a708b04d78",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "b430e3f4925e875c",
+    "id": "25f6d39c7b3ca488",
     "type": "split",
     "children": [
       {
-        "id": "3dd8d02e414df4d7",
+        "id": "6b46ce2d664efc20",
         "type": "tabs",
         "children": [
           {
-            "id": "b26062cf639ba384",
+            "id": "e059a9a96a16de7a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,7 +92,7 @@
             }
           },
           {
-            "id": "5f3030193ae80868",
+            "id": "ccf1f8918c5baf0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -111,7 +103,7 @@
             }
           },
           {
-            "id": "c3768a4d9ddcb99f",
+            "id": "ba16d7fbee2494e6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,27 +114,19 @@
             }
           },
           {
-            "id": "e0208c80b3f0ffff",
+            "id": "4787c85e01665a0b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "4a26eecc03c4c562",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,48 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3c7f6a36eb8ff58a",
-  "lastOpenFiles": [
-    "Language/Dunmeri.md",
-    "README.md",
-    "Language",
-    "Characters/NPC/Galos Mathendis.md",
-    "Mod/OAAB Grazelands.md",
-    "Characters/NPC/Endar Drenim.md",
-    "Characters/NPC/Dro'zharim.md",
-    "Characters/NPC/Divayth Fyr.md",
-    "Characters/NPC/Aryon.md",
-    "Characters/Relationships/Drenim Family.canvas",
-    "Characters/NPC/Reynel Uvirith.md",
-    "Drenim Family.md",
-    "Characters/Relationships",
-    "Mod/OAAB Tel Mora.md",
-    "Characters/NPC",
-    "Characters/NPC/Runethyne Andas.md",
-    "Characters/NPC/Hairan Mannanalit.md",
-    "World/Sunna Guradan.md",
-    "Factions/Ashlanders/Ghost Lantern.md",
-    "World/Molag Amur.md",
-    "Enchanting/Enchanting Candles.md",
-    "Races/Dwemer/Ideographer.md",
-    "Races",
-    "Factions",
-    "Factions/Ashlanders",
-    "Daedra/Atronach Monarchs.md",
-    "Daedra/Atronachs",
-    "Daedra",
-    "Mythos/Earthbones.md",
-    "Item/Artifacts/Sword of the Moon Reiver.md",
-    "Races/Dwemer/The Calling.md",
-    "Races/Dwemer/Puzzle Boxes.md",
-    "Characters/NPC/Milyn Faram.md",
-    "Characters/NPC/Telvon.md",
-    "Mythos.md",
-    "Mythos",
-    "Enchanting"
-  ]
+  "active": "fd8dc78d71952cbb",
+  "lastOpenFiles": []
 }
