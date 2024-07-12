@@ -1,7 +1,4 @@
-
-### UESP
-[Link](https://en.uesp.net/wiki/Morrowind:Vos#Runethyne_Andas)
-
+### [UESP](https://en.uesp.net/wiki/Morrowind:Vos#Runethyne_Andas)
 ### OAAB
 Is in love with someone based on a crumpled love note in the Vos Mill.
 

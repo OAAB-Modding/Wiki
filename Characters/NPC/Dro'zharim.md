@@ -1,7 +1,4 @@
-
-### UESP
-[Link](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Dro.27zharim)
-
+### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Dro.27zharim)
 ### OAAB
 After Dro'zharim is freed, the player can learn that he helped build Tel Vos.
 

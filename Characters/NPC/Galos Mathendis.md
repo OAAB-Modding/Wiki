@@ -1,15 +1,13 @@
-
-### UESP
-**Galos Mathendis** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [enchanter](https://en.uesp.net/wiki/Morrowind:Enchanter_(class) "Morrowind:Enchanter (class)") found in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). He is the [Mouth](https://en.uesp.net/wiki/Morrowind:Mouth "Morrowind:Mouth") for Master [[Aryon]] of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").
+### [UESP](https://en.uesp.net/wiki/Morrowind:Galos_Mathendis)
+**Galos Mathendis** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [enchanter](https://en.uesp.net/wiki/Morrowind:Enchanter_(class) "Morrowind:Enchanter (class)") found in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). He is the [Mouth](https://en.uesp.net/wiki/Morrowind:Mouth "Morrowind:Mouth") for Master [Aryon](https://en.uesp.net/wiki/Morrowind:Aryon "Morrowind:Aryon") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").
 
 If you advance far enough in House Telvanni, he will eventually step down and return to his research.
-
 ### OAAB
-After he retires, he moves to Tel Vos where continues his research which is primarily focused on advanced enchanting techniques. <sup>[1]</sup>
+After he retires, Galos moves to Tel Vos where continues his research which is primarily focused on advanced enchanting techniques. <sup>[1]</sup>
 
 Specifically, Galos is studying the function of enchanted doors. He sends an encoded message to [[Aryon]] which reveals this if it is translated:
 
-> TO MILYN FARAM
+> TO [[MILYN FARAM]]
 > YOUR LATEST DISCOVERY IS INCREDIBLE
 > IF YOU CAN PART WITH A SAMPLE I WOULD BE ETERNALLY GRATEFUL
 > I THINK THIS MIGHT BE THE KEY I HAVE BEEN SEARCHING FOR TO UNLOCK THE GREATER POTENTIAL OF ENCHANTED DOORS
