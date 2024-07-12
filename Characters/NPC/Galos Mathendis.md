@@ -5,7 +5,7 @@ If you advance far enough in House Telvanni, he will eventually step down and re
 ### OAAB
 After he retires, Galos moves to Tel Vos where continues his research which is primarily focused on advanced enchanting techniques. <sup>[1]</sup>
 
-Specifically, Galos is studying the function of enchanted doors. He sends an encoded message to [[Aryon]] which reveals this if it is translated:
+Specifically, Galos is studying the function of enchanted doors. He sends an encoded message to [[Milyn Faram]] which reveals this if it is translated:
 
 > TO [[MILYN FARAM]]
 > YOUR LATEST DISCOVERY IS INCREDIBLE
@@ -17,6 +17,7 @@ Specifically, Galos is studying the function of enchanted doors. He sends an enc
 > I BELIEVE THAT HIS STUDENT QORWYNN MAY HAVE ADVANCED BEYOND HIS MASTERS SKILLS BY SOLICITING THE POWER OF A DAEDRA
 > THOUGH I KNOW NOT WHOM
 > YOUR RESPECTFUL COLLEAGUE
-> GALOS MATHENDIS <sup>[1]</sup>
+> GALOS MATHENDIS
+> -- Message from Galos Mathendis (book) <sup>[1]</sup>
 ### Mods
 1. [[OAAB Grazelands]]

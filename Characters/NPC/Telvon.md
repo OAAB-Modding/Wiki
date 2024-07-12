@@ -6,6 +6,7 @@ Telvon does not exist in the original game (except for a seemingly unassociated 
 ### OAAB
 Telvon is said to have disappeared after trying to enter Indoranyon.
 
-> [[Hairan Mannanalit]] (dialogue): I knew you must have found my note to Telvon. I have no idea where he is. He was a bull-headed man and I fear that he may have entered the ruins of Indoranyon despite my warning. <sup>[1]</sup>
+>  "I knew you must have found my note to Telvon. I have no idea where he is. He was a bull-headed man and I fear that he may have entered the ruins of Indoranyon despite my warning."
+>  -- [[Hairan Mannanalit]] (dialogue) <sup>[1]</sup>
 ### Mods
 1. [[OAAB Grazelands]]
