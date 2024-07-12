@@ -7,4 +7,6 @@ Milyn Faram's research has resulted in [magical scrolls](https://en.uesp.net/wi
 > Milyn Faram (dialogue): Scrolls of summoning are, without exception, based on the Law of Similarity as you must know. While others use parts of the creature, such as [Daedra skin](https://en.uesp.net/wiki/Morrowind:Daedra_Skin "Morrowind:Daedra Skin") for summoning [Daedra](https://en.uesp.net/wiki/Morrowind:Daedra "Morrowind:Daedra"), I have developed a new methods, based on a recovered [Dwemer](https://en.uesp.net/wiki/Morrowind:Dwemer "Morrowind:Dwemer") machine. My scrolls only have an image of the Daedra, which works almost as well as a Daedra skin or [heart](https://en.uesp.net/wiki/Morrowind:Daedra%27s_Heart "Morrowind:Daedra's Heart")... And at a fraction of the cost."
 
 ### OAAB
-The "dwemer machine" mentioned by Milyn Faram is known as an "[[Ideographer]]" ([[OAAB Grazelands]])
+The "dwemer machine" mentioned by Milyn Faram is known as an "[[Ideographer]]" <sup>[1]</sup>
+### Mods
+1. [[OAAB Grazelands]]

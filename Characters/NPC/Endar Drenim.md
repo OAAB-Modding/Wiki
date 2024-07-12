@@ -9,4 +9,4 @@ Endar Drenim is head spymaster for House Telvanni on Vvardenfell. He currently l
 
 [[Drenim Family.canvas|Drenim Family]]
 ### Mods
-1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
+1. [[OAAB Tel Mora]]
