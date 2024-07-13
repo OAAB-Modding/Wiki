@@ -2,7 +2,7 @@
 **Galos Mathendis** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [enchanter](https://en.uesp.net/wiki/Morrowind:Enchanter_(class) "Morrowind:Enchanter (class)") found in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). He is the [Mouth](https://en.uesp.net/wiki/Morrowind:Mouth "Morrowind:Mouth") for Master [Aryon](https://en.uesp.net/wiki/Morrowind:Aryon "Morrowind:Aryon") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").
 
 If you advance far enough in House Telvanni, he will eventually step down and return to his research.
-### OAAB
+### Modded
 After he retires, Galos moves to Tel Vos where continues his research which is primarily focused on advanced enchanting techniques. <sup>[1]</sup>
 
 Specifically, Galos is studying the function of enchanted doors. He sends an encoded message to [[Milyn Faram]] which reveals this if it is translated:
@@ -19,5 +19,5 @@ Specifically, Galos is studying the function of enchanted doors. He sends an enc
 > YOUR RESPECTFUL COLLEAGUE
 > GALOS MATHENDIS
 > -- Message from Galos Mathendis (book) <sup>[1]</sup>
-### Mods
+### Source
 1. [[OAAB Grazelands]]

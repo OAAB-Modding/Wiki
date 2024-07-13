@@ -1,4 +1,4 @@
-### OAAB
+### Modded
 > "Sunna Guradan are the blessed lands. The settled people and outlanders call them the grazelands. That name is fitting as well, but does carry the same sacred meaning. Our ancestors walk among us and bless us with life and favor."
 > -- Wise Woman (dialogue) <sup>[1]</sup>
 
@@ -6,5 +6,5 @@
 > -- Wise Woman (dialogue) <sup>[1]</sup>
 
 Sunna Guradan translates to "blessed green land" and is how the ashlanders refer to the grazelands -- at least when discussing it from a spiritual perspective. They think it represents how their afterlife looks. And this link to the dream world of their ancestors manifests sometimes in phenomenon such as the [[ghost lantern]].
-### Mods
+### Source
 1. [[OAAB Grazelands]]

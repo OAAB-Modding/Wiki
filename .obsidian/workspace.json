@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53b890cb2224b954",
+        "id": "16385b00d66c399e",
         "type": "tabs",
         "children": [
           {
-            "id": "c762fc2250b96e50",
+            "id": "e0c705b7980437aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Laws of Magic.md",
+                "file": "Characters/NPC/Erer Darothil.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Laws of Magic.md",
+                "file": "Characters/NPC/Erer Darothil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Laws of Magic.md",
+                "file": "Characters/NPC/Erer Darothil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Laws of Magic.md"
+                "file": "Characters/NPC/Erer Darothil.md"
               }
             }
           },
@@ -163,34 +163,34 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c762fc2250b96e50",
+  "active": "e0c705b7980437aa",
   "lastOpenFiles": [
-    "Characters/NPC/Milyn Faram.md",
-    "Magic/Laws of Magic.md",
-    "Characters/NPC/Hairan Mannanalit.md",
     "Characters/NPC/Endar Drenim.md",
-    "Characters/NPC/Galos Mathendis.md",
-    "Magic/Enchanting Candles.md",
+    "Characters/NPC/Erer Darothil.md",
+    "Characters/NPC/Aryon.md",
+    "Characters/NPC/Raven Omayn.md",
+    "Characters/NPC/Dratha.md",
+    "Characters/NPC/Berel Sala.md",
+    "Characters/NPC/Radras.md",
+    "Characters/NPC/Yakin Bael.md",
+    "Characters/NPC/Sonummu Zabamat.md",
+    "Magic/Geasa.md",
+    "Characters/NPC/Chanil-Lee.md",
+    "Characters/NPC/Galas Drenim.md",
     "Characters/NPC/Borwen.md",
+    "Characters/NPC/Milyn Faram.md",
     "World/Settlements/Tel Mora.md",
+    "Characters/NPC/Lette.md",
     "World/Regions/Sunna Guradan.md",
     "World/Regions/Molag Amur.md",
     "Races/Dwemer/The Calling.md",
     "Races/Dwemer/Puzzle Boxes.md",
     "Races/Dwemer/Ideographer.md",
     "Mythos/Earthbones.md",
-    "Item/Artifacts/Sword of the Moon Reiver.md",
-    "Flora/Trama.md",
-    "Factions/Ashlanders/Ghost Lantern.md",
-    "Daedra/Atronach Monarchs.md",
-    "Characters/NPC/Telvon.md",
-    "Characters/NPC/Runethyne Andas.md",
-    "Characters/NPC/Reynel Uvirith.md",
-    "Characters/NPC/Lette.md",
-    "Characters/NPC/Dro'zharim.md",
-    "Characters/NPC/Dratha.md",
-    "Characters/NPC/Divayth Fyr.md",
-    "Characters/NPC/Aryon.md",
+    "Mod/OAAB Grazelands.md",
+    "Mod/OAAB Tel Mora.md",
+    "Magic/Laws of Magic.md",
+    "Magic/Enchanting Candles.md",
     "Flora",
     "World/Settlements",
     "World/Regions",

@@ -1,4 +1,4 @@
-### OAAB
+### Modded
 Ashlanders may call Molag Amur the "fire lands". <sup>[1]</sup>
-### Mods
+### Source
 1. [[OAAB Grazelands]]
