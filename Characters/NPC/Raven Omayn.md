@@ -3,6 +3,7 @@
 ### Modded
 After Raven helps Aryon orchestrate the death of [[Dratha]] and [[Endar Drenim]] assuming lordship of [[Tel Mora]], it is implied that Raven will become the new spymaster of House Telvanni. <sup>[1]</sup>
 ### Quests
-Apply Pressure to the Wound <sup>[1]</sup>
+* Apply Pressure to the Wound <sup>[1]</sup>
+	* Raven tells the player that [[Dratha]] will be more amenable to allowing Temple healers in [[Tel Mora]] if the player deals with an experiment gone wrong under her tower.
 ### Source
 1. [[OAAB Tel Mora]]

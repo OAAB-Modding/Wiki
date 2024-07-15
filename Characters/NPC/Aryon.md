@@ -3,9 +3,18 @@
 
 During the [Telvanni Hortator](https://en.uesp.net/wiki/Morrowind:Telvanni_Hortator "Morrowind:Telvanni Hortator") part of the [Main Quest](https://en.uesp.net/wiki/Morrowind:Main_Quest "Morrowind:Main Quest"), Aryon understands the whole situation and immediately gives his vote for you to become Hortator of House Telvanni. He also offers advice on how to deal with the other Councilors. This is an example of his differences with the rest of House Telvanni, who are mainly concerned with slavery, artifacts, and their magickal studies.
 ### Quests
-A Monopoly on Spies <sup>[1]</sup>
-An Illusion of Time <sup>[1]</sup>
-Master Endar <sup>[1]</sup>
-Vote of No Confidence <sup>[1]</sup>
+* A Monopoly on Spies <sup>[1]</sup>
+	* Aryon sends the player to [[Galas Drenim]] after the mages guild monopoly quest to become more acquainted with politics.
+* An Illusion of Time <sup>[1]</sup>
+	* Aryon sends the player to [[Endar Drenim]] to discuss how to deal with the vampire attacks on [[Tel Mora]].
+* Vote of No Confidence <sup>[1]</sup>
+	* Aryon sends the player to learn more about the [[geas]] which [[Dratha]] is protecting herself with and ultimately to assassinate Dratha.
+* Master Endar <sup>[1]</sup>
+	* Aryon sends the player to talk to [[Endar Drenim]] about becoming the new Mage Lord of [[Tel Mora]].
+* Conserving Water <sup>[2]</sup>
+	* If the player shuts off the water supply to his conservatory in [[Tel Vos]], Aryon will become unhappy.
+* Imitation is the Sincerest Form of Forgery <sup>[1]</sup>
+	* Aryon asks the player to locate [[Milyn Faram]]'s [[Ideographer]] in Odirniran as he would like to acquire it.
 ### Source
 1. [[OAAB Tel Mora]]
+2. [[OAAB Grazelands]]

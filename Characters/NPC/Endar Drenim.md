@@ -9,8 +9,11 @@ Endar ultimately replaces [[Dratha]] as the Magelord of [[Tel Mora]].
 
 [[Drenim Family.canvas|Drenim Family]]
 ### Quests
-A Monopoly on Spies <sup>[1]</sup>
-An Illusion of Time <sup>[1]</sup>
-Master Endar <sup>[1]</sup>
+* A Monopoly on Spies <sup>[1]</sup>
+	* Endar sends the player to assassinate [[Chanil-Lee]] who he accuses of being a Mages Guild spy.
+* An Illusion of Time <sup>[1]</sup>
+	* Endar uses his illusion spell theory to counter the vampire attacks on [[Tel Mora]].
+* Master Endar <sup>[1]</sup>
+	* Endar thanks the player for their part in his elevation to Mage Lord of Tel Mora. The player has the option to provide Endar information about the [[geas]] which has now been transferred to him.
 ### Source
 1. [[OAAB Tel Mora]]

@@ -8,6 +8,7 @@ Borwen is suffering from a mental illness caused by Mistress [[Dratha]]'s usage 
 > Who knows what Dratha was trying to accomplish by focusing her memories into those stones, but we now have a root cause for what is affecting the subject. Unfortunately, even for a master such as myself, there is not much to be done now without potentially severe side effects. The subject's mind has been thoroughly damaged by the invasion of Dratha's memories. My only recommendation is for Mehra Othan to continue administering her salve to the Wood Elf."
 > -- [Yakin Bael](https://en.uesp.net/wiki/Morrowind:Yakin_Bael) (dialogue) <sup>[1]</sup>
 ### Quests
-Borwen's Headache <sup>[1]</sup>
+* Borwen's Headache <sup>[1]</sup>
+	* Borwen is not directly involved with this quest but is the subject of investigation into what ails her.
 ### Source
 1. [[OAAB Tel Mora]]

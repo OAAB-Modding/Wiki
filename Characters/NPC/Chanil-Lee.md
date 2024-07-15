@@ -5,6 +5,7 @@
 ### Modded
 Chanil-Lee is a Mages Guild spy agent who's currently staying at the Six Fishes in Ebonheart. She is ultimately assassinated by the player at the behest of [[Endar Drenim]] to prevent her from hampering House Telvanni's work with the Mages Guild monopoly vote on the Grand Council. <sup>[1]</sup>
 ### Quests
-A Monopoly on Spies <sup>[1]</sup>
+* A Monopoly on Spies <sup>[1]</sup> 💀
+	* Chanil-Lee is identified as an agent/spy of the Mages Guild and indirectly assassinated by the player in this quest.
 ### Source
 1. [[OAAB Tel Mora]]
