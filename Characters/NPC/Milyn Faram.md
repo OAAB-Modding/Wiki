@@ -10,5 +10,9 @@ The "dwemer machine" mentioned by Milyn Faram is known as an "[[Ideographer]]". 
 ### Quests
 * Imitation is the Sincerest Form of Forgery <sup>[1]</sup>
 	* Milyn sells his Dwemer [[Ideographer]] to [[Aryon]] and uses the funds to expand Odirniran.
+* Enchanted Quill Acquaintances <sup>[2]</sup>
+	* Milyn sends the player back to [[Galos Mathendis]] with an inscribed key.
+* The Final Door <sup>[1]</sup>
+	* Meets the player and [[Galos Mathendis]] at Indoranyon.
 ### Source
 1. [[OAAB Grazelands]]

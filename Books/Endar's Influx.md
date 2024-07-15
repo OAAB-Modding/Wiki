@@ -14,3 +14,5 @@ When the spell is completed, the victim's body will enter a state of stasis. The
 
 [Beyond this preface, the journal includes complex diagrams and formulaic proofs related to the theory of influx.]
 ```
+### Source
+1. [[OAAB Tel Mora]]

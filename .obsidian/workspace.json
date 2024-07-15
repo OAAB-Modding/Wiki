@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Milyn Faram.md",
+                "file": "Characters/NPC/Galos Mathendis.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Milyn Faram.md",
+                "file": "Characters/NPC/Galos Mathendis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Milyn Faram.md",
+                "file": "Characters/NPC/Galos Mathendis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Milyn Faram.md"
+                "file": "Characters/NPC/Galos Mathendis.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,34 +172,34 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "World/Dungeons/Odirniran.md",
-    "World/Regions/Molag Amur.md",
-    "World/Regions/Sunna Guradan.md",
-    "Characters/NPC/Aryon.md",
-    "World/Dungeons",
-    "Characters/NPC/Milyn Faram.md",
-    "Characters/NPC/Menus Felas.md",
-    "Characters/NPC/Smokeskin-Killer.md",
-    "Characters/NPC/Raven Omayn.md",
-    "World/Settlements/Tel Vos.md",
-    "World/Settlements/Tel Mora.md",
-    "Characters/NPC/Borwen.md",
-    "Characters/NPC/Hairan Mannanalit.md",
-    "Characters/NPC/Ashibaal.md",
-    "World/Settlements/Vos.md",
-    "Characters/NPC/Turedus Talanian.md",
-    "Characters/NPC/Endar Drenim.md",
-    "Characters/NPC/Yakin Bael.md",
-    "Characters/NPC/Telvon.md",
-    "Books/Endar's Influx.md",
-    "Books",
-    "Characters/NPC/Sonummu Zabamat.md",
-    "Magic/Laws of Magic.md",
-    "Magic/geas.md",
     "Magic/Enchanting Candles.md",
-    "Characters/NPC/Dratha.md",
+    "Characters/NPC/Galos Mathendis.md",
     "Characters/NPC/Reynel Uvirith.md",
+    "Characters/NPC/Milyn Faram.md",
+    "Characters/NPC/Endar Drenim.md",
+    "README.md",
+    "Characters/NPC/Yakin Bael.md",
+    "Characters/NPC/Turedus Talanian.md",
+    "Characters/NPC/Telvon.md",
+    "Characters/NPC/Sonummu Zabamat.md",
+    "Characters/NPC/Smokeskin-Killer.md",
+    "Characters/NPC/Runethyne Andas.md",
+    "Characters/NPC/Raven Omayn.md",
     "Characters/NPC/Radras.md",
+    "Characters/NPC/Menus Felas.md",
+    "Characters/NPC/Lette.md",
+    "Characters/NPC/Hairan Mannanalit.md",
+    "Characters/NPC/Godros.md",
+    "Characters/NPC/Galas Drenim.md",
+    "Characters/NPC/Erer Darothil.md",
+    "Characters/NPC/Dro'zharim.md",
+    "Characters/NPC/Dratha.md",
+    "Characters/NPC/Divayth Fyr.md",
+    "Characters/NPC/Chanil-Lee.md",
+    "Characters/NPC/Borwen.md",
+    "Characters/NPC/Berel Sala.md",
+    "World/Dungeons",
+    "Books",
     "Characters/Relationships/Drenim Family.canvas",
     "Flora",
     "World/Settlements",

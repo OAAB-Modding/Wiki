@@ -3,21 +3,23 @@
 
 If you advance far enough in House Telvanni, he will eventually step down and return to his research.
 ### Modded
-After he retires, Galos moves to Tel Vos where continues his research which is primarily focused on advanced enchanting techniques. <sup>[1]</sup>
+After he retires, Galos moves to Tel Vos where he continues his research which is primarily focused on advanced enchanting techniques. <sup>[2]</sup>
 
-Specifically, Galos is studying the function of enchanted doors. He sends an encoded message to [[Milyn Faram]] which reveals this if it is translated:
-
-> TO [[MILYN FARAM]]
-> YOUR LATEST DISCOVERY IS INCREDIBLE
-> IF YOU CAN PART WITH A SAMPLE I WOULD BE ETERNALLY GRATEFUL
-> I THINK THIS MIGHT BE THE KEY I HAVE BEEN SEARCHING FOR TO UNLOCK THE GREATER POTENTIAL OF ENCHANTED DOORS
-> YOU KNOW I HAVE STUDIED THOSE IN THE TELVANNI VAULT AND IN ARYONS OWN TOWER BUT THERE IS ANOTHER EXAMPLE I HOPE TO STUDY SOON
-> AT THE RUINS OF INDORANYON
-> YES EGROAMAROS LAIR
-> I BELIEVE THAT HIS STUDENT QORWYNN MAY HAVE ADVANCED BEYOND HIS MASTERS SKILLS BY SOLICITING THE POWER OF A DAEDRA
-> THOUGH I KNOW NOT WHOM
-> YOUR RESPECTFUL COLLEAGUE
-> GALOS MATHENDIS
-> -- Message from Galos Mathendis (book) <sup>[1]</sup>
+Specifically, Galos is studying the function of enchanted doors. The [[Message from Galos Mathendis]] contains an encoded message to [[Milyn Faram]] which reveals this if it is translated. <sup>[2]</sup>
+### Quests
+* House Telvanni: Baladas Demnevanni <sup>[1]</sup> 🗺️
+	* After this quest, Galos will be moved to [[Tel Vos]].
+		* `PositionCell 377 677 -256 222  "Tel Vos, Mouth's Chambers"`
+* A New Mouth for Master Aryon <sup>[2]</sup>
+	* Galos asks the player to track down [[Reynel Uvirith]] and convince her to be [[Aryon]]'s new Mouth.
+* A Lesson in Thieving <sup>[2]</sup>
+	* Galos sends the player to find him a copy of "The Final Lesson" book.
+* Waxing Pathetic Scamps <sup>[2]</sup>
+	* Galos sends the player to acquire scamp skin to render into wax for his [[enchanting candles]].
+* Enchanted Quill Acquaintances <sup>[2]</sup>
+	* Galos asks the player to bring an encoded message to [[Milyn Faram]].
+* The Final Door <sup>[2]</sup> 🚫
+	* Galos sends the player to ask [[Hairan Mannanalit]] a set of questions to help with his research. Then he sends the player to Indoranyon where he and [[Milyn Faram]] meet them. Finally, when the player returns to [[Tel Vos]], Galos is gone.
 ### Source
-1. [[OAAB Grazelands]]
+1. Vanilla
+2. [[OAAB Grazelands]]

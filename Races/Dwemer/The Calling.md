@@ -1,6 +1,5 @@
 ### Modded
-> Recent archeological successes have allowed a coherer and set of cylinders to come into my possession. These strange devices appear to have been used to augment a telepathic link between the ancient Dwemer.
-> -- Dwemer Museum Additions (book) <sup>[1]</sup>
+The coherers and cylinders found in Dwemer ruins may have been related to the mysterious Dwemer ability to communicate at a distance. This is alluded to in by [[Aryon]] in the second addition of his [[Dwemer Museum Additions]] notes.
 ### Source
 1. [[OAAB Grazelands]]
 
