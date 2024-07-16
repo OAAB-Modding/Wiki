@@ -3,7 +3,7 @@ The Sword of the Moon Reiver (also known as the **Broadsword of the Moon Reiv
 ### Modded
 In the possession of Master [[Aryon]]. According to a [[Letter from Master Fyr]], the sword was a gift from [[Divayth Fyr]].
 
-> This daedric blade was forged from the magical substance of the Lord of Destruction himself and recovered from the ruins of The Battlespire several years after its demise. You know that this is one of my prized possessions, but do not attempt to return it to me. I pass it on to you for I have no need of its affinity for destruction. But I believe a time is coming when possessing such an artifact will be more useful than simply as a conduit for studying the daedra. And if anyone is capable of discerning the practical applications when that time comes, I know it is you.
+> "This daedric blade was forged from the magical substance of the Lord of Destruction himself and recovered from the ruins of The Battlespire several years after its demise. You know that this is one of my prized possessions, but do not attempt to return it to me. I pass it on to you for I have no need of its affinity for destruction. But I believe a time is coming when possessing such an artifact will be more useful than simply as a conduit for studying the daedra. And if anyone is capable of discerning the practical applications when that time comes, I know it is you."
 > -- Letter from Master Fyr (book) <sup>[1]</sup>
 ### Source
 1. [[OAAB Grazelands]]

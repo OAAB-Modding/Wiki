@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"25d3ea7fac12388d","type":"text","text":"Drenim Family","x":-300,"y":-20,"width":250,"height":60},
 		{"id":"43c1481c7ab42703","type":"text","text":"[[Endar Drenim]]","x":-300,"y":90,"width":250,"height":60},
-		{"id":"92b89c9ec1e8e226","type":"text","text":"Galas Drenim","x":-140,"y":240,"width":250,"height":60},
+		{"id":"92b89c9ec1e8e226","type":"text","text":"[[Galas Drenim]]","x":-140,"y":240,"width":250,"height":60},
 		{"id":"f72582baf839a30d","type":"text","text":"Mavon Drenim","x":-460,"y":240,"width":250,"height":60}
 	],
 	"edges":[

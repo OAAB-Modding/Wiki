@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"25d3ea7fac12388d","type":"text","text":"Uvirith Family","x":-300,"y":-20,"width":250,"height":60},
+		{"id":"43c1481c7ab42703","type":"text","text":"[[Reynel Uvirith]]","x":-300,"y":90,"width":250,"height":60},
+		{"id":"92b89c9ec1e8e226","type":"text","text":"Ulyno Uvirith","x":-140,"y":240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c00a66a849ad00c1","fromNode":"25d3ea7fac12388d","fromSide":"bottom","toNode":"43c1481c7ab42703","toSide":"top"},
+		{"id":"2eb0ecf7a7406cfe","fromNode":"43c1481c7ab42703","fromSide":"right","toNode":"92b89c9ec1e8e226","toSide":"right","label":"Cousins"}
+	]
+}
