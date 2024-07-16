@@ -3,7 +3,7 @@
 
 If you advance far enough in House Telvanni, he will eventually step down and return to his research.
 ### Modded
-After he retires, Galos moves to Tel Vos where he continues his research which is primarily focused on advanced enchanting techniques. <sup>[2]</sup>
+After he retires, Galos moves to [[Tel Vos]] where he continues his research which is primarily focused on advanced enchanting techniques. <sup>[2]</sup>
 
 Specifically, Galos is studying the function of enchanted doors. The [[Message from Galos Mathendis]] contains an encoded message to [[Milyn Faram]] which reveals this if it is translated. <sup>[2]</sup>
 ### Quests

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Galos Mathendis.md",
+                "file": "Characters/NPC/Alenus Vendu.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Galos Mathendis.md",
+                "file": "Characters/NPC/Alenus Vendu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Galos Mathendis.md",
+                "file": "Characters/NPC/Alenus Vendu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Galos Mathendis.md"
+                "file": "Characters/NPC/Alenus Vendu.md"
               }
             }
           },
@@ -172,32 +172,32 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Magic/Enchanting Candles.md",
-    "Characters/NPC/Galos Mathendis.md",
-    "Characters/NPC/Reynel Uvirith.md",
-    "Characters/NPC/Milyn Faram.md",
-    "Characters/NPC/Endar Drenim.md",
-    "README.md",
+    "Characters/NPC/Ashibaal.md",
+    "Characters/NPC/Alenus Vendu.md",
+    "Characters/NPC/Goler Andrethi.md",
+    "Characters/NPC/Burcanius Varo.md",
+    "Characters/NPC/Milar Maryon.md",
+    "Characters/NPC/Kirsty.md",
+    "Characters/NPC/Dreynos Elvul.md",
+    "Characters/NPC/Borwen.md",
     "Characters/NPC/Yakin Bael.md",
     "Characters/NPC/Turedus Talanian.md",
     "Characters/NPC/Telvon.md",
     "Characters/NPC/Sonummu Zabamat.md",
     "Characters/NPC/Smokeskin-Killer.md",
     "Characters/NPC/Runethyne Andas.md",
+    "Characters/NPC/Reynel Uvirith.md",
     "Characters/NPC/Raven Omayn.md",
     "Characters/NPC/Radras.md",
+    "Characters/NPC/Milyn Faram.md",
     "Characters/NPC/Menus Felas.md",
     "Characters/NPC/Lette.md",
     "Characters/NPC/Hairan Mannanalit.md",
     "Characters/NPC/Godros.md",
+    "Characters/NPC/Galos Mathendis.md",
     "Characters/NPC/Galas Drenim.md",
     "Characters/NPC/Erer Darothil.md",
-    "Characters/NPC/Dro'zharim.md",
-    "Characters/NPC/Dratha.md",
-    "Characters/NPC/Divayth Fyr.md",
-    "Characters/NPC/Chanil-Lee.md",
-    "Characters/NPC/Borwen.md",
-    "Characters/NPC/Berel Sala.md",
+    "Characters/NPC/Endar Drenim.md",
     "World/Dungeons",
     "Books",
     "Characters/Relationships/Drenim Family.canvas",
