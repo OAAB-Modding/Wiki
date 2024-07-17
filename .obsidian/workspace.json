@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Arara Uvulas.md",
+                "file": "Characters/NPC/Goler Andrethi.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Arara Uvulas.md",
+                "file": "Characters/NPC/Goler Andrethi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Arara Uvulas.md",
+                "file": "Characters/NPC/Goler Andrethi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Arara Uvulas.md"
+                "file": "Characters/NPC/Goler Andrethi.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,45 +172,45 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Characters/NPC/Felisa Ulessen.md",
-    "Characters/NPC/Arara Uvulas.md",
-    "Characters/NPC/Mallam Ryon.md",
-    "Characters/NPC/Raven Omayn.md",
-    "Characters/NPC/Galos Mathendis.md",
-    "Characters/NPC/Milyn Faram.md",
+    "Characters/NPC/Smokeskin-Killer.md",
+    "Characters/NPC/Burcanius Varo.md",
+    "Characters/NPC/Dro'zharim.md",
+    "Magic/Enchanting Candles.md",
+    "Factions/Ashlanders/Salkurnudai.md",
+    "Characters/NPC/Turedus Talanian.md",
+    "Law/Indentured Servitude.md",
+    "World/Dungeons/Molaguradan.md",
+    "Item/Ingredients/Telvanni Resin.md",
+    "Daedra/Atronach Monarch.md",
+    "Beasts/Rats.md",
+    "Law",
+    "Beasts/Nix-Hound.md",
+    "World/Dungeons/Odirniran.md",
+    "Beasts/Kwama.md",
+    "Beasts/Maneater.md",
+    "Characters/NPC/Maela Kaushad.md",
+    "Item/Ingredients",
+    "Magic/magic doors.md",
+    "World/Regions/Sunna Guradan.md",
+    "Characters/NPC/Eldrilu Dalen.md",
+    "Characters/NPC/Yakin Bael.md",
     "Characters/NPC/Milar Maryon.md",
-    "Characters/NPC/Erer Darothil.md",
-    "Characters/Relationships/Aryon.canvas",
+    "Characters/NPC/Menus Felas.md",
+    "Beasts",
     "Characters/NPC/Mirvon Andrethi.md",
-    "Characters/NPC/Chanil-Lee.md",
+    "Characters/NPC/Alenus Vendu.md",
+    "Characters/NPC/Andil.md",
     "Characters/NPC/Aryon.md",
-    "Characters/NPC/Endar Drenim.md",
+    "Characters/Relationships/Aryon.canvas",
     "Characters/Relationships/Uvirith Family.canvas",
     "Characters/Relationships/Drenim Family.canvas",
-    "Characters/NPC/Reynel Uvirith.md",
-    "Characters/NPC/Alenus Vendu.md",
-    "Characters/NPC/Smokeskin-Killer.md",
-    "Factions/Ashlanders/Salkurnudai.md",
-    "Item/Artifacts/Sword of the Moon Reiver.md",
-    "Daedra/Verminoth.md",
-    "Daedra/Atronach Monarch.md",
-    "Factions/Ashlanders/Ghost Lantern.md",
-    "Factions/Telvanni/Mouth.md",
-    "Magic/Enchanting Candles.md",
     "Factions/Telvanni",
-    "Magic/Untitled.md",
-    "Characters/NPC/Ashibaal.md",
-    "Characters/NPC/Goler Andrethi.md",
-    "Characters/NPC/Burcanius Varo.md",
     "World/Dungeons",
     "Books",
     "Flora",
     "World/Settlements",
     "World/Regions",
     "Untitled.canvas",
-    "Language",
-    "Characters/Relationships",
-    "Characters/NPC",
-    "Races"
+    "Language"
   ]
 }

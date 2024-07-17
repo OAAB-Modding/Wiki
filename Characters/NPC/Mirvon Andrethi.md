@@ -9,5 +9,8 @@ Mirvon is the Andrethi cousin of [[Aryon]] who is a student of the Marshmerrow s
 > -- Mirvon Andrethi (dialogue) <sup>[1]</sup>
 
 Relationships: [[Aryon.canvas|Aryon]]
+### Quests
+* The Domain of Living Fire <sup>[1]</sup>
+	* Despite [[Aryon]]'s request to provide the player with free training, Mirvon will instead offer prayers for the player in their fight against the flame monarch.
 ### Source
 1. [[OAAB Grazelands]]

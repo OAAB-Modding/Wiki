@@ -5,5 +5,7 @@ He is interested in building bridges to the local [Ashlanders](https://en.uesp.
 ### Quests
 * Let The Ebony Flow <sup>[1]</sup>
 	* Turedus hires the player visit the Zainab ashlanders and convince them to ship the ebony they're trading with House Hlaalu through [[Vos]].
+* Rogue Ashlander Bounty <sup>[1]</sup>
+	* Turedus will pay the player for killing Sur Surishpi and Yan Assinabi, two rogue ashlanders encamped outside of Vos.
 ### Source
 1. [[OAAB Grazelands]]

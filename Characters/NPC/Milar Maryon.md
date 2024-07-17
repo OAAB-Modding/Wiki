@@ -3,5 +3,7 @@
 ### Quests
 * Smokeskin-Willer <sup>[1]</sup>
 	* Milar asks the player to collect ingredients for him to cerate a Fortify Willpower potion for [[Smokeskin-Killer]].
+* The Domain of Living Fire <sup>[1]</sup>
+	* At [[Aryon]]'s request, Milar will give the player some bandages to help fight the flame monarch.
 ### Source
 1. [[OAAB Grazelands]]

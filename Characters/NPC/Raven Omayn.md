@@ -3,7 +3,7 @@
 ### Modded
 After Raven helps [[Aryon]] orchestrate the death of [[Dratha]] and [[Endar Drenim]] assuming lordship of [[Tel Mora]], it is implied that Raven will become the new spymaster of House Telvanni. <sup>[1]</sup>
 
-Galos Mathendis implies that Raven has a dark personality. <sup>[2]</sup>
+[[Galos Mathendis]] implies that Raven has a dark personality. <sup>[2]</sup>
 
 > "Hello again, %PCName. Come to ask questons about my research? At least you don't have to worry about mine involving unholy powers at every turn. Unlike with Raven Omayn and Dratha. I used to hear Raven muttering things to herself, dark, brooding things. I don't miss her company."
 > -- [[Galos Mathendis]] (dialogue) <sup>[2]</sup>

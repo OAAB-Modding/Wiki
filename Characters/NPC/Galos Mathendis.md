@@ -12,10 +12,10 @@ Specifically, Galos is studying the function of enchanted doors. The [[Message f
 		* `PositionCell 377 677 -256 222  "Tel Vos, Mouth's Chambers"`
 * A New Mouth for Master Aryon <sup>[2]</sup>
 	* Galos asks the player to track down [[Reynel Uvirith]] and convince her to be [[Aryon]]'s new Mouth.
-* A Lesson in Thieving <sup>[2]</sup>
-	* Galos sends the player to find him a copy of "The Final Lesson" book.
 * Waxing Pathetic Scamps <sup>[2]</sup>
 	* Galos sends the player to acquire scamp skin to render into wax for his [[enchanting candles]].
+* A Lesson in Thieving <sup>[2]</sup>
+	* Galos sends the player to find him a copy of "The Final Lesson" book.
 * Enchanted Quill Acquaintances <sup>[2]</sup>
 	* Galos asks the player to bring an encoded message to [[Milyn Faram]].
 * The Final Door <sup>[2]</sup> 🚫

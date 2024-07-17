@@ -3,5 +3,7 @@
 ### Quests
 * Borwen's Headache <sup>[1]</sup>
 	* Yakin provides insight into [[Borwen]]'s affliction of the mind which has been induced by [[Dratha]]'s usage of memory stones.
+* Mer-Eater Nix-Hound <sup>[1]</sup>
+	* Yakin has some comments about [[maneater]] [[nix-hound]]s to share with the player.
 ### Source
 1. [[OAAB Tel Mora]]

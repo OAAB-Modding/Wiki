@@ -3,5 +3,7 @@
 ### Quests
 * Magical Misdeeds <sup>[1]</sup>
 	* Alenus sends the player to locate her missing, enchanted wares which have been stolen by a scamp.
+* The Domain of Living Fire <sup>[1]</sup>
+	* At [[Aryon]]'s request, Alenus will give the player a fire shield ring and soul trapping equipment to help fight the flame monarch.
 ### Source
 1. [[OAAB Grazelands]]
