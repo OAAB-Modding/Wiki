@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Goler Andrethi.md",
+                "file": "Item/Ingredients/Pomegranate.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Goler Andrethi.md",
+                "file": "Item/Ingredients/Pomegranate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Goler Andrethi.md",
+                "file": "Item/Ingredients/Pomegranate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Goler Andrethi.md"
+                "file": "Item/Ingredients/Pomegranate.md"
               }
             }
           },
@@ -172,6 +172,11 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
+    "Beasts/Kwama.md",
+    "Item/Ingredients/Pomegranate.md",
+    "Mod/OAAB_Data.md",
+    "Mod/OAAB Tel Mora.md",
+    "Characters/NPC/Goler Andrethi.md",
     "Characters/NPC/Smokeskin-Killer.md",
     "Characters/NPC/Burcanius Varo.md",
     "Characters/NPC/Dro'zharim.md",
@@ -186,7 +191,6 @@
     "Law",
     "Beasts/Nix-Hound.md",
     "World/Dungeons/Odirniran.md",
-    "Beasts/Kwama.md",
     "Beasts/Maneater.md",
     "Characters/NPC/Maela Kaushad.md",
     "Item/Ingredients",
@@ -197,10 +201,6 @@
     "Characters/NPC/Milar Maryon.md",
     "Characters/NPC/Menus Felas.md",
     "Beasts",
-    "Characters/NPC/Mirvon Andrethi.md",
-    "Characters/NPC/Alenus Vendu.md",
-    "Characters/NPC/Andil.md",
-    "Characters/NPC/Aryon.md",
     "Characters/Relationships/Aryon.canvas",
     "Characters/Relationships/Uvirith Family.canvas",
     "Characters/Relationships/Drenim Family.canvas",
