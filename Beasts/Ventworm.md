@@ -1,0 +1,1 @@
+Live near hot sulfur/brimstone/lava areas.

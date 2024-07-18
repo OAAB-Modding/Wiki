@@ -1,0 +1,3 @@
+Heather is an opportunistic shrub which can be found throughout northern Tamriel. Its hardy nature has even allowed it to adapt to Vvardenfell's unique soils. It is unclear whether the relatively recent blight phenomenon will impact its ability to thrive on the island. A low fern-like evergreen shrub with tiny sharp needle-like leaves along twigs. Flowers pink, in clusters. Ankle high. Found near roadsides, areas of sparse vegetation. Ascadian Isles. While heather is mostly useless to the average alchemist, its delicate blossoms are used to lighten the mood in many a dwelling throughout Tamriel. <sup>[1]</sup>
+### Source
+1. [[Common Wildflowers of Vvardenfell]]

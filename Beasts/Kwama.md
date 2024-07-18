@@ -7,6 +7,8 @@
 ### Forager
 > The kwama forager scouts the surface of the land and natural underground passages, searching for suitable locations for new colonies, and hunting for prey. Foragers are aggressive but not very dangerous. When they return, they are often severely engorged with food for the colony. They will then be suspended in a place where they can provide nourishment to other kwama. I'd recommend avoiding any such foragers you see, lest you stimulate them to regurgitate their food onto yourself.
 > -- Egg Miner (dialogue) <sup>[1]</sup>
+### Lifecycle
+[[Kwama Lifecycle.canvas|Kwama Lifecycle]]
 ### Queen
 > The kwama queen is the huge, bloated kwama that produces the colony's eggs and their meaty, blood-filled nests. The queens are too large and fat to move, and all their needs are attended by worker kwama.
 > -- Egg Miner (dialogue) <sup>[1]</sup>
