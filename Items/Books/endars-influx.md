@@ -4,9 +4,10 @@ aliases:
   - Endar's Influx
   - Endar's Theory
   - Theory of Influx
-tags:
-  - Books
 description: Endar Drenim's Theory of Influx.
+tags:
+  - Items
+  - Books
 ---
 ```
 Theory of Influx

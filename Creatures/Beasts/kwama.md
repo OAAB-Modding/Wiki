@@ -9,6 +9,7 @@ aliases:
   - Kwama Warrior
 description: Kwama are large insectoids native to Vvardenfell, which are usually kept for their eggs.
 tags:
+  - Creatures
   - Beasts
 ---
 ### Colony

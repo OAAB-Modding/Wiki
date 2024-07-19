@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/index.md",
+                "file": "Factions/Telvanni/mouth.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/index.md",
+                "file": "Factions/Telvanni/mouth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/index.md",
+                "file": "Factions/Telvanni/mouth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/index.md"
+                "file": "Factions/Telvanni/mouth.md"
               }
             }
           },
@@ -172,46 +172,46 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Beasts/index.md",
-    "Books/index.md",
-    "Beasts/kwama.md",
-    "Beasts/nix-hound.md",
-    "Books/verminoth-note.md",
-    "Books/message-from-galos-mathendis.md",
-    "Books/letter-from-master-fyr.md",
-    "Books/endars-influx.md",
-    "Books/dwemer-museum-additions.md",
-    "Books/crumpled-note.md",
-    "Books/common-wildflowers-of-vvardenfell.md",
-    "Beasts/maneater.md",
-    "Beasts/rats.md",
-    "Beasts/ventworm.md",
+    "Factions/Ashlanders/salkurnudai.md",
+    "Factions/Ashlanders/ghost-lantern.md",
+    "Factions/Telvanni/index.md",
+    "Factions/Ashlanders/index.md",
+    "Creatures/Daedra/verminoth.md",
+    "Creatures/Daedra/atronach-monarch.md",
+    "Creatures/Beasts/index.md",
+    "Creatures/Daedra/index.md",
+    "Creatures/index.md",
+    "Creatures/Beasts/maneater.md",
+    "Creatures/Beasts/kwama.md",
+    "Creatures/Beasts/nix-hound.md",
+    "Creatures/Beasts/rats.md",
+    "Creatures/Beasts/ventworm.md",
+    "Creatures",
+    "Items/Books/verminoth-note.md",
+    "Items/Books/message-from-galos-mathendis.md",
+    "Items/Books/letter-from-master-fyr.md",
+    "Items/Books/index.md",
+    "Items/Books/endars-influx.md",
+    "Items/Books/dwemer-museum-additions.md",
+    "Items/Books/crumpled-note.md",
+    "Items/Books/common-wildflowers-of-vvardenfell.md",
     "Beasts/!Beasts.md",
-    "NPC/Endar Drenim.md",
-    "NPC/Reynel Uvirith.md",
-    "NPC/Galas Drenim.md",
-    "NPC/Divayth Fyr.md",
-    "NPC/Aryon.md",
-    "NPC/Mirvon Andrethi.md",
-    "Item/Alchemy/Yamuz.md",
-    "Item/Alchemy/Musa.md",
-    "Item/Alchemy/Sillapi.md",
-    "Item/Miscellaneous/Triune.md",
-    "Item/Miscellaneous/Nine-holes.md",
-    "Item/Miscellaneous",
+    "NPCs/Endar Drenim.md",
+    "NPCs/Reynel Uvirith.md",
+    "NPCs/Galas Drenim.md",
+    "Items/Miscellaneous",
     "Charts/Uvirith Family.canvas",
     "Charts/Kwama Lifecycle.canvas",
     "Charts/Drenim Family.canvas",
     "Charts/Aryon.canvas",
-    "Item/Alchemy",
+    "Items/Alchemy",
     "Law",
-    "Item/Ingredients",
-    "Beasts",
+    "Items/Ingredients",
+    "Creatures/Beasts",
     "Factions/Telvanni",
     "World/Dungeons",
-    "Books",
+    "Items/Books",
     "Flora",
-    "World/Settlements",
     "Untitled.canvas"
   ]
 }

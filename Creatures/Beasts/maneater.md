@@ -7,6 +7,7 @@ aliases:
   - Mer-eater
 description: Beasts who consume the flesh of man or mer are named "maneaters".
 tags:
+  - Creatures
   - Beasts
 ---
 Beasts who consume the flesh of man or mer are named "maneaters" and generally must be put down once they have a taste for it. Some cultures assign mystical powers to these beasts. <sup>[1]</sup>

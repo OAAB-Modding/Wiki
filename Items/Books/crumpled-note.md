@@ -2,9 +2,10 @@
 title: Crumpled Note
 aliases:
   - Crumpled Note
-tags:
-  - Books
 description: Love letter from Runethyne Andas.
+tags:
+  - Items
+  - Books
 ---
 
 ```

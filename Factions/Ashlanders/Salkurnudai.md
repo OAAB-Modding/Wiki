@@ -1,3 +1,13 @@
+---
+title: Salkurnudai
+aliases:
+  - Salkurnudai
+description: An extinct Ashlander tribe who used to live in the Grazelands region.
+tags:
+  - Factions
+  - Ashlanders
+---
+### Modded
 An extinct Ashlander tribe who used to live in the Grazelands region.
 
 > "I have never heard that name uttered in the waking world, %PCName. Yes, I know it. The Salkurnudai were an ancient tribe who lived in these lands before the sea divided us. Where did you hear it?"

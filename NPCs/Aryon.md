@@ -24,7 +24,7 @@ class A,B internal-link;
 * Imitation is the Sincerest Form of Forgery <sup>[2]</sup>
 	* Aryon asks the player to locate [[Milyn Faram]]'s [[Ideographer]] in Odirniran as he would like to acquire it.
 * The Domain of Living Fire <sup>[2]</sup>
-	* Aryon sends the player to kill the flame [[atronach monarch]] beneath [[Tel Vos]] in the caverns of Molaguradan.
+	* Aryon sends the player to kill the flame [[atronach-monarch]] beneath [[Tel Vos]] in the caverns of Molaguradan.
 * * A Smidge Too Far <sup>[2]</sup>
 	* Aryon agrees to help the paralyzed Breton trader in [[Tel Mora]] and asks the player to fetch a potion of cure paralyzation so he can create a special cure.
 ### Source

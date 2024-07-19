@@ -1,3 +1,13 @@
+---
+title: Ghost Lantern
+aliases:
+  - Ghost Lantern
+  - Eerie Lantern
+description: The ghost lantern is a physical manifestation of the ancestor spirit's link to the otherworld.
+tags:
+  - Factions
+  - Ashlanders
+---
 ### Modded
 
 > "You met an ancestor, %PCName. A sacred and serious demonstration of favor. That lantern you found, we call it a ghost lantern. On occasion, our ancestors will walk the blessed lands of [[Sunna Guradan]] in flesh by their own volition. This land is pleasant for them and free of any mortal chill which they shun. Sometimes they long for the warm breeze of Red Mountain to touch their skin again."

@@ -4,6 +4,7 @@ aliases:
   - Nix-Hound
 description: The nix-hound is a medium-sized, aggressive pack predator.
 tags:
+  - Creatures
   - Beasts
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Beasts#Nix-Hound)

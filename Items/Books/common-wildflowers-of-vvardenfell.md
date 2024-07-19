@@ -3,9 +3,10 @@ title: Common Wildflowers of Vvardenfell
 aliases:
   - Common Wildflowers of Vvardenfell
   - Wildflowers of Vvardenfell
-tags:
-  - Books
 description: A field guide to wildflower species from the Ascadian Isles.
+tags:
+  - Items
+  - Books
 ---
 ```
 by Vicia Laeta

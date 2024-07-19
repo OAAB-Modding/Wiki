@@ -2,9 +2,10 @@
 title: Dwemer Museum Additions
 aliases:
   - Dwemer Museum Additions
-tags:
-  - Books
 description: A collection of notes which appear in the Dwemer Museum in Tel Vos.
+tags:
+  - Items
+  - Books
 ---
 ### First Addition
 ```
