@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Reynel Uvirith.md",
+                "file": "Item/Alchemy/Yamuz.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPC/Reynel Uvirith.md",
+                "file": "Item/Alchemy/Yamuz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPC/Reynel Uvirith.md",
+                "file": "Item/Alchemy/Yamuz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPC/Reynel Uvirith.md"
+                "file": "Item/Alchemy/Yamuz.md"
               }
             }
           },
@@ -172,36 +172,38 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
+    "Item/Alchemy/Musa.md",
+    "Item/Alchemy/Yamuz.md",
+    "Item/Alchemy/Sillapi.md",
+    "Item/Miscellaneous/Triune.md",
+    "Item/Miscellaneous/Nine-holes.md",
+    "Magic/Enchanting Candles.md",
+    "Item/Miscellaneous",
+    "Beasts/Kwama.md",
+    "Flora/Golden Reed.md",
+    "Flora/Harrada.md",
+    "Flora/Gold Kanet.md",
+    "Flora/Vicious Chanterelle.md",
+    "Flora/Glowing Chanterelle.md",
+    "Flora/Veiled Urnula.md",
+    "Flora/Blistering Fomentarius.md",
+    "Flora/Trama.md",
+    "Flora/Stoneflower.md",
+    "Flora/Pomegranate.md",
+    "Flora/Dustcap.md",
+    "Flora/Cinderspark Lichen.md",
+    "Flora/Blue Kanet.md",
+    "Flora/Bloodgrass.md",
+    "Flora/Black Anther.md",
+    "Flora/Willow Flower.md",
+    "Flora/Heather.md",
+    "Characters/NPC/Reynel Uvirith.md",
     "Charts/Uvirith Family.canvas",
     "Characters/NPC/Endar Drenim.md",
-    "Beasts/Kwama.md",
     "Charts/Kwama Lifecycle.canvas",
-    "Characters/NPC/Galas Drenim.md",
     "Charts/Drenim Family.canvas",
-    "Characters/NPC/Aryon.md",
     "Charts/Aryon.canvas",
-    "Beasts/Ventworm.md",
-    "Flora/Willow Flower.md",
-    "Flora/Black Anther.md",
-    "Books/Common Wildflowers of Vvardenfell.md",
-    "Flora/Stoneflower.md",
-    "Flora/Heather.md",
-    "Flora/Pomegranate.md",
-    "Flora/Gold Kanet.md",
-    "Flora/Blue Kanet.md",
-    "Factions/Ashlanders/Ghost Lantern.md",
-    "Books/Crumpled note.md",
-    "Factions/Ashlanders/Salkurnudai.md",
-    "Item/Alchemy/Sillapi.md",
     "Item/Alchemy",
-    "Mod/OAAB_Data.md",
-    "Mod/OAAB Tel Mora.md",
-    "Characters/NPC/Goler Andrethi.md",
-    "Characters/NPC/Smokeskin-Killer.md",
-    "Characters/NPC/Burcanius Varo.md",
-    "Characters/NPC/Dro'zharim.md",
-    "Magic/Enchanting Candles.md",
-    "Characters/NPC/Turedus Talanian.md",
     "Law",
     "Item/Ingredients",
     "Beasts",
@@ -210,7 +212,6 @@
     "Books",
     "Flora",
     "World/Settlements",
-    "World/Regions",
     "Untitled.canvas"
   ]
 }

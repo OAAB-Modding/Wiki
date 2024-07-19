@@ -1,0 +1,1 @@
+Nine-holes is a Cyrodilic game which uses three red and three white pins. The goal is to get 3 in a row.

@@ -11,21 +11,21 @@
 ```mermaid
 flowchart TD
 
-    A("Scrib") -- Cocoon --> B("Forager") & ne("Grubber")
+    A("Egg") --> nm("Forager") & n6("Scrib")
 
-    nx("Egg") --> A
+    n6 -- Cocoon --> no("Grubber")
 
-    B --> nd("Queen")
+    no -- Molting --> nb("Worker")
 
-    B -- Mating --> n9("Warrior")
+    nb --> ny("Warrior")
 
-    ne -- Molting --> n2("Worker")
+    nb -- Mating --> n2("Queen")
 
-    n2 --> n9
+    nm -- Mating --> ny
 
-    n2 -- Mating --> nd
+    nm --> n2
 
-    nd --> nx
+    n2 --> A
 ```
 ### Queen
 > The kwama queen is the huge, bloated kwama that produces the colony's eggs and their meaty, blood-filled nests. The queens are too large and fat to move, and all their needs are attended by worker kwama.
