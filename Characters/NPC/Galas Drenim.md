@@ -3,7 +3,15 @@
 ### Modded
 Galas is stepsister of [[Endar Drenim]]. <sup>[1]</sup>
 
-[[Drenim Family.canvas|Drenim Family]] <sup>[1]</sup>
+```mermaid
+flowchart TD
+
+    A("Endar Drenim") -- ??? --> B("Mavon Drenim")
+
+    nx[\"Drenim Family"/] --> A
+
+    A -- Step Siblings --> ne("Galas Drenim")
+```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
 	* Tells the player about politics in Morrowind and directs them to her stepbrother, [[Endar Drenim]] to learn about House Telvanni's spy network.

@@ -5,7 +5,10 @@ During the [Telvanni Hortator](https://en.uesp.net/wiki/Morrowind:Telvanni_Hort
 ### Modded
 Aryon is cousins with [[Mirvon Andrethi]].
 
-Relationships: [[Aryon.canvas|Aryon]]
+```mermaid
+flowchart TD
+A("Aryon") -- Cousins --> B("Mirvon Andrethi")
+```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
 	* Aryon sends the player to [[Galas Drenim]] after the mages guild monopoly quest to become more acquainted with politics.

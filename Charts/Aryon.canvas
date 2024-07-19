@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"43c1481c7ab42703","type":"text","text":"[[Aryon]]","x":-300,"y":90,"width":250,"height":60},
-		{"id":"92b89c9ec1e8e226","type":"text","text":"[[Mirvon Andrethi]]","x":-140,"y":240,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"2eb0ecf7a7406cfe","fromNode":"43c1481c7ab42703","fromSide":"right","toNode":"92b89c9ec1e8e226","toSide":"right","label":"Cousins"}
-	]
-}

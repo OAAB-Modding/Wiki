@@ -11,14 +11,11 @@
             "id": "29a51fd5f1ac50e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Charts/Kwama Lifecycle.canvas",
-                "viewState": {
-                  "x": -25.5,
-                  "y": 180,
-                  "zoom": 0
-                }
+                "file": "Characters/NPC/Reynel Uvirith.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charts/Kwama Lifecycle.canvas",
+                "file": "Characters/NPC/Reynel Uvirith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charts/Kwama Lifecycle.canvas",
+                "file": "Characters/NPC/Reynel Uvirith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charts/Kwama Lifecycle.canvas"
+                "file": "Characters/NPC/Reynel Uvirith.md"
               }
             }
           },
@@ -175,6 +172,14 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
+    "Charts/Uvirith Family.canvas",
+    "Characters/NPC/Endar Drenim.md",
+    "Beasts/Kwama.md",
+    "Charts/Kwama Lifecycle.canvas",
+    "Characters/NPC/Galas Drenim.md",
+    "Charts/Drenim Family.canvas",
+    "Characters/NPC/Aryon.md",
+    "Charts/Aryon.canvas",
     "Beasts/Ventworm.md",
     "Flora/Willow Flower.md",
     "Flora/Black Anther.md",
@@ -186,8 +191,6 @@
     "Flora/Blue Kanet.md",
     "Factions/Ashlanders/Ghost Lantern.md",
     "Books/Crumpled note.md",
-    "Beasts/Kwama.md",
-    "Charts/Kwama Lifecycle.canvas",
     "Factions/Ashlanders/Salkurnudai.md",
     "Item/Alchemy/Sillapi.md",
     "Item/Alchemy",
@@ -199,16 +202,9 @@
     "Characters/NPC/Dro'zharim.md",
     "Magic/Enchanting Candles.md",
     "Characters/NPC/Turedus Talanian.md",
-    "Law/Indentured Servitude.md",
-    "World/Dungeons/Molaguradan.md",
-    "Item/Ingredients/Telvanni Resin.md",
-    "Daedra/Atronach Monarch.md",
     "Law",
     "Item/Ingredients",
     "Beasts",
-    "Charts/Aryon.canvas",
-    "Charts/Uvirith Family.canvas",
-    "Charts/Drenim Family.canvas",
     "Factions/Telvanni",
     "World/Dungeons",
     "Books",

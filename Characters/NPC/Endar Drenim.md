@@ -5,9 +5,17 @@ Endar Drenim is head spymaster for House Telvanni on Vvardenfell. He currently l
 > "Endar manages the Telvanni spy network here on Vvardenfell -- of course that isn't public knowledge and I trust you'll keep it to yourself. He's a dangerous man to make enemies with; as several assassins have learned who died by his blade or spell. He's currently living in Tel Naga, Sadrith Mora."
 > -- [[Galas Drenim]] (dialogue) <sup>[1]</sup>
 
-Endar ultimately replaces [[Dratha]] as the Magelord of [[Tel Mora]]. <sup>[1]</sup>
+Endar ultimately replaces [[Dratha]] as the Mage Lord of [[Tel Mora]]. <sup>[1]</sup>
 
-Relationships: [[Drenim Family.canvas|Drenim Family]]
+```mermaid
+flowchart TD
+
+    A("Endar Drenim") -- ??? --> B("Mavon Drenim")
+
+    nx[\"Drenim Family"/] --> A
+
+    A -- Step Siblings --> ne("Galas Drenim")
+```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
 	* Endar sends the player to assassinate [[Chanil-Lee]] who he accuses of being a Mages Guild spy.
