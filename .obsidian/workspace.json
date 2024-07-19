@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Telvanni/mouth.md",
+                "file": "Flora/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Telvanni/mouth.md",
+                "file": "Flora/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Telvanni/mouth.md",
+                "file": "Flora/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Telvanni/mouth.md"
+                "file": "Flora/index.md"
               }
             }
           },
@@ -172,33 +172,33 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Factions/Ashlanders/salkurnudai.md",
-    "Factions/Ashlanders/ghost-lantern.md",
-    "Factions/Telvanni/index.md",
-    "Factions/Ashlanders/index.md",
+    "Flora/vicious-chanterelle.md",
+    "Flora/veiled-urnula.md",
+    "Flora/glowing-chanterelle.md",
+    "Flora/dustcap.md",
+    "Flora/cinderspark-lichen.md",
+    "Flora/blistering-fomentarius.md",
+    "Flora/black-anther.md",
+    "Flora/willow-flower.md",
+    "Flora/trama.md",
+    "Flora/stoneflower.md",
+    "Flora/heather.md",
+    "Flora/harrada.md",
+    "Flora/gold-kanet.md",
+    "Flora/pomegranate.md",
+    "Creatures/Beasts/maneater.md",
+    "Flora/golden-reed.md",
     "Creatures/Daedra/verminoth.md",
     "Creatures/Daedra/atronach-monarch.md",
-    "Creatures/Beasts/index.md",
-    "Creatures/Daedra/index.md",
+    "Flora/bloodgrass.md",
+    "Flora/blue-kanet.md",
+    "Flora/index.md",
+    "Factions/index.md",
     "Creatures/index.md",
-    "Creatures/Beasts/maneater.md",
-    "Creatures/Beasts/kwama.md",
-    "Creatures/Beasts/nix-hound.md",
-    "Creatures/Beasts/rats.md",
-    "Creatures/Beasts/ventworm.md",
+    "Factions/Telvanni/mouth.md",
+    "Factions/Ashlanders/salkurnudai.md",
+    "Factions/Ashlanders/ghost-lantern.md",
     "Creatures",
-    "Items/Books/verminoth-note.md",
-    "Items/Books/message-from-galos-mathendis.md",
-    "Items/Books/letter-from-master-fyr.md",
-    "Items/Books/index.md",
-    "Items/Books/endars-influx.md",
-    "Items/Books/dwemer-museum-additions.md",
-    "Items/Books/crumpled-note.md",
-    "Items/Books/common-wildflowers-of-vvardenfell.md",
-    "Beasts/!Beasts.md",
-    "NPCs/Endar Drenim.md",
-    "NPCs/Reynel Uvirith.md",
-    "NPCs/Galas Drenim.md",
     "Items/Miscellaneous",
     "Charts/Uvirith Family.canvas",
     "Charts/Kwama Lifecycle.canvas",

@@ -1,3 +1,12 @@
+---
+title: Harrada
+aliases:
+  - Harrada
+tags:
+  - Flora
+  - Oblivion
+---
+
 ### [UESP](https://en.uesp.net/wiki/Lore:Flora_H#Harrada_Root)
 ### Modded
 A spiky root which is native to the Deadlands in Oblivion and possibly other realms.
