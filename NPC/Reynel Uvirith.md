@@ -9,6 +9,8 @@ flowchart TD
     nx[\"Uvirith Family"/] --> A("Reynel Uvirith")
 
     A -- Cousins --> ne("Ulyno Uvirith")
+
+class A internal-link;
 ```
 ### Quests
 * A New Mouth for Master Aryon <sup>[1]</sup>

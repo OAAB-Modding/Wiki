@@ -1,3 +1,11 @@
+---
+title: Nix-Hound
+aliases:
+  - Nix-Hound
+description: The nix-hound is a medium-sized, aggressive pack predator.
+tags:
+  - Beasts
+---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Beasts#Nix-Hound)
 ### Modded
 Nix-Hounds are somehow associated with dreams. <sup>[1]</sup> Likely a reference to [PGE2](https://www.imperial-library.info/content/million-eyed-insect-dreaming-morrowind).

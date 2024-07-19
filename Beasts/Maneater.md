@@ -1,4 +1,15 @@
-Beasts who consume the flesh of man or mer are named "maneaters" and generally must be put down once they have a taste for it. Some cultures assign mystical powers to these maneaters. <sup>[1]</sup>
+---
+title: Maneater
+aliases:
+  - Maneater
+  - Mereater
+  - Man-eater
+  - Mer-eater
+description: Beasts who consume the flesh of man or mer are named "maneaters".
+tags:
+  - Beasts
+---
+Beasts who consume the flesh of man or mer are named "maneaters" and generally must be put down once they have a taste for it. Some cultures assign mystical powers to these beasts. <sup>[1]</sup>
 
 > "Wild animals consuming people's spirits together with their flesh and gradually becoming something more than animal is a common motif in Ashlander folk tales... Mere superstitions of course, but the Waste Folk take it very seriously and immediately dispose of maneaters in their territory."
 >

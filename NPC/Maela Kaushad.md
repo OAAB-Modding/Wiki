@@ -4,6 +4,6 @@
 Maela Kaushad is also the hetwoman of Vos.
 ### Quests
 * Mer-Eater Nix-Hound <sup>[1]</sup>
-	* Maela believes that the [[Maneater]] [[Nix-Hound]] that's been prowling around [[Vos]] is a great danger to the village and will talk about how it has been consuming flesh and spirit of its victims to increase its own cunning.
+	* Maela believes that the [[maneater]] [[nix-hound]] that's been prowling around [[Vos]] is a great danger to the village and will talk about how it has been consuming flesh and spirit of its victims to increase its own cunning.
 ### Source
 1. [[OAAB Grazelands]]

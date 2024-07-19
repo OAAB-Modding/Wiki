@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Item/Alchemy/Yamuz.md",
+                "file": "Books/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Item/Alchemy/Yamuz.md",
+                "file": "Books/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Item/Alchemy/Yamuz.md",
+                "file": "Books/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Item/Alchemy/Yamuz.md"
+                "file": "Books/index.md"
               }
             }
           },
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,34 +172,34 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Item/Alchemy/Musa.md",
+    "Beasts/index.md",
+    "Books/index.md",
+    "Beasts/kwama.md",
+    "Beasts/nix-hound.md",
+    "Books/verminoth-note.md",
+    "Books/message-from-galos-mathendis.md",
+    "Books/letter-from-master-fyr.md",
+    "Books/endars-influx.md",
+    "Books/dwemer-museum-additions.md",
+    "Books/crumpled-note.md",
+    "Books/common-wildflowers-of-vvardenfell.md",
+    "Beasts/maneater.md",
+    "Beasts/rats.md",
+    "Beasts/ventworm.md",
+    "Beasts/!Beasts.md",
+    "NPC/Endar Drenim.md",
+    "NPC/Reynel Uvirith.md",
+    "NPC/Galas Drenim.md",
+    "NPC/Divayth Fyr.md",
+    "NPC/Aryon.md",
+    "NPC/Mirvon Andrethi.md",
     "Item/Alchemy/Yamuz.md",
+    "Item/Alchemy/Musa.md",
     "Item/Alchemy/Sillapi.md",
     "Item/Miscellaneous/Triune.md",
     "Item/Miscellaneous/Nine-holes.md",
-    "Magic/Enchanting Candles.md",
     "Item/Miscellaneous",
-    "Beasts/Kwama.md",
-    "Flora/Golden Reed.md",
-    "Flora/Harrada.md",
-    "Flora/Gold Kanet.md",
-    "Flora/Vicious Chanterelle.md",
-    "Flora/Glowing Chanterelle.md",
-    "Flora/Veiled Urnula.md",
-    "Flora/Blistering Fomentarius.md",
-    "Flora/Trama.md",
-    "Flora/Stoneflower.md",
-    "Flora/Pomegranate.md",
-    "Flora/Dustcap.md",
-    "Flora/Cinderspark Lichen.md",
-    "Flora/Blue Kanet.md",
-    "Flora/Bloodgrass.md",
-    "Flora/Black Anther.md",
-    "Flora/Willow Flower.md",
-    "Flora/Heather.md",
-    "Characters/NPC/Reynel Uvirith.md",
     "Charts/Uvirith Family.canvas",
-    "Characters/NPC/Endar Drenim.md",
     "Charts/Kwama Lifecycle.canvas",
     "Charts/Drenim Family.canvas",
     "Charts/Aryon.canvas",

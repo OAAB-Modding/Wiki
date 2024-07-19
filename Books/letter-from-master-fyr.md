@@ -1,3 +1,11 @@
+---
+title: Letter from Master Fyr
+aliases:
+  - Letter from Master Fyr
+tags:
+  - Books
+description: Letter from Divayth Fyr to Aryon with regard to the Sword of the Moon Reiver.
+---
 ```
 To my esteemed student, Aryon,
 

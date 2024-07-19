@@ -11,6 +11,8 @@ flowchart TD
     nx[\"Drenim Family"/] --> A
 
     A -- Step Siblings --> ne("Galas Drenim")
+
+class A,ne internal-link;
 ```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>

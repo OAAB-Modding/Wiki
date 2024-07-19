@@ -15,12 +15,14 @@ flowchart TD
     nx[\"Drenim Family"/] --> A
 
     A -- Step Siblings --> ne("Galas Drenim")
+
+class A,ne internal-link;
 ```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
 	* Endar sends the player to assassinate [[Chanil-Lee]] who he accuses of being a Mages Guild spy.
 * An Illusion of Time <sup>[1]</sup>
-	* Endar uses his theory of [[Endar's Influx]] to counter the vampire attacks on [[Tel Mora]].
+	* Endar uses his theory of [[endars-influx]] to counter the vampire attacks on [[Tel Mora]].
 * Master Endar <sup>[1]</sup> 🗺️
 	* Endar thanks the player for their part in his elevation to Mage Lord of Tel Mora. The player has the option to provide Endar information about the [[geas]] which has now been transferred to him.
 		* `PositionCell -257, -348, 1032, 16200, "Tel Mora, Upper Tower"`

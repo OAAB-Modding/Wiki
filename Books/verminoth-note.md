@@ -1,3 +1,11 @@
+---
+title: Verminoth Note
+aliases:
+  - Verminoth Note
+tags:
+  - Books
+description: A note from Aryon regarding a failed Summon Daedroth enchantment.
+---
 ```
 Defective enchantment #1,515
 

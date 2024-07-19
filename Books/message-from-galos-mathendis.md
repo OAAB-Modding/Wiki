@@ -1,3 +1,11 @@
+---
+title: Message from Galos Mathendis
+aliases:
+  - Message from Galos Mathendis
+tags:
+  - Books
+description: A message from Galos Mathendis to Milar Maryon regarding magic doors.
+---
 ### Coded
 ```
 IJGHLUFJEBFDEBSZEBGBMNCJBBHJBBFJXLEBYYEBGHJHHJUKFDBBIJCDIDIJOPBJEBIDBHGHABCDHJEBPTEBRXEBIDPUEBGBBHHJCDBJEBBDFDCDROEBCJP

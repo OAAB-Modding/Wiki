@@ -1,3 +1,11 @@
+---
+title: Dwemer Museum Additions
+aliases:
+  - Dwemer Museum Additions
+tags:
+  - Books
+description: A collection of notes which appear in the Dwemer Museum in Tel Vos.
+---
 ### First Addition
 ```
 Recent archeological successes have allowed a coherer and set of cylinders to come into my possession. These strange devices appear to have been used to augment a telepathic link between the ancient Dwemer.

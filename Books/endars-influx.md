@@ -1,3 +1,13 @@
+---
+title: Endar's Influx
+aliases:
+  - Endar's Influx
+  - Endar's Theory
+  - Theory of Influx
+tags:
+  - Books
+description: Endar Drenim's Theory of Influx.
+---
 ```
 Theory of Influx
 by Endar Drenim
