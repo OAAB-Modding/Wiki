@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flora/index.md",
+                "file": "Items/Alchemy/yamuz.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flora/index.md",
+                "file": "Items/Alchemy/yamuz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flora/index.md",
+                "file": "Items/Alchemy/yamuz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flora/index.md"
+                "file": "Items/Alchemy/yamuz.md"
               }
             }
           },
@@ -172,14 +172,21 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Flora/vicious-chanterelle.md",
+    "Items/Alchemy/sillapi.md",
+    "Items/Alchemy/musa.md",
+    "Items/Alchemy/yamuz.md",
     "Flora/veiled-urnula.md",
+    "NPCs/index.md",
+    "NPCs/Hairan Mannanalit.md",
+    "README.md",
+    "Flora/willow-flower.md",
+    "Flora/vicious-chanterelle.md",
+    "Flora/blistering-fomentarius.md",
+    "Flora/index.md",
     "Flora/glowing-chanterelle.md",
     "Flora/dustcap.md",
     "Flora/cinderspark-lichen.md",
-    "Flora/blistering-fomentarius.md",
     "Flora/black-anther.md",
-    "Flora/willow-flower.md",
     "Flora/trama.md",
     "Flora/stoneflower.md",
     "Flora/heather.md",
@@ -191,13 +198,6 @@
     "Creatures/Daedra/verminoth.md",
     "Creatures/Daedra/atronach-monarch.md",
     "Flora/bloodgrass.md",
-    "Flora/blue-kanet.md",
-    "Flora/index.md",
-    "Factions/index.md",
-    "Creatures/index.md",
-    "Factions/Telvanni/mouth.md",
-    "Factions/Ashlanders/salkurnudai.md",
-    "Factions/Ashlanders/ghost-lantern.md",
     "Creatures",
     "Items/Miscellaneous",
     "Charts/Uvirith Family.canvas",
