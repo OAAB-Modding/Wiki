@@ -18,4 +18,4 @@ tags:
 > -- Liela (dialogue) <sup>[1]</sup>
 
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

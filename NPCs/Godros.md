@@ -4,4 +4,4 @@
 * Charity of Bone and Steel <sup>[1]</sup>
 	* Godros tells the player that Trerayna Dalen has likely been intercepting the shipments from [[Radras]] at the Tel Branora docks.
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

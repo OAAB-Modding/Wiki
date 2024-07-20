@@ -5,7 +5,7 @@ Endar Drenim is head spymaster for House Telvanni on Vvardenfell. He currently l
 > "Endar manages the Telvanni spy network here on Vvardenfell -- of course that isn't public knowledge and I trust you'll keep it to yourself. He's a dangerous man to make enemies with; as several assassins have learned who died by his blade or spell. He's currently living in Tel Naga, Sadrith Mora."
 > -- [[Galas Drenim]] (dialogue) <sup>[1]</sup>
 
-Endar ultimately replaces [[Dratha]] as the Mage Lord of [[Tel Mora]]. <sup>[1]</sup>
+Endar ultimately replaces [[Dratha]] as the Mage Lord of [[tel-mora|Tel Mora]]. <sup>[1]</sup>
 
 ```mermaid
 flowchart TD
@@ -22,9 +22,9 @@ class A,ne internal-link;
 * A Monopoly on Spies <sup>[1]</sup>
 	* Endar sends the player to assassinate [[Chanil-Lee]] who he accuses of being a Mages Guild spy.
 * An Illusion of Time <sup>[1]</sup>
-	* Endar uses his theory of [[endars-influx|Endar's Influx]] to counter the vampire attacks on [[Tel Mora]].
+	* Endar uses his theory of [[endars-influx|Endar's Influx]] to counter the vampire attacks on [[tel-mora|Tel Mora]].
 * Master Endar <sup>[1]</sup> 🗺️
 	* Endar thanks the player for their part in his elevation to Mage Lord of Tel Mora. The player has the option to provide Endar information about the [[geas]] which has now been transferred to him.
 		* `PositionCell -257, -348, 1032, 16200, "Tel Mora, Upper Tower"`
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

@@ -8,4 +8,4 @@ Chanil-Lee is a Mages Guild spy agent who's currently staying at the Six Fishes 
 * A Monopoly on Spies <sup>[1]</sup> 💀
 	* Chanil-Lee is identified as an agent/spy of the Mages Guild and indirectly assassinated by the player in this quest.
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

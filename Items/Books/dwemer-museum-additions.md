@@ -2,6 +2,7 @@
 title: Dwemer Museum Additions
 aliases:
   - Dwemer Museum Additions
+  - Dwemer Wyrm Gear
 description: A collection of notes which appear in the Dwemer Museum in Tel Vos.
 tags:
   - Items
@@ -34,4 +35,4 @@ This mysterious artifact is so named for its mystifying and seemingly perpetual 
 Master Aryon
 ```
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]

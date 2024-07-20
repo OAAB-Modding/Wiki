@@ -1,5 +1,5 @@
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Mirvon_Andrethi)
-**Mirvon Andrethi** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [monk](https://en.uesp.net/wiki/Morrowind:Monk_Service "Morrowind:Monk Service") located in the Services Tower in [[Tel Vos]].
+**Mirvon Andrethi** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [monk](https://en.uesp.net/wiki/Morrowind:Monk_Service "Morrowind:Monk Service") located in the Services Tower in [[tel-vos|Tel Vos]].
 ### Modded
 Mirvon is the Andrethi cousin of [[Aryon]] who is a student of the Marshmerrow society of martial artists as well as a fervent temple follower. <sup>[1]</sup>
 
@@ -17,4 +17,4 @@ class A,B internal-link;
 * The Domain of Living Fire <sup>[1]</sup>
 	* Despite [[Aryon]]'s request to provide the player with free training, Mirvon will instead offer prayers for the player in their fight against the flame monarch.
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]

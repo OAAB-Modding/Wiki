@@ -4,4 +4,4 @@
 * An Illusion of Time <sup>[1]</sup>
 	* [[Endar Drenim]] requests feedback from Erer on his new illusion spell theory.
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

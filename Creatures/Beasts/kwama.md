@@ -53,5 +53,5 @@ Kwama acid produced by kwama foragers to dig their tunnels and fight intruders g
 > In the village, the roots break through walls with ease. But they seem weaker here in the egg mine. Some frail tendrils may break through the loose rock, but they quickly wither. I've noticed that the vapors coming from the poisonous acid pools are particularly capable at repelling the roots.
 > -- Ibanu Zabbi (dialogue) <sup>[2]</sup>
 ### Source
-1. [[oaab-data]]
-2. [[oaab-grazelands]]
+1. [[oaab-data|OAAB_Data]]
+2. [[oaab-grazelands|OAAB Grazelands]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Beasts/kwama.md",
+                "file": "npcs/Erer Darothil.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creatures/Beasts/kwama.md",
+                "file": "npcs/Erer Darothil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creatures/Beasts/kwama.md",
+                "file": "npcs/Erer Darothil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creatures/Beasts/kwama.md"
+                "file": "npcs/Erer Darothil.md"
               }
             }
           },
@@ -172,46 +172,46 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Mods/oaab-tel-mora.md",
-    "Mods/oaab-data.md",
-    "Mods/oaab-grazelands.md",
-    "Magic/magic-doors.md",
-    "NPCs/Galos Mathendis.md",
-    "Items/Books/message-from-galos-mathendis.md",
-    "Magic/laws-of-magic.md",
-    "Magic/geas.md",
-    "Magic/enchanting-candles.md",
-    "Law/indentured-servitude.md",
-    "Language/index.md",
-    "Language/dunmeri.md",
-    "Items/Books/common-wildflowers-of-vvardenfell.md",
-    "Items/Miscellaneous/index.md",
-    "Items/Artifacts/index.md",
-    "Items/Artifacts/sword-of-the-moon-reiver.md",
-    "Items/Alchemy/index.md",
-    "Items/Ingredients/index.md",
-    "Items/Miscellaneous/triune.md",
-    "Items/Miscellaneous/nine-holes.md",
-    "Items/Ingredients/telvanni-resin.md",
-    "Items/Books/verminoth-note.md",
-    "NPCs/Mirvon Andrethi.md",
-    "NPCs/Aryon.md",
-    "Creatures/Daedra/verminoth.md",
-    "NPCs/Divayth Fyr.md",
-    "Creatures",
-    "Items/Miscellaneous",
+    "world/regions/index.md",
+    "world/settlements/index.md",
+    "world/dungeons/index.md",
+    "races/dwemer/index.md",
+    "npcs/Burcanius Varo.md",
+    "npcs/Dreynos Elvul.md",
+    "npcs/Eldrilu Dalen.md",
+    "npcs/Hairan Mannanalit.md",
+    "npcs/Maela Kaushad.md",
+    "npcs/Menus Felas.md",
+    "npcs/Runethyne Andas.md",
+    "npcs/Turedus Talanian.md",
+    "npcs/Yakin Bael.md",
+    "world/settlements/vos.md",
+    "npcs/Alenus Vendu.md",
+    "npcs/Andil.md",
+    "npcs/Aryon.md",
+    "npcs/Dro'zharim.md",
+    "npcs/Galos Mathendis.md",
+    "npcs/Goler Andrethi.md",
+    "npcs/Milar Maryon.md",
+    "npcs/Mirvon Andrethi.md",
+    "npcs/Smokeskin-Killer.md",
+    "world/dungeons/molaguradan.md",
+    "world/settlements/tel-vos.md",
+    "npcs/Berel Sala.md",
+    "creatures",
+    "items/miscellaneous",
     "Charts/Uvirith Family.canvas",
     "Charts/Kwama Lifecycle.canvas",
     "Charts/Drenim Family.canvas",
     "Charts/Aryon.canvas",
-    "Items/Alchemy",
-    "Law",
-    "Items/Ingredients",
-    "Creatures/Beasts",
-    "Factions/Telvanni",
-    "World/Dungeons",
-    "Items/Books",
-    "Flora",
+    "items/alchemy",
+    "law",
+    "items/ingredients",
+    "creatures/beasts",
+    "factions/telvanni",
+    "world/dungeons",
+    "items/books",
+    "flora",
     "Untitled.canvas"
   ]
 }

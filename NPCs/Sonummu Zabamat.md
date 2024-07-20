@@ -4,4 +4,4 @@
 * Vote of No Confidence <sup>[1]</sup>
 	* As a wise woman, Sonummu has knowledge about the [[geas]] that [[Dratha]] has protected herself with.
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

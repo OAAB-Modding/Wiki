@@ -15,4 +15,4 @@ The Sword of the Moon Reiver (also known as the **Broadsword of the Moon Reiv
 ### Modded
 In the possession of Master [[Aryon]]. According to a [[letter-from-master-fyr|Letter from Master Fyr]], the sword was a gift from [[Divayth Fyr]]. <sup>[1]</sup>
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]

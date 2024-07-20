@@ -1,6 +1,6 @@
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Smokeskin-Killer)
 ### Modded
-Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the Arnesian War. He is now employed by [[Aryon]] as the guard of his Dwemer Museum in [[Tel Vos]]. <sup>[1]</sup>
+Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the Arnesian War. He is now employed by [[Aryon]] as the guard of his Dwemer Museum in [[tel-vos|Tel Vos]]. <sup>[1]</sup>
 
 > He is the guard and caretaker of my Dwemer Museum. He's a good friend, but certainly not a scholar.
 > -- [[Aryon]] (dialogue) <sup>[1]</sup>
@@ -9,8 +9,8 @@ Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the 
 > -- [[Milar Maryon]] (dialogue) <sup>[1]</sup>
 ### Quests
 * Imitation is the Sincerest Form of Forgery <sup>[1]</sup>
-	* Smokeskin-Killer tips the player off that [[Aryon]] may be interested in a new Dwemer artifact for the [[Tel Vos]] Dwemer Museum.
+	* Smokeskin-Killer tips the player off that [[Aryon]] may be interested in a new Dwemer artifact for the [[tel-vos|Tel Vos]] Dwemer Museum.
 * Smokeskin-Willer <sup>[1]</sup>
 	* Smokeskin-Killer is not directly involved with this quest but is the subject of [[Milar Maryon]]'s ministrations.
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]

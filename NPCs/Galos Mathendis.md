@@ -3,12 +3,12 @@
 
 If you advance far enough in House Telvanni, he will eventually step down and return to his research.
 ### Modded
-After he retires, Galos moves to [[Tel Vos]] where he continues his research which is primarily focused on advanced enchanting techniques. <sup>[2]</sup>
+After he retires, Galos moves to [[tel-vos|Tel Vos]] where he continues his research which is primarily focused on advanced enchanting techniques. <sup>[2]</sup>
 
 Specifically, Galos is studying the function of [[magic-doors|enchanted doors]]. The [[message-from-galos-mathendis|Message from Galos Mathendis]] contains an encoded message to [[Milyn Faram]] which reveals this if it is translated. <sup>[2]</sup>
 ### Quests
 * House Telvanni: Baladas Demnevanni <sup>[1]</sup> 🗺️
-	* After this quest, Galos will be moved to [[Tel Vos]].
+	* After this quest, Galos will be moved to [[tel-vos|Tel Vos]].
 		* `PositionCell 377 677 -256 222  "Tel Vos, Mouth's Chambers"`
 * A New Mouth for Master Aryon <sup>[2]</sup>
 	* Galos asks the player to track down [[Reynel Uvirith]] and convince her to be [[Aryon]]'s new Mouth.
@@ -19,7 +19,7 @@ Specifically, Galos is studying the function of [[magic-doors|enchanted doors]].
 * Enchanted Quill Acquaintances <sup>[2]</sup>
 	* Galos asks the player to bring an encoded message to [[Milyn Faram]].
 * The Final Door <sup>[2]</sup> 🚫
-	* Galos sends the player to ask [[Hairan Mannanalit]] a set of questions to help with his research. Then he sends the player to Indoranyon where he and [[Milyn Faram]] meet them. Finally, when the player returns to [[Tel Vos]], Galos is gone.
+	* Galos sends the player to ask [[Hairan Mannanalit]] a set of questions to help with his research. Then he sends the player to Indoranyon where he and [[Milyn Faram]] meet them. Finally, when the player returns to [[tel-vos|Tel Vos]], Galos is gone.
 ### Source
 1. Vanilla
-2. [[oaab-grazelands]]
+2. [[oaab-grazelands|OAAB Grazelands]]

@@ -12,4 +12,4 @@ tags:
 
 **Law of Assimilation** - magic will cascade into every part of a target's body with the requisite environmental parameters <sup>[1]</sup>
 ### Source
-1. [[oaab-tel-mora]]
+1. [[oaab-tel-mora|OAAB Tel Mora]]

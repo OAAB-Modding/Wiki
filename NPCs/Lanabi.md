@@ -4,4 +4,4 @@
 * Girith's Stolen Hides <sup>[1]</sup>
 	* Is not directly involved with the quest, but if the player talks to her she'll mention that she traded the hides to him in exchange for metalworking supplies.
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]

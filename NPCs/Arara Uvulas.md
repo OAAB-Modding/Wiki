@@ -6,4 +6,4 @@
 > "When I was in a sunny mood, I used to imagine clandestine trysts with Arara Uvulas -- such a fiery personality. But then a gloomy day would come around and I'd remember she was just as ruthless as Neloth. Too much time standing around with the same people really weakens one's inhibitions... Oh, you'll have to excuse me %PCName, spending time by myself makes me reflective."
 > -- [[Galos Mathendis]] (dialogue) <sup>[1]</sup>
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]

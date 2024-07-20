@@ -5,4 +5,4 @@ Fyr is also likely to be the second most knowledgeable person in the game, falli
 ### Modded
 Had [[Aryon]] as a student in an academic capacity and gave him the [[sword-of-the-moon-reiver|Sword of the Moon Reiver]] as a commencement gift according to the [[letter-from-master-fyr|Letter from Master Fyr]]. <sup>[1]</sup>
 ### Source
-1. [[oaab-grazelands]]
+1. [[oaab-grazelands|OAAB Grazelands]]
