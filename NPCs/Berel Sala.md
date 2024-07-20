@@ -4,4 +4,4 @@
 * Apply Pressure to the Wound <sup>[1]</sup>
 	* Berel Sala provides some insight into past attempts to bring Temple healers to [[Tel Mora]] and ultimately will agree to [[Dratha]]'s conditions to send healers now.
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

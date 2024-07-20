@@ -23,4 +23,4 @@ Beasts who consume the flesh of man or mer are named "maneaters" and generally m
 > "I'm glad to hear that the nix-beast is dead. Nix-hounds are typically content to scavenge for scraps outside of camps and towns. But occasionally one is emboldened by the smell of vulnerable spirits and will attack. Consuming the body and spirit of the victim and becoming even more powerful and cunning. I am pleased that you managed to end this insatiable cycle."
 > -- [[Maela Kaushad]] (dialogue) <sup>[1]</sup>
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

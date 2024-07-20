@@ -9,4 +9,4 @@ tags:
 ### Modded
 Scuttle liquor, popular among ashlanders and velothi in particular. <sup>[1]</sup>
 ### Source
-1. [[OAAB_Data]]
+1. [[oaab-data]]

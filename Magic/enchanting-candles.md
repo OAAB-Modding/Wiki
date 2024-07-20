@@ -1,8 +1,15 @@
+---
+title: Enchanting Candles
+aliases:
+  - Enchanting Candles
+tags:
+  - Magic
+---
 ### Modded
 > "The candles surrounding an enchanter's table aren't just for show. Skilled enchanters can use the aura cast by particular candles to create better enchantments. In the West -- especially in High Rock -- magetallow is frequently used. And some Telvanni use it as well. But scamp tallow candles are almost as powerful and much more... tastefully acquired. Scamp tallow is rendered from the fat left clumped under scamp skin. Magetallow, well, I'll let you think about how it is made."
 > -- [[Galos Mathendis]] (dialogue) <sup>[1]</sup>
 
 Scamptallow and magetallow are the two most commonly used fuels for enchanting candles. But ogrim lard is occasionally turned into an oil to fuel special "Grim Lamps". <sup>[2]</sup>
 ### Source
-1. [[OAAB Grazelands]]
-2. [[OAAB_Data]]
+1. [[oaab-grazelands]]
+2. [[oaab-data]]

@@ -13,4 +13,4 @@ Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the 
 * Smokeskin-Willer <sup>[1]</sup>
 	* Smokeskin-Killer is not directly involved with this quest but is the subject of [[Milar Maryon]]'s ministrations.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

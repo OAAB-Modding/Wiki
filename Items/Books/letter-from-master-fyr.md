@@ -17,4 +17,4 @@ I leave you a gift which I am sure you will quickly realize the importance of: t
 Respectfully, Divayth Fyr
 ```
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

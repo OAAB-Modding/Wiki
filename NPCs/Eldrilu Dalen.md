@@ -4,4 +4,4 @@
 * Mer-Eater Nix-Hound <sup>[1]</sup>
 	* Eldrilu warns the player to keep quiet about the [[maneater]] [[nix-hound]] around Ordinators and says it's just Ashlander superstition.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

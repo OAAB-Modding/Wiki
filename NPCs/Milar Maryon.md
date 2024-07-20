@@ -6,4 +6,4 @@
 * The Domain of Living Fire <sup>[1]</sup>
 	* At [[Aryon]]'s request, Milar will give the player some bandages to help fight the flame monarch.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

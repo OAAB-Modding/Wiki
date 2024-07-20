@@ -8,4 +8,4 @@ He is interested in building bridges to the local [Ashlanders](https://en.uesp.
 * Rogue Ashlander Bounty <sup>[1]</sup>
 	* Turedus will pay the player for killing Sur Surishpi and Yan Assinabi, two rogue ashlanders encamped outside of Vos.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

@@ -6,4 +6,4 @@ As part of a [House Hlaalu](https://en.uesp.net/wiki/Morrowind:House_Hlaalu "Mo
 * Let The Ebony Flow <sup>[1]</sup>
 	* At the request of [[Turedus Talanian]], the player convinced Ashibaal to ship Zainab ebony through Vos.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

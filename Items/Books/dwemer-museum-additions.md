@@ -34,4 +34,4 @@ This mysterious artifact is so named for its mystifying and seemingly perpetual 
 Master Aryon
 ```
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

@@ -4,4 +4,4 @@
 * Charity of Bone and Steel <sup>[1]</sup>
 	* Radras asks the player to investigate some unpaid goods she's sent to [[Godros]] in Tel Branora.
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

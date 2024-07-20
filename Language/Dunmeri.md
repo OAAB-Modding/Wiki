@@ -1,10 +1,16 @@
-# Dunmeri-Language
+---
+title: Dunmeri
+aliases:
+  - Dunmeri
+tags:
+  - Language
+---
+### Dunmeri-Language
 
 **Bold:** canon Dunmeri word  
 *Italics:* fanmade word or translation, but rooted in canon  
 Default formatting: fanmade Dunmeri word  
-
-## Generic vocabulary
+### Generic vocabulary
 
 |Word|Translation|Source|Notes|
 |---|---|---|---|
@@ -67,17 +73,14 @@ Bluttier's thoughts on it: *war with the infidels...I mean nords and Cyrodiils m
 MD's thoughts on it: *maybe it's referring less to the city and more to a concept. "Old Home" respects the ancestral lands of the Redoran by naming it old home even though it is the new seat of power. "Old Velothi"and "Old Resdayn" both honor the old concepts of the Velothi people and Resdayn.*  
 (3) `Interview with the Skeleton Man`  
 (4) MD: *It's a smorgasbord of whatever the forager had ingested to bring back to the colony. So it stuffs itself and dunmer catch the slow-moving worm and cook it up with some seasoning. - so a lot of veggies and some miscellaneous meats - that's why it's a cheap food*  
-  
-## Words related to fire
+### Words related to fire
 
 |Word|Translation|Source|Notes|
 |---|---|---|---|
 |*foy*|lava|
 |**foyada**|fire river||*refers to the "dry" channel*; note: Ashlander term|
 |**molag**|fire||*refers to fire of volcanic origin*
-
-
-## Forms of address, insults, and colloquial exclamations
+### Forms of address, insults, and colloquial exclamations
 
 |Word|Translation|Source|Notes|
 |---|---|---|---|
@@ -94,17 +97,14 @@ MD's thoughts on it: *maybe it's referring less to the city and more to a concep
 |**sera**||MW dialogue|a generic term of respect, used to politely address both Dunmer and outlanders|
 |**serjo**||MW dialogue and books|a term of high respect, used to address Great House nobles, especially councilors|
 |**s'wit**|idiot, moron, half-wit|MW dialogue|
-
-  
+ 
 (1) source unknown  
 (2) source: Argonian and Khajiit `Hello` topic (voiced dialogue); in vanilla game, most of it is *not* filtered for `class=slave`, but it seems strange that those two particular races had it assigned
-
   
 RFD's note: I believe that instead of one list like this with stuff being split later, it would be best to use a common list:  
 --if a not-fully-canon word/translation is canon-derived, also include that in notes along with direct source (Sha- from Shashpilamat, etc.)  
 --thin column for A/Y note (Ald-Dunmeri/Yan'Dunmeri)  
-  
-  
+
 Where to get existing stuff?  
 --game files, obv  
 --MD's notes  

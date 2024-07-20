@@ -6,4 +6,4 @@ The previous owner of Menus' new house was one Kintus Yanudadammu who was killed
 * Bed Bandits <sup>[1]</sup>
 	* Menus asks the player to find his missing bed which was stolen while en route from [[Tel Mora]] by bandits from Pinsun.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

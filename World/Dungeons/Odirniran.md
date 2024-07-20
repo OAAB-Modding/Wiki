@@ -3,4 +3,4 @@
 ### Modded
 After selling his Dwemer [[Ideographer]] to [[Aryon]], [[Milyn Faram]] uses the funds to upgrade his operations at Odirniran and attract his own retainers. <sup>[1]</sup>
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

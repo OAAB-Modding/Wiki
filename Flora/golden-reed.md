@@ -12,4 +12,4 @@ The golden reed plant can commonly be found in the Grazelands region. It inspire
 > The unarmed, unarmored martial arts traditions of the Marshmerrow, Salt Rice, and Golden Reed societies of the Dissident Priest, patterned on the 'Rain-of-Sand' fighting styles of Elsweyr, are slow to be adopted in the Empire, associated as they are with the ascetic renunciation of worldly wealth and material goods, and the rigid disciplines and mystical philosophies so alien to the Imperial West.
 > -- Savant (dialogue)
 ### Source
-1. [[OAAB_Data]]
+1. [[oaab-data]]

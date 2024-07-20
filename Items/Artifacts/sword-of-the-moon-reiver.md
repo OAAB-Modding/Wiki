@@ -1,9 +1,18 @@
-### UESP
+---
+title: Sword of the Moon Reiver
+aliases:
+  - Sword of the Moon Reiver
+  - Moon Reiver
+  - Broadsword of the Moon Reiver
+  - Moon-Cursed Blade
+description: The Sword of the Moon Reiver is a broadsword created from Mehrunes Dagon's own substance.
+tags:
+  - Items
+  - Artifacts
+---
+### [UESP](https://en.uesp.net/wiki/Lore:Sword_of_the_Moon_Reiver)
 The Sword of the Moon Reiver (also known as the **Broadsword of the Moon Reiver** or **Moon-Cursed Blade**) is a broadsword created from [Mehrunes Dagon](https://en.uesp.net/wiki/Lore:Mehrunes_Dagon "Lore:Mehrunes Dagon")'s own substance. It is believed that no other weapon is capable of harming Mehrunes Dagon. During Dagon's invasion of the [Battlespire](https://en.uesp.net/wiki/Lore:Battlespire "Lore:Battlespire") during the [Imperial Simulacrum](https://en.uesp.net/wiki/Lore:Imperial_Simulacrum "Lore:Imperial Simulacrum"), the sword was in the possession of his [Dark Seducer](https://en.uesp.net/wiki/Lore:Dark_Seducer "Lore:Dark Seducer") bodyguard and paramour. An [apprentice](https://en.uesp.net/wiki/Lore:Apprentice "Lore:Apprentice") took the sword from her and used it to banish the Prince from [his own realm](https://en.uesp.net/wiki/Lore:Dagon%27s_Hunting_Lodge "Lore:Dagon's Hunting Lodge"), resulting in the destruction of the Battlespire.
 ### Modded
-In the possession of Master [[Aryon]]. According to a [[letter-from-master-fyr]], the sword was a gift from [[Divayth Fyr]].
-
-> "This daedric blade was forged from the magical substance of the Lord of Destruction himself and recovered from the ruins of The Battlespire several years after its demise. You know that this is one of my prized possessions, but do not attempt to return it to me. I pass it on to you for I have no need of its affinity for destruction. But I believe a time is coming when possessing such an artifact will be more useful than simply as a conduit for studying the daedra. And if anyone is capable of discerning the practical applications when that time comes, I know it is you."
-> -- Letter from Master Fyr (book) <sup>[1]</sup>
+In the possession of Master [[Aryon]]. According to a [[letter-from-master-fyr|Letter from Master Fyr]], the sword was a gift from [[Divayth Fyr]]. <sup>[1]</sup>
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

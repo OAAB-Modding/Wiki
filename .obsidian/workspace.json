@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Alchemy/yamuz.md",
+                "file": "Creatures/Beasts/kwama.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Alchemy/yamuz.md",
+                "file": "Creatures/Beasts/kwama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Alchemy/yamuz.md",
+                "file": "Creatures/Beasts/kwama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Alchemy/yamuz.md"
+                "file": "Creatures/Beasts/kwama.md"
               }
             }
           },
@@ -172,32 +172,32 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "Items/Alchemy/sillapi.md",
-    "Items/Alchemy/musa.md",
-    "Items/Alchemy/yamuz.md",
-    "Flora/veiled-urnula.md",
-    "NPCs/index.md",
-    "NPCs/Hairan Mannanalit.md",
-    "README.md",
-    "Flora/willow-flower.md",
-    "Flora/vicious-chanterelle.md",
-    "Flora/blistering-fomentarius.md",
-    "Flora/index.md",
-    "Flora/glowing-chanterelle.md",
-    "Flora/dustcap.md",
-    "Flora/cinderspark-lichen.md",
-    "Flora/black-anther.md",
-    "Flora/trama.md",
-    "Flora/stoneflower.md",
-    "Flora/heather.md",
-    "Flora/harrada.md",
-    "Flora/gold-kanet.md",
-    "Flora/pomegranate.md",
-    "Creatures/Beasts/maneater.md",
-    "Flora/golden-reed.md",
+    "Mods/oaab-tel-mora.md",
+    "Mods/oaab-data.md",
+    "Mods/oaab-grazelands.md",
+    "Magic/magic-doors.md",
+    "NPCs/Galos Mathendis.md",
+    "Items/Books/message-from-galos-mathendis.md",
+    "Magic/laws-of-magic.md",
+    "Magic/geas.md",
+    "Magic/enchanting-candles.md",
+    "Law/indentured-servitude.md",
+    "Language/index.md",
+    "Language/dunmeri.md",
+    "Items/Books/common-wildflowers-of-vvardenfell.md",
+    "Items/Miscellaneous/index.md",
+    "Items/Artifacts/index.md",
+    "Items/Artifacts/sword-of-the-moon-reiver.md",
+    "Items/Alchemy/index.md",
+    "Items/Ingredients/index.md",
+    "Items/Miscellaneous/triune.md",
+    "Items/Miscellaneous/nine-holes.md",
+    "Items/Ingredients/telvanni-resin.md",
+    "Items/Books/verminoth-note.md",
+    "NPCs/Mirvon Andrethi.md",
+    "NPCs/Aryon.md",
     "Creatures/Daedra/verminoth.md",
-    "Creatures/Daedra/atronach-monarch.md",
-    "Flora/bloodgrass.md",
+    "NPCs/Divayth Fyr.md",
     "Creatures",
     "Items/Miscellaneous",
     "Charts/Uvirith Family.canvas",

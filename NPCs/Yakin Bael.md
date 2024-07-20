@@ -6,4 +6,4 @@
 * Mer-Eater Nix-Hound <sup>[1]</sup>
 	* Yakin has some comments about [[maneater]] [[nix-hound]]s to share with the player.
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

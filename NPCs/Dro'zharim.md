@@ -7,4 +7,4 @@ Dro'zharim was a slave who was part of the original crew who built [[Tel Vos]] g
 * Rats in Varo Tradehouse <sup>[1]</sup>
 	* After the player frees Dro'zharim from the Tel Vos jail, they will have the option of giving him to [[Burcanius Varo]] or truly setting him free.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

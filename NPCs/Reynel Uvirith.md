@@ -16,4 +16,4 @@ class A internal-link;
 * A New Mouth for Master Aryon <sup>[1]</sup>
 	* Agrees to become [[Aryon]]'s new Mouth to replace the player.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

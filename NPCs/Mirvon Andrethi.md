@@ -8,9 +8,13 @@ Mirvon is the Andrethi cousin of [[Aryon]] who is a student of the Marshmerrow s
 > "Atronach monarchs are unholy agents of Oblivion, %PCName. Aryon said that I should offer you free training, but instead I will give you something much more valuable. I will pray to Almsivi on your behalf. May the Three watch over you."
 > -- Mirvon Andrethi (dialogue) <sup>[1]</sup>
 
-Relationships: [[Aryon.canvas|Aryon]]
+```mermaid
+flowchart TD
+A("Aryon") -- Cousins --> B("Mirvon Andrethi")
+class A,B internal-link;
+```
 ### Quests
 * The Domain of Living Fire <sup>[1]</sup>
 	* Despite [[Aryon]]'s request to provide the player with free training, Mirvon will instead offer prayers for the player in their fight against the flame monarch.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

@@ -11,4 +11,4 @@ Borwen is suffering from a mental illness caused by Mistress [[Dratha]]'s usage 
 * Borwen's Headache <sup>[1]</sup>
 	* Borwen is not directly involved with this quest but is the subject of investigation into what ails her.
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

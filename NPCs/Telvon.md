@@ -9,4 +9,4 @@ Telvon is said to have disappeared after trying to enter Indoranyon. <sup>[1]</s
 >  "I knew you must have found my note to Telvon. I have no idea where he is. He was a bull-headed man and I fear that he may have entered the ruins of Indoranyon despite my warning."
 >  -- [[Hairan Mannanalit]] (dialogue) <sup>[1]</sup>
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

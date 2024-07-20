@@ -5,4 +5,4 @@ Goler Andrethi is the jailer of [[Tel Vos]]. He will talk about the incident whi
 * Rats in Varo Tradehouse <sup>[1]</sup>
 	* Goler accepts the payment and contract from [[Burcanius Varo]] and frees the slave, [[Dro'zharim]] from the [[Tel Vos]] jail.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

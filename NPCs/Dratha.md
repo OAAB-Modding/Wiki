@@ -10,4 +10,4 @@ Dratha is ultimately assassinated by the player through the machinations of [[Ar
 * Vote of No Confidence <sup>[1]</sup> 💀
 	* After the player discovers a way to counter her [[geas]], Dratha is assassinated by the player.
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

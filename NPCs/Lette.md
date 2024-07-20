@@ -3,4 +3,4 @@
 ### Modded
 Lette and her partner, Liela, both tend to the alchemical gardens of [[Tel Mora]] and live in a housepod on the west side of the town. <sup>[1]</sup>
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

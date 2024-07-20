@@ -18,4 +18,4 @@ class A,ne internal-link;
 * A Monopoly on Spies <sup>[1]</sup>
 	* Tells the player about politics in Morrowind and directs them to her stepbrother, [[Endar Drenim]] to learn about House Telvanni's spy network.
 ### Source
-1. [[OAAB Tel Mora]]
+1. [[oaab-tel-mora]]

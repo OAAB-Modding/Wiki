@@ -6,4 +6,4 @@
 * Mer-Eater Nix-Hound <sup>[1]</sup>
 	* Burcanius will express his disbelief regarding the [[maneater]] [[nix-hound]] mentioned in the note in his tradehouse.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

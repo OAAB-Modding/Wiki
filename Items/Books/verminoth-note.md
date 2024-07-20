@@ -17,4 +17,4 @@ Actual Effect: Summons a Daedroth but appears to force it into the form of a rat
 Additional Comments: keep item for further study.
 ```
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]

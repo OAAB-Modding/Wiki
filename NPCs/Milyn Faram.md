@@ -15,4 +15,4 @@ The "dwemer machine" mentioned by Milyn Faram is known as an "[[Ideographer]]". 
 * The Final Door <sup>[1]</sup>
 	* Meets the player and [[Galos Mathendis]] at Indoranyon.
 ### Source
-1. [[OAAB Grazelands]]
+1. [[oaab-grazelands]]
