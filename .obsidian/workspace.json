@@ -11,8 +11,12 @@
             "id": "29a51fd5f1ac50e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "items/miscellaneous/triune.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "items/miscellaneous/triune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "items/miscellaneous/triune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "items/miscellaneous/triune.md"
+              }
             }
           },
           {
@@ -164,6 +172,10 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
+    "items/alchemy/yamuz.md",
+    "flora/stoneflower.md",
+    "factions/telvanni/mouth.md",
+    "creatures/beasts/nix-hound.md",
     "races/dwemer/the-calling.md",
     "races/dwemer/puzzle-boxes.md",
     "races/dwemer/index.md",
@@ -171,7 +183,7 @@
     "races/dwemer",
     "items/miscellaneous/nine-holes.md",
     "items/miscellaneous/index.md",
-    "items/miscellaneous/-triune.md",
+    "items/miscellaneous/triune.md",
     "items/miscellaneous",
     "items/ingredients/telvanni-resin.md",
     "items/ingredients/index.md",
@@ -191,12 +203,8 @@
     "items/alchemy/sillapi.md",
     "items/alchemy/musa.md",
     "items/alchemy/index.md",
-    "items/alchemy/-yamuz.md",
     "items/alchemy",
-    "factions/telvanni/index.md",
-    "factions/telvanni/-mouth.md",
     "factions/telvanni",
-    "factions/ashlanders/salkurnudai.md",
     "factions/ashlanders",
     "creatures/daedra",
     "creatures/beasts",
