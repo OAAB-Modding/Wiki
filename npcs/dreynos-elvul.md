@@ -1,3 +1,10 @@
+---
+title: Dreynos Elvul
+aliases:
+  - Dreynos Elvul
+tags:
+  - NPCs
+---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Vos#Dreynos_Elvul)
 ### Quests
 * Root of the Problem <sup>[1]</sup>

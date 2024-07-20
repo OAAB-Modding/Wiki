@@ -18,6 +18,6 @@ Nix-Hounds are somehow associated with dreams. <sup>[1]</sup> Likely a reference
 > -- Wise Woman (dialogue) <sup>[1]</sup>
 
 > "I'm glad to hear that the nix-beast is dead. Nix-hounds are typically content to scavenge for scraps outside of camps and towns. But occasionally one is emboldened by the smell of vulnerable spirits and will attack. Consuming the body and spirit of the victim and becoming even more powerful and cunning. I am pleased that you managed to end this insatiable cycle."
-> -- [[Maela Kaushad]] (dialogue) <sup>[1]</sup>
+> -- [[maela-kaushad|Maela Kaushad]] (dialogue) <sup>[1]</sup>
 ### Source
 1. [[oaab-grazelands|OAAB Grazelands]]

@@ -1,3 +1,11 @@
+---
+title: Eldrilu Dalen
+aliases:
+  - Eldrilu Dalen
+tags:
+  - NPCs
+  - Temple
+---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Eldrilu_Dalen)
 **Eldrilu Dalen** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [priestess](https://en.uesp.net/wiki/Morrowind:Priest_Service "Morrowind:Priest Service") who works at the [Vos Chapel](https://en.uesp.net/wiki/Morrowind:Vos_Chapel "Morrowind:Vos Chapel") in [[vos|Vos]].
 ### Quests

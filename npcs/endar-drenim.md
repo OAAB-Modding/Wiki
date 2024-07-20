@@ -1,11 +1,19 @@
+---
+title: Endar Drenim
+aliases:
+  - Endar Drenim
+tags:
+  - NPCs
+  - Telvanni
+---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Naga#People)
 ### Modded
-Endar Drenim is head spymaster for House Telvanni on Vvardenfell. He currently lives in Tel Naga, Sadrith Mora. He was instrumental in paving the way for the Grand Council vote on the [Mages Guild Monopoly](https://en.uesp.net/wiki/Morrowind:Mages_Guild_Monopoly) prior to the player's involvement. He is the stepbrother of [[Galas Drenim]] and somehow related to Mavon Drenim as well. <sup>[1]</sup>
+Endar Drenim is head spymaster for House Telvanni on Vvardenfell. He currently lives in Tel Naga, Sadrith Mora. He was instrumental in paving the way for the Grand Council vote on the [Mages Guild Monopoly](https://en.uesp.net/wiki/Morrowind:Mages_Guild_Monopoly) prior to the player's involvement. He is the stepbrother of [[galas-drenim|Galas Drenim]] and somehow related to Mavon Drenim as well. <sup>[1]</sup>
 
 > "Endar manages the Telvanni spy network here on Vvardenfell -- of course that isn't public knowledge and I trust you'll keep it to yourself. He's a dangerous man to make enemies with; as several assassins have learned who died by his blade or spell. He's currently living in Tel Naga, Sadrith Mora."
-> -- [[Galas Drenim]] (dialogue) <sup>[1]</sup>
+> -- [[galas-drenim|Galas Drenim]] (dialogue) <sup>[1]</sup>
 
-Endar ultimately replaces [[Dratha]] as the Mage Lord of [[tel-mora|Tel Mora]]. <sup>[1]</sup>
+Endar ultimately replaces [[dratha|Dratha]] as the Mage Lord of [[tel-mora|Tel Mora]]. <sup>[1]</sup>
 
 ```mermaid
 flowchart TD
@@ -20,7 +28,7 @@ class A,ne internal-link;
 ```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
-	* Endar sends the player to assassinate [[Chanil-Lee]] who he accuses of being a Mages Guild spy.
+	* Endar sends the player to assassinate [[chanil-lee|Chanil-Lee]] who he accuses of being a Mages Guild spy.
 * An Illusion of Time <sup>[1]</sup>
 	* Endar uses his theory of [[endars-influx|Endar's Influx]] to counter the vampire attacks on [[tel-mora|Tel Mora]].
 * Master Endar <sup>[1]</sup> 🗺️

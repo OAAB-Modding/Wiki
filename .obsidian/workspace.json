@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/Erer Darothil.md",
+                "file": "creatures/beasts/maneater.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/Erer Darothil.md",
+                "file": "creatures/beasts/maneater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/Erer Darothil.md",
+                "file": "creatures/beasts/maneater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npcs/Erer Darothil.md"
+                "file": "creatures/beasts/maneater.md"
               }
             }
           },
@@ -172,32 +172,32 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "world/regions/index.md",
-    "world/settlements/index.md",
-    "world/dungeons/index.md",
-    "races/dwemer/index.md",
-    "npcs/Burcanius Varo.md",
-    "npcs/Dreynos Elvul.md",
-    "npcs/Eldrilu Dalen.md",
-    "npcs/Hairan Mannanalit.md",
-    "npcs/Maela Kaushad.md",
-    "npcs/Menus Felas.md",
-    "npcs/Runethyne Andas.md",
-    "npcs/Turedus Talanian.md",
-    "npcs/Yakin Bael.md",
-    "world/settlements/vos.md",
-    "npcs/Alenus Vendu.md",
-    "npcs/Andil.md",
-    "npcs/Aryon.md",
-    "npcs/Dro'zharim.md",
-    "npcs/Galos Mathendis.md",
-    "npcs/Goler Andrethi.md",
-    "npcs/Milar Maryon.md",
-    "npcs/Mirvon Andrethi.md",
-    "npcs/Smokeskin-Killer.md",
-    "world/dungeons/molaguradan.md",
-    "world/settlements/tel-vos.md",
-    "npcs/Berel Sala.md",
+    "items/ingredients/telvanni-resin.md",
+    "npcs/yakin-bael.md",
+    "npcs/ashibaal.md",
+    "npcs/turedus-talanian.md",
+    "npcs/telvon.md",
+    "npcs/hairan-mannanalit.md",
+    "npcs/sonummu-zabamat.md",
+    "magic/geas.md",
+    "npcs/smokeskin-killer.md",
+    "npcs/milar-maryon.md",
+    "items/books/crumpled-note.md",
+    "npcs/runethyne-andas.md",
+    "npcs/reynel-uvirith.md",
+    "npcs/galos-mathendis.md",
+    "npcs/raven-omayn.md",
+    "npcs/radras.md",
+    "npcs/endar-drenim.md",
+    "npcs/godros.md",
+    "npcs/aryon.md",
+    "npcs/mirvon-andrethi.md",
+    "npcs/milyn-faram.md",
+    "magic/laws-of-magic.md",
+    "races/dwemer/ideographer.md",
+    "world/dungeons/odirniran.md",
+    "npcs/menus-felas.md",
+    "npcs/mallam-ryon.md",
     "creatures",
     "items/miscellaneous",
     "Charts/Uvirith Family.canvas",
