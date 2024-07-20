@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d86c76a772093afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items/miscellaneous/triune.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "items/miscellaneous/triune.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "items/miscellaneous/triune.md"
+                "file": "index.md"
               }
             }
           },
@@ -170,8 +183,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "29a51fd5f1ac50e5",
+  "active": "d86c76a772093afc",
   "lastOpenFiles": [
+    "mods/oaab-data.md",
+    "index.md",
+    "items/miscellaneous/triune.md",
     "items/alchemy/yamuz.md",
     "flora/stoneflower.md",
     "factions/telvanni/mouth.md",
@@ -183,7 +199,6 @@
     "races/dwemer",
     "items/miscellaneous/nine-holes.md",
     "items/miscellaneous/index.md",
-    "items/miscellaneous/triune.md",
     "items/miscellaneous",
     "items/ingredients/telvanni-resin.md",
     "items/ingredients/index.md",
@@ -201,8 +216,6 @@
     "items/artifacts/index.md",
     "items/artifacts",
     "items/alchemy/sillapi.md",
-    "items/alchemy/musa.md",
-    "items/alchemy/index.md",
     "items/alchemy",
     "factions/telvanni",
     "factions/ashlanders",
