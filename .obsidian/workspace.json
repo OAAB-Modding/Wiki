@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "creatures/beasts/maneater.md",
+                "file": "races/dwemer/puzzle-boxes.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creatures/beasts/maneater.md",
+                "file": "races/dwemer/puzzle-boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creatures/beasts/maneater.md",
+                "file": "races/dwemer/puzzle-boxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creatures/beasts/maneater.md"
+                "file": "races/dwemer/puzzle-boxes.md"
               }
             }
           },
@@ -172,32 +172,32 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "items/ingredients/telvanni-resin.md",
-    "npcs/yakin-bael.md",
-    "npcs/ashibaal.md",
-    "npcs/turedus-talanian.md",
-    "npcs/telvon.md",
-    "npcs/hairan-mannanalit.md",
-    "npcs/sonummu-zabamat.md",
-    "magic/geas.md",
-    "npcs/smokeskin-killer.md",
-    "npcs/milar-maryon.md",
-    "items/books/crumpled-note.md",
-    "npcs/runethyne-andas.md",
-    "npcs/reynel-uvirith.md",
-    "npcs/galos-mathendis.md",
-    "npcs/raven-omayn.md",
-    "npcs/radras.md",
     "npcs/endar-drenim.md",
-    "npcs/godros.md",
-    "npcs/aryon.md",
-    "npcs/mirvon-andrethi.md",
-    "npcs/milyn-faram.md",
-    "magic/laws-of-magic.md",
-    "races/dwemer/ideographer.md",
-    "world/dungeons/odirniran.md",
-    "npcs/menus-felas.md",
-    "npcs/mallam-ryon.md",
+    "creatures/beasts/-ventworm.md",
+    "flora/-heather.md",
+    "items/miscellaneous/-nine-holes.md",
+    "items/miscellaneous/-triune.md",
+    "language/-dunmeri.md",
+    "items/alchemy/-yamuz.md",
+    "items/alchemy/-sillapi.md",
+    "items/alchemy/-musa.md",
+    "flora/-pomegranate.md",
+    "flora/-harrada.md",
+    "flora/-dustcap.md",
+    "creatures/beasts/-rats.md",
+    "creatures/beasts/-kwama.md",
+    "mythos/-earthbones.md",
+    "flora/-stoneflower.md",
+    "factions/ashlanders/-salkurnudai.md",
+    "world/settlements/-vos.md",
+    "creatures/daedra/-verminoth.md",
+    "npcs/-andil.md",
+    "npcs/-dratha.md",
+    "npcs/-borwen.md",
+    "flora/-trama.md",
+    "factions/telvanni/-mouth.md",
+    "npcs/-lanabi.md",
+    "npcs/-lette.md",
     "creatures",
     "items/miscellaneous",
     "Charts/Uvirith Family.canvas",

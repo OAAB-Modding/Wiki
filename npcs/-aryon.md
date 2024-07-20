@@ -16,7 +16,6 @@ Aryon is cousins with [[mirvon-andrethi|Mirvon Andrethi]].
 ```mermaid
 flowchart TD
 A("Aryon") -- Cousins --> B("Mirvon Andrethi")
-class A,B internal-link;
 ```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
