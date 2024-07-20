@@ -11,12 +11,8 @@
             "id": "29a51fd5f1ac50e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npcs/-chanil-lee.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/-chanil-lee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/-chanil-lee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "npcs/-chanil-lee.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,46 +164,46 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
-    "npcs/dratha.md",
-    "npcs/aryon.md",
-    "npcs/mirvon-andrethi.md",
-    "races/dwemer/puzzle-boxes.md",
-    "races/dwemer/ideographer.md",
-    "npcs/endar-drenim.md",
-    "creatures/beasts/-ventworm.md",
-    "flora/-heather.md",
-    "items/miscellaneous/-nine-holes.md",
-    "items/miscellaneous/-triune.md",
-    "language/-dunmeri.md",
-    "items/alchemy/-yamuz.md",
-    "items/alchemy/-sillapi.md",
-    "items/alchemy/-musa.md",
-    "flora/-pomegranate.md",
-    "flora/-harrada.md",
-    "flora/-dustcap.md",
-    "creatures/beasts/-rats.md",
-    "creatures/beasts/-kwama.md",
-    "mythos/-earthbones.md",
-    "flora/-stoneflower.md",
-    "factions/ashlanders/-salkurnudai.md",
-    "world/settlements/-vos.md",
-    "creatures/daedra/-verminoth.md",
-    "npcs/-andil.md",
-    "npcs/-dratha.md",
-    "creatures",
-    "items/miscellaneous",
+    "-world/-settlements/tel-vos.md",
+    "-world/-settlements/tel-mora.md",
+    "-world/-settlements/index.md",
+    "-world/-settlements/-vos.md",
+    "-world/-settlements",
+    "-world/-regions/molag-amur.md",
+    "-world/-regions/index.md",
+    "-world/-regions/grazelands.md",
+    "-world/-regions",
+    "-world/-dungeons/odirniran.md",
+    "-world/-dungeons/molaguradan.md",
+    "-world/-dungeons/index.md",
+    "-world/-dungeons",
+    "-races/-dwemer/the-calling.md",
+    "-races/-dwemer/puzzle-boxes.md",
+    "-races/-dwemer/index.md",
+    "-races/-dwemer/ideographer.md",
+    "-races/-dwemer",
+    "-items/-miscellaneous/nine-holes.md",
+    "-items/-miscellaneous/index.md",
+    "-items/-miscellaneous/-triune.md",
+    "-items/-miscellaneous",
+    "-items/-ingredients/telvanni-resin.md",
+    "-items/-ingredients/index.md",
+    "-items/-ingredients",
+    "-items/-books/verminoth-note.md",
+    "-items/-books/message-from-galos-mathendis.md",
+    "-items/-books/letter-from-master-fyr.md",
+    "-items/-books/index.md",
+    "-items/-books/endars-influx.md",
+    "-items/-books/dwemer-museum-additions.md",
+    "-items/-books/crumpled-note.md",
+    "-items/-books",
+    "-items/-artifacts",
+    "-items/-alchemy",
+    "-factions/-telvanni",
     "Charts/Uvirith Family.canvas",
     "Charts/Kwama Lifecycle.canvas",
     "Charts/Drenim Family.canvas",
     "Charts/Aryon.canvas",
-    "items/alchemy",
-    "law",
-    "items/ingredients",
-    "creatures/beasts",
-    "factions/telvanni",
-    "world/dungeons",
-    "items/books",
-    "flora",
     "Untitled.canvas"
   ]
 }
