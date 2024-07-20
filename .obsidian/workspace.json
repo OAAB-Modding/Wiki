@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "races/dwemer/puzzle-boxes.md",
+                "file": "npcs/-chanil-lee.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "races/dwemer/puzzle-boxes.md",
+                "file": "npcs/-chanil-lee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "races/dwemer/puzzle-boxes.md",
+                "file": "npcs/-chanil-lee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "races/dwemer/puzzle-boxes.md"
+                "file": "npcs/-chanil-lee.md"
               }
             }
           },
@@ -172,6 +172,11 @@
   },
   "active": "29a51fd5f1ac50e5",
   "lastOpenFiles": [
+    "npcs/dratha.md",
+    "npcs/aryon.md",
+    "npcs/mirvon-andrethi.md",
+    "races/dwemer/puzzle-boxes.md",
+    "races/dwemer/ideographer.md",
     "npcs/endar-drenim.md",
     "creatures/beasts/-ventworm.md",
     "flora/-heather.md",
@@ -193,11 +198,6 @@
     "creatures/daedra/-verminoth.md",
     "npcs/-andil.md",
     "npcs/-dratha.md",
-    "npcs/-borwen.md",
-    "flora/-trama.md",
-    "factions/telvanni/-mouth.md",
-    "npcs/-lanabi.md",
-    "npcs/-lette.md",
     "creatures",
     "items/miscellaneous",
     "Charts/Uvirith Family.canvas",

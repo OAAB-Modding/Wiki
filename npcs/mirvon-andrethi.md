@@ -19,7 +19,6 @@ Mirvon is the Andrethi cousin of [[aryon|Aryon]] who is a student of the Marshme
 ```mermaid
 flowchart TD
 A("Aryon") -- Cousins --> B("Mirvon Andrethi")
-class A,B internal-link;
 ```
 ### Quests
 * The Domain of Living Fire <sup>[1]</sup>

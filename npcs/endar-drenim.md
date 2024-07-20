@@ -27,7 +27,7 @@ flowchart TD
 ```
 ### Quests
 * A Monopoly on Spies <sup>[1]</sup>
-	* Endar sends the player to assassinate [[chanil-lee|Chanil-Lee]] who he accuses of being a Mages Guild spy.
+	* Endar sends the player to assassinate [[-chanil-lee|Chanil-Lee]] who he accuses of being a Mages Guild spy.
 * An Illusion of Time <sup>[1]</sup>
 	* Endar uses his theory of [[endars-influx|Endar's Influx]] to counter the vampire attacks on [[tel-mora|Tel Mora]].
 * Master Endar <sup>[1]</sup> 🗺️
