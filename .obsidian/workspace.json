@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "npcs/egroamaro.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "npcs/egroamaro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "npcs/egroamaro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "npcs/egroamaro.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 559.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,42 +185,42 @@
   },
   "active": "d86c76a772093afc",
   "lastOpenFiles": [
-    "mods/oaab-data.md",
+    "world/dungeons/indoranyon.md",
+    "world/dungeons/molaguradan.md",
+    "npcs/egroamaro.md",
+    "npcs/erer-darothil.md",
+    "items/books/message-from-galos-mathendis.md",
+    "items/books/verminoth-note.md",
+    "items/books/letter-from-master-fyr.md",
+    "items/books/common-wildflowers-of-vvardenfell.md",
+    "items/books/endars-influx.md",
+    "items/books/dwemer-museum-additions.md",
+    "items/books/crumpled-note.md",
+    "items/books/index.md",
+    "items/books/a-dubious-tale.md",
+    "items/books/aetherial-ephemeris.md",
+    "sources/games/daggerfall.md",
+    "sources/games",
+    "sources",
+    "world/settlements/vos.md",
+    "npcs/maela-kaushad.md",
+    "races/dwemer/the-calling.md",
     "index.md",
+    "mods/oaab-data.md",
     "items/miscellaneous/triune.md",
     "items/alchemy/yamuz.md",
     "flora/stoneflower.md",
     "factions/telvanni/mouth.md",
     "creatures/beasts/nix-hound.md",
-    "races/dwemer/the-calling.md",
     "races/dwemer/puzzle-boxes.md",
-    "races/dwemer/index.md",
-    "races/dwemer/ideographer.md",
     "races/dwemer",
-    "items/miscellaneous/nine-holes.md",
-    "items/miscellaneous/index.md",
     "items/miscellaneous",
-    "items/ingredients/telvanni-resin.md",
-    "items/ingredients/index.md",
     "items/ingredients",
-    "items/books/verminoth-note.md",
-    "items/books/message-from-galos-mathendis.md",
-    "items/books/letter-from-master-fyr.md",
-    "items/books/index.md",
-    "items/books/endars-influx.md",
-    "items/books/dwemer-museum-additions.md",
-    "items/books/crumpled-note.md",
-    "items/books/common-wildflowers-of-vvardenfell.md",
     "items/books",
-    "items/artifacts/sword-of-the-moon-reiver.md",
-    "items/artifacts/index.md",
     "items/artifacts",
-    "items/alchemy/sillapi.md",
     "items/alchemy",
     "factions/telvanni",
     "factions/ashlanders",
-    "creatures/daedra",
-    "creatures/beasts",
     "Charts/Uvirith Family.canvas",
     "Charts/Kwama Lifecycle.canvas",
     "Charts/Drenim Family.canvas",

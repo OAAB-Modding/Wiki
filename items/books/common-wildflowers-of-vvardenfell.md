@@ -7,8 +7,12 @@ description: A field guide to wildflower species from the Ascadian Isles.
 tags:
   - Items
   - Books
+author:
+  - Melchior Dahrk
+  - Hemaris
 ---
-```
+Common Wildflowers of Vvardenfell
+
 by Vicia Laeta
 
 [species from the Ascadian Isles]
@@ -30,6 +34,5 @@ Stoneflower, with their large trumpet-shaped flowers, have a branching woody ste
 
 Willow Flower
 The Willow Flower's large pink bloom is unmistakable. The name derives from the First Empire period Old Dunmereth "Wylloe", or "`[Departed's]` Will-Guide", a word perhaps signifying its role in ancient Nord burial rituals. Flower is five-part and fades to a lighter pink towards the center. The pale anthers are prominently displayed at the center of the broad petals. Stem is woody and branching. Leaves alternate. Knee to shoulder-high. Found near rocks, lightly wooded areas, partial shade. Ascadian Isles, Azura's Coast, Sheogorad. Willow anther is a common alchemical compound used in curative potions.
-```
 ### Source
 1. [[oaab-data|OAAB_Data]]

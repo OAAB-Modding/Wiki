@@ -6,6 +6,8 @@ description: A note from Aryon regarding a failed Summon Daedroth enchantment.
 tags:
   - Items
   - Books
+author:
+  - Melchior Dahrk
 ---
 ```
 Defective enchantment #1,515
