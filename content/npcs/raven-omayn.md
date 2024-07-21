@@ -13,7 +13,8 @@ After Raven helps [[aryon|Aryon]] orchestrate the death of [[dratha|Dratha]] and
 
 [[galos-mathendis|Galos Mathendis]] implies that Raven has a dark personality. <sup>[2]</sup>
 
-> "Hello again, %PCName. Come to ask questons about my research? At least you don't have to worry about mine involving unholy powers at every turn. Unlike with [[raven-omayn|Raven Omayn]] and Dratha. I used to hear Raven muttering things to herself, dark, brooding things. I don't miss her company."
+> [!Quote]
+> Hello again, %PCName. Come to ask questons about my research? At least you don't have to worry about mine involving unholy powers at every turn. Unlike with [[raven-omayn|Raven Omayn]] and Dratha. I used to hear Raven muttering things to herself, dark, brooding things. I don't miss her company.
 > -- [[galos-mathendis|Galos Mathendis]] (dialogue) <sup>[2]</sup>
 ### Quests
 * Apply Pressure to the Wound <sup>[1]</sup>

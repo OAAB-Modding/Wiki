@@ -11,7 +11,8 @@ tags:
 ### Modded
 [[galos-mathendis|Galos Mathendis]] implies that Mallam is pompous. <sup>[1]</sup>
 
-> "It's so refreshing living here in Tel Vos. Away from the pompous politics of Council work. Mallam Ryon was always the worst. Just because he was the Archmagister's Mouth, he thought his voice carried more weight than anyone else in matters of debate. Not much longer and I think he'll find himself in need of a new job."
+> [!Quote]
+> It's so refreshing living here in Tel Vos. Away from the pompous politics of Council work. Mallam Ryon was always the worst. Just because he was the Archmagister's Mouth, he thought his voice carried more weight than anyone else in matters of debate. Not much longer and I think he'll find himself in need of a new job.
 > -- [[galos-mathendis|Galos Mathendis]] (dialogue) <sup>[1]</sup>
 ### Source
 1. [[oaab-grazelands|OAAB Grazelands]]

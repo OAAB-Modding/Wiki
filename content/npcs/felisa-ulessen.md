@@ -11,7 +11,8 @@ tags:
 ### Modded
 [[galos-mathendis|Galos Mathendis]] implies that Felisa may be somewhat mad herself. <sup>[1]</sup>
 
-> "Oh, hello, %PCName. You'll have to excuse the clutter from my projects. But at least I don't have kwama eggs decorating the walls, eh? Ha ha! Speaking of Therana, I do believe that serving as the Mouth for a clearly and hopelessly mad mistress was starting to affect Felisa Ulessen by the time I retired. You know I caught her keeping a pet spider in her robe? She ate it when I pointed it out..."
+> [!Quote]
+> Oh, hello, %PCName. You'll have to excuse the clutter from my projects. But at least I don't have kwama eggs decorating the walls, eh? Ha ha! Speaking of Therana, I do believe that serving as the Mouth for a clearly and hopelessly mad mistress was starting to affect Felisa Ulessen by the time I retired. You know I caught her keeping a pet spider in her robe? She ate it when I pointed it out...
 > -- [[galos-mathendis|Galos Mathendis]] (dialogue) <sup>[1]</sup>
 ### Source
 1. [[oaab-grazelands|OAAB Grazelands]]

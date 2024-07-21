@@ -11,9 +11,10 @@ tags:
 ### Modded
 Mirvon is the Andrethi cousin of [[aryon|Aryon]] who is a student of the Marshmerrow society of martial artists as well as a fervent temple follower. <sup>[1]</sup>
 
-> "The wisdom of the Ancestors cannot be rejected forever, friend. They speak of discipline and philosophy to me through their sacred bones. Likewise, I strengthen my own hallowed bones like the mighty marshmerrow. I can instruct you in the martial arts if you have the means."
+> [!Quote]
+> The wisdom of the Ancestors cannot be rejected forever, friend. They speak of discipline and philosophy to me through their sacred bones. Likewise, I strengthen my own hallowed bones like the mighty marshmerrow. I can instruct you in the martial arts if you have the means.
 > 
-> "Atronach monarchs are unholy agents of Oblivion, %PCName. Aryon said that I should offer you free training, but instead I will give you something much more valuable. I will pray to Almsivi on your behalf. May the Three watch over you."
+> Atronach monarchs are unholy agents of Oblivion, %PCName. Aryon said that I should offer you free training, but instead I will give you something much more valuable. I will pray to Almsivi on your behalf. May the Three watch over you.
 > -- Mirvon Andrethi (dialogue) <sup>[1]</sup>
 
 ```mermaid

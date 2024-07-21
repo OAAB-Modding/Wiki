@@ -10,9 +10,11 @@ tags:
 ### Modded
 Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the Arnesian War. He is now employed by [[aryon|Aryon]] as the guard of his Dwemer Museum in [[tel-vos|Tel Vos]]. <sup>[1]</sup>
 
+> [!Quote]
 > He is the guard and caretaker of my Dwemer Museum. He's a good friend, but certainly not a scholar.
 > -- [[aryon|Aryon]] (dialogue) <sup>[1]</sup>
 
+> [!Quote]
 > That's wonderful news! Smokeskin-Killer has been getting increasingly irritable without his potions. Don't tell him I told you this, but he's a veteran of the Arnesian War and the horrors of his experience still haunt him. The potions help him fight back the nightmares... Oh! I almost forgot the egg mines. So the two closest are Mudan-Mul and Sinarralit.
 > -- [[milar-maryon|Milar Maryon]] (dialogue) <sup>[1]</sup>
 ### Quests
