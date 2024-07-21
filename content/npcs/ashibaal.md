@@ -11,7 +11,7 @@ tags:
 
 As part of a [House Hlaalu](https://en.uesp.net/wiki/Morrowind:House_Hlaalu "Morrowind:House Hlaalu") quest, you are charged with convincing Ashibaal to sell ebony only to House Hlaalu.
 ### Quests
-* Let The Ebony Flow <sup>[1]</sup>
+* Let The Ebony Flow[^1]
 	* At the request of [[turedus-talanian|Turedus Talanian]], the player convinced Ashibaal to ship Zainab ebony through Vos.
-### Source
-1. [[oaab-grazelands|OAAB Grazelands]]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

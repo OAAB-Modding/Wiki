@@ -14,7 +14,7 @@ tags:
   - TES4
   - com_
 ---
-**by [Waughin Jarth](https://en.uesp.net/wiki/Lore:Books_by_Author#Waughin_Jarth "Lore:Books by Author")**
+by [Waughin Jarth](https://en.uesp.net/wiki/Lore:Books_by_Author#Waughin_Jarth "Lore:Books by Author")
 
 ### Book One
 On a minor but respectable plaza in the [Imperial City](https://en.uesp.net/wiki/Oblivion:Imperial_City "Oblivion:Imperial City") sat, or perhaps lounged, Lord Vanech's Building Commission. It was an unimaginative, austere building not noted so much for its aesthetic or architectural design as for its prodigious length. If any critics wondered why such an unornamented, extended erection held such fascination for Lord Vanech, they kept it to themselves.
@@ -397,5 +397,6 @@ Black Marsh simply was, is, and always shall be unable to sustain a large-scale,
 Scotti's solution to each of their dilemmas had been the same. Ten percent of the gold they gave him went to Lord Vanech's Building Commission. The rest Scotti kept for himself, and did exactly nothing about the requests.
 
 Within a year, Decumus Scotti had embezzled enough to retire very comfortably, and Black Marsh was better off than it had been in forty years.
-### Source
-1. [[oaab-data|OAAB_Data]]
+
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

@@ -11,9 +11,9 @@ tags:
 
 He is interested in building bridges to the local [Ashlanders](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders"), the [Zainab Tribe](https://en.uesp.net/wiki/Morrowind:Zainab_Tribe "Morrowind:Zainab Tribe"), by learning about the trade goods they desire. He will ask you to travel to their camp to find out the trade goods they want.
 ### Quests
-* Let The Ebony Flow <sup>[1]</sup>
+* Let The Ebony Flow[^1]
 	* Turedus hires the player visit the Zainab ashlanders and convince them to ship the ebony they're trading with House Hlaalu through [[vos|Vos]].
-* Rogue Ashlander Bounty <sup>[1]</sup>
+* Rogue Ashlander Bounty[^1]
 	* Turedus will pay the player for killing Sur Surishpi and Yan Assinabi, two rogue ashlanders encamped outside of Vos.
-### Source
-1. [[oaab-grazelands|OAAB Grazelands]]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

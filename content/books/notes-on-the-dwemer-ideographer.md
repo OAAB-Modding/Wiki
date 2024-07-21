@@ -25,3 +25,6 @@ The soul gem does not need to be filled, but it needs to be large enough to hold
 P.S.
 Please use the tray near the ideographer to pour inkwells into smaller containers to avoid making a mess all over my lab, %PCName. Please feel free to use any of the supplies in there for your own research. If you need to purchase more blank scrolls, talk to [[alenus-vendu|Alenus Vendu]] in the Services Tower.
 Master [[aryon|Aryon]]
+
+> [!Info]
+> Source: [[oaab-grazelands|OAAB Grazelands]]

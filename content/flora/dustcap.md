@@ -7,6 +7,6 @@ tags:
   - mushroom
 ---
 ### Modded
-A large mushroom which is native to the Ashlands. <sup>[1]</sup>
-### Source
-1. [[oaab-data|OAAB_Data]]
+A large mushroom which is native to the Ashlands.[^1]
+
+[^1]: [[oaab-data|OAAB_Data]]

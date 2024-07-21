@@ -34,5 +34,6 @@ One day, he was performing for the crowd -- his finest work to date. He swung hi
 Seeing no other way out, the bard screamed, "Help! Help!"
 
 The Snow Wolf whispered, "Shut up or you'll get us all fired."
-### Source
-1. [[oaab-data|OAAB_Data]]
+
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

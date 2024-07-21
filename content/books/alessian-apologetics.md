@@ -71,5 +71,6 @@ Anyone is welcomed by us in this most holy pursuit, even an elf - would he prove
 Follow the path to the One Truth without fear.
 
 TAM! RUGH!
-### Source
-1. [[oaab-data|OAAB_Data]]
+
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

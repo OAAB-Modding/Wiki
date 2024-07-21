@@ -15,13 +15,13 @@ Milyn Faram's research has resulted in [magical scrolls](https://en.uesp.net/wi
 > Scrolls of summoning are, without exception, based on the Law of Similarity as you must know. While others use parts of the creature, such as [Daedra skin](https://en.uesp.net/wiki/Morrowind:Daedra_Skin "Morrowind:Daedra Skin") for summoning [Daedra](https://en.uesp.net/wiki/Morrowind:Daedra "Morrowind:Daedra"), I have developed a new methods, based on a recovered [Dwemer](https://en.uesp.net/wiki/Morrowind:Dwemer "Morrowind:Dwemer") machine. My scrolls only have an image of the Daedra, which works almost as well as a Daedra skin or [heart](https://en.uesp.net/wiki/Morrowind:Daedra%27s_Heart "Morrowind:Daedra's Heart")... And at a fraction of the cost.
 > -- [[milyn-faram|Milyn Faram]] (dialogue)
 ### Modded
-The "dwemer machine" mentioned by Milyn Faram is known as an "[[ideographer]]". <sup>[1]</sup>
+The "dwemer machine" mentioned by Milyn Faram is known as an "[[ideographer]]".[^1]
 ### Quests
-* Imitation is the Sincerest Form of Forgery <sup>[1]</sup>
+* Imitation is the Sincerest Form of Forgery[^1]
 	* Milyn sells his Dwemer [[ideographer]] to [[aryon|Aryon]] and uses the funds to expand Odirniran.
-* Enchanted Quill Acquaintances <sup>[2]</sup>
+* Enchanted Quill Acquaintances[^2]
 	* Milyn sends the player back to [[galos-mathendis|Galos Mathendis]] with an inscribed key.
-* The Final Door <sup>[1]</sup>
+* The Final Door[^1]
 	* Meets the player and [[galos-mathendis|Galos Mathendis]] at Indoranyon.
-### Source
-1. [[oaab-grazelands|OAAB Grazelands]]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

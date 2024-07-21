@@ -14,7 +14,7 @@ tags:
   - TES2
   - com_
 ---
-**by [Mymophonus the Scribe](https://en.uesp.net/wiki/Lore:Books_by_Author#Mymophonus)**
+by [Mymophonus the Scribe](https://en.uesp.net/wiki/Lore:Books_by_Author#Mymophonus)
 
 So be it known that the gods were once as we. [Ark'ay](https://en.uesp.net/wiki/Lore:Arkay "Lore:Arkay"), the god of death and birth, was an ordinary shopkeeper whose only unusual characteristic was a passion for knowledge. To indulge his hobby he became an avid collector of books on almost any subject he could find in print.
 
@@ -41,5 +41,6 @@ Just as he felt that the book was opening visions of new worlds, the plague brou
 Ark'ay spent what seemed to him as an eternity in thought before answering. "Mother, if my studies are not completely wrong, my only choice is to accept the burden and try to transmit the reasons for death and birth to humanity."
 
 "So be it, Arkay, God of Birth and Death."
-### Source
-1. [[oaab-data|OAAB_Data]]
+
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

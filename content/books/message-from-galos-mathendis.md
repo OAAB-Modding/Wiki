@@ -57,5 +57,6 @@ THOUGH I KNOW NOT WHOM
 YOUR RESPECTFUL COLLEAGUE
 
 [[galos-mathendis|GALOS MATHENDIS]]
-### Source
-1. [[oaab-grazelands|OAAB Grazelands]]
+
+> [!Info]
+> Source: [[oaab-grazelands|OAAB Grazelands]]

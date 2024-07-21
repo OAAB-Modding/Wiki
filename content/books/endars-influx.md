@@ -29,5 +29,6 @@ In order to successfully cast the spell, the caster must first take the environm
 When the spell is completed, the victim's body will enter a state of stasis. The victim's senses will be inundated with a flood of information, which will overwhelm them and cause them to become unable to move or react. Or even be affected by the passage of time itself. Just as the gods were frozen into bone beneath our feet. And exist outside the confines of time, so to will the victim become godlike. In this respect at least. This effect will last until the caster stops casting the spell or until the victim's senses are able to process the information.
 
 [Beyond this preface, the journal includes complex diagrams and formulaic proofs related to the theory of influx.]
-### Source
-1. [[oaab-tel-mora|OAAB Tel Mora]]
+
+> [!Info]
+> Source: [[oaab-tel-mora|OAAB Tel Mora]]

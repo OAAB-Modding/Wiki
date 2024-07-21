@@ -45,5 +45,5 @@ Bedtime, suchi-el, stay over, bring your astrolabe, we think there's still some 
 
 Sleep well, my children, tomorrow I'll buy you both the sea.
 
-### Source
-1. [[oaab-data|OAAB_Data]]
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

@@ -18,22 +18,22 @@ flowchart TD
 A("Aryon") -- Cousins --> B("Mirvon Andrethi")
 ```
 ### Quests
-* A Monopoly on Spies <sup>[1]</sup>
+* A Monopoly on Spies[^1]
 	* Aryon sends the player to [[galas-drenim|Galas Drenim]] after the mages guild monopoly quest to become more acquainted with politics.
-* An Illusion of Time <sup>[1]</sup>
+* An Illusion of Time[^1]
 	* Aryon sends the player to [[endar-drenim|Endar Drenim]] to discuss how to deal with the vampire attacks on [[tel-mora|Tel Mora]].
-* Vote of No Confidence <sup>[1]</sup>
+* Vote of No Confidence[^1]
 	* Aryon sends the player to learn more about the [[geas]] which [[dratha|Dratha]] is protecting herself with and ultimately to assassinate Dratha.
-* Master Endar <sup>[1]</sup>
+* Master Endar[^1]
 	* Aryon sends the player to talk to [[endar-drenim|Endar Drenim]] about becoming the new Mage Lord of [[tel-mora|Tel Mora]].
-* Conserving Water <sup>[2]</sup>
+* Conserving Water[^2]
 	* If the player shuts off the water supply to his conservatory in [[tel-vos|Tel Vos]], Aryon will become unhappy.
-* Imitation is the Sincerest Form of Forgery <sup>[2]</sup>
+* Imitation is the Sincerest Form of Forgery[^2]
 	* Aryon asks the player to locate [[milyn-faram|Milyn Faram]]'s [[ideographer]] in Odirniran as he would like to acquire it.
-* The Domain of Living Fire <sup>[2]</sup>
+* The Domain of Living Fire[^2]
 	* Aryon sends the player to kill the flame [[atronach-monarch|Atronach Monarch]] beneath [[tel-vos|Tel Vos]] in the caverns of Molaguradan.
-* * A Smidge Too Far <sup>[2]</sup>
+* * A Smidge Too Far[^2]
 	* Aryon agrees to help the paralyzed Breton trader in [[tel-mora|Tel Mora]] and asks the player to fetch a potion of cure paralyzation so he can create a special cure.
-### Source
-1. [[oaab-tel-mora|OAAB Tel Mora]]
-2. [[oaab-grazelands|OAAB Grazelands]]
+
+[^1]: [[oaab-tel-mora|OAAB Tel Mora]]
+[^2]: [[oaab-grazelands|OAAB Grazelands]]

@@ -54,5 +54,6 @@ She smiled and swept into the room, the fragrance of her passing filling my sens
 Sunlight streamed through the window and bathed my face, bringing me once more into the world, away from that sweetest of dreams. Dressing quickly, I settled my debts with the innkeeper and set about, a smile on my face and a new jingle in my pocket. New horizons called to me, but ne'er will I forget that most delicate of flowers; the one who stole the keys to my heart.
 
 Call me foolhardy, gentle reader, a chaser of dreams and catcher of none! Faint I deserve it; but is it not the chasing of dreams that drives men forward? For, without dreams, are we not animals? Fah! To this day I chase after my dream, catching only the merest glimpses; pushing ever forward. I call to you, my delicate flower, thy bard awaits thee!
-### Source
-1. [[oaab-data|OAAB_Data]]
+
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

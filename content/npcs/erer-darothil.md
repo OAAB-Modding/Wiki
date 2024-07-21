@@ -10,7 +10,7 @@ tags:
 
 According to the book, [Silence](https://en.uesp.net/wiki/Morrowind:Silence_(book)), Erer used to teach the skills of [Illusion](https://en.uesp.net/wiki/Morrowind:Illusion "Morrowind:Illusion") at the [University of Gwylim](https://en.uesp.net/wiki/Lore:University_of_Gwylim).
 ### Quests
-* An Illusion of Time <sup>[1]</sup>
+* An Illusion of Time[^1]
 	* [[endar-drenim|Endar Drenim]] requests feedback from Erer on his new illusion spell theory.
-### Source
-1. [[oaab-tel-mora|OAAB Tel Mora]]
+
+[^1]: [[oaab-tel-mora|OAAB Tel Mora]]

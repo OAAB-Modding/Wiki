@@ -13,7 +13,7 @@ tags:
   - TES2
   - com_
 ---
-**by [Vondham Barres](https://en.uesp.net/wiki/Lore:Books_by_Author#Vondham_Barres "Lore:Books by Author")**
+by [Vondham Barres](https://en.uesp.net/wiki/Lore:Books_by_Author#Vondham_Barres "Lore:Books by Author")
 
 I grew up a scholar, an ascetic devoted to knowledge, with eyes that saw beauty in a fascinating passage in a dusty tome, love in the candle that allowed me to study on starless nights, passion in a well-reasoned argument of a long dead issue. I was a student who never graduated and was never expelled.
 
@@ -50,5 +50,6 @@ Nymphs are the wisest, most wonderful creatures in [Tamriel](https://en.uesp.ne
 Ayalea taught me how to learn for the very first time. How to open my mind to all of the possibilities of life and how to use that knowledge, not just to hold in my cramped brain like a [dragon](https://en.uesp.net/wiki/Lore:Dragon "Lore:Dragon")'s horde.
 
 If you ever meet a nymph, speak to her.
-### Source
-1. [[oaab-data|OAAB_Data]]
+
+> [!Info]
+> Source: [[oaab-data|OAAB_Data]]

@@ -9,6 +9,6 @@ tags:
   - daedra
   - oblivion
 ---
-A verminoth, also known as a "daedrat", is a daedra which assumes a murine appearance on Nirn. According to a [[verminoth-note|Verminoth Note]] written by [[aryon|Aryon]], they may be somehow related to daedroths. <sup>[1]</sup>
-### Source
-1. [[oaab-grazelands|OAAB Grazelands]]
+A verminoth, also known as a "daedrat", is a daedra which assumes a murine appearance on Nirn. According to a [[verminoth-note|Verminoth Note]] written by [[aryon|Aryon]], they may be somehow related to daedroths.[^1]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

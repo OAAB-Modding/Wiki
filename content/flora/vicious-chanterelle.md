@@ -8,6 +8,6 @@ tags:
   - mushroom
 ---
 ### Modded
-A sickly green mushroom with red spots which is native to the Azura's Coast and Sheogorad regions. It is related to the [[glowing-chanterelle]]. <sup>[1]</sup>
-### Source
-1. [[oaab-data|OAAB_Data]]
+A sickly green mushroom with red spots which is native to the Azura's Coast and Sheogorad regions. It is related to the [[glowing-chanterelle]].[^1]
+
+[^1]: [[oaab-data|OAAB_Data]]

@@ -11,6 +11,6 @@ tags:
 
 Fyr is also likely to be the second most knowledgeable person in the game, falling just behind [Yagrum Bagarn](https://en.uesp.net/wiki/Morrowind:Yagrum_Bagarn "Morrowind:Yagrum Bagarn"). Along with him, he can teach you about the [Dwemer](https://en.uesp.net/wiki/Lore:Dwemer "Lore:Dwemer") and Corprus Disease. He takes a deep interest in their history, as is evident in his workroom, where you may find many Dwemer artifacts, not to mention the Corprusarium beneath the halls of his tower, which he considers a "hobby". His luxurious care of Yagrum Bagarn, the last living Dwarf, is also a testament to his pursuits.
 ### Modded
-Had [[aryon|Aryon]] as a student in an academic capacity and gave him the [[sword-of-the-moon-reiver|Sword of the Moon Reiver]] as a commencement gift according to the [[letter-from-master-fyr|Letter from Master Fyr]]. <sup>[1]</sup>
-### Source
-1. [[oaab-grazelands|OAAB Grazelands]]
+Had [[aryon|Aryon]] as a student in an academic capacity and gave him the [[sword-of-the-moon-reiver|Sword of the Moon Reiver]] as a commencement gift according to the [[letter-from-master-fyr|Letter from Master Fyr]].[^1]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]
