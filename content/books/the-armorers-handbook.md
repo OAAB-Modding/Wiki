@@ -1,8 +1,8 @@
 ---
-title: The Armorer's Handbook Vol. 1
+title: The Armorer's Handbook
 aliases:
-  - The Armorer's Handbook Vol. 1
-description: A technical handbook on light armor.
+  - The Armorer's Handbook
+description: A technical handbook on armor.
 author:
   - Stuporstar
 tags:
