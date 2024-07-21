@@ -15,7 +15,6 @@ tags:
   - popular
   - TES2
 ---
-### A Dubious Tale of the Crystal Tower
 by Bibenus Geon
 
 This story was first told to me when I was a neonate, newly studying in the Crystal Tower of Sumurset. I was admiring the famous animal pens of the Tower when I was approached by an older student. The fellow who told me this tale seemed very trustworthy at first, but, as the reader will soon discover, the tale is very dubious indeed. Of course, I have told it since to other neonates of the Tower in the same spirit.

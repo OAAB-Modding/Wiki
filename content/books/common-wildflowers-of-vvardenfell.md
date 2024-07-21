@@ -15,7 +15,6 @@ tags:
   - popular
   - original
 ---
-### Common Wildflowers of Vvardenfell
 by Vicia Laeta
 
 [species from the Ascadian Isles]

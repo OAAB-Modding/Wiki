@@ -13,6 +13,7 @@ tags:
   - popular
   - original
   - current
+  - com_
 ---
 ### THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC
 Published by the Guild of Astrologers

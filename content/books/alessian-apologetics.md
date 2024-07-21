@@ -15,7 +15,6 @@ tags:
   - original
   - imperial
 ---
-### Alessian Apologetics
 In honor and memory
 of Saint Calaxes
 

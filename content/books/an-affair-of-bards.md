@@ -13,8 +13,8 @@ tags:
   - lewd
   - niche
   - original
+  - com_
 ---
-### An Affair of Bards
 by the Breton Bard Deandre
 
 A delicate flower, Jasmine was born into privilege and married into prestige. A beautiful woman from Hammerfell, she never lacked for suitors. Her marriage to a minor noble was celebrated by her family and helped propel her career in the Legion. Though he was cold and oft times aloof, Jasmine loved her husband, or thought she did. She led an idealistic life, wanting for nothing but love. This she did not know until that fateful day she met me…

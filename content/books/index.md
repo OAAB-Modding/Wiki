@@ -26,6 +26,7 @@ tags:
 |        |               |             |                     | #bosmer      |                     |          |                  |
 |        |               |             |                     | #khajiit     |                     |          |                  |
 |        |               |             |                     | #akavir      |                     |          |                  |
+|        |               |             |                     | #argonian    |                     |          |                  |
 
 ### Tag Descriptions
 #### Usage
