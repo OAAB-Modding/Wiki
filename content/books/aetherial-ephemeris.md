@@ -7,12 +7,12 @@ description: A technical manual containing reference data calculated by the Guil
 author:
   - Lucevar
 tags:
-  - items
   - books
   - nonfiction
   - magic
   - popular
   - original
+  - current
 ---
 ### THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC
 Published by the Guild of Astrologers

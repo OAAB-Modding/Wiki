@@ -7,7 +7,6 @@ description: A bards encounter with a beautiful redguard woman.
 author:
   - Jac
 tags:
-  - items
   - books
   - current
   - fiction

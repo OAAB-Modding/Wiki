@@ -4,7 +4,6 @@ aliases:
   - Message from Galos Mathendis
 description: A message from Galos Mathendis to Milar Maryon regarding magic doors.
 tags:
-  - items
   - books
   - current
   - note

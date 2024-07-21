@@ -8,7 +8,6 @@ description: Endar Drenim's Theory of Influx.
 author:
   - Melchior Dahrk
 tags:
-  - items
   - books
   - current
   - note

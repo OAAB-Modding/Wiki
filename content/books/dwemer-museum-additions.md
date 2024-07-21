@@ -7,7 +7,6 @@ description: A collection of notes which appear in the Dwemer Museum in Tel Vos.
 author:
   - Melchior Dahrk
 tags:
-  - items
   - books
   - current
   - note

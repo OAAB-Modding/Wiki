@@ -6,7 +6,6 @@ description: Description of Alessian Cult faith from the point of view of a cont
 author:
   - R-Zero
 tags:
-  - items
   - books
   - com_
   - current

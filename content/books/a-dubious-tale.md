@@ -7,7 +7,6 @@ description: An amusing tale of a masquerade.
 author:
   - Bethesda
 tags:
-  - items
   - books
   - "#com_"
   - current

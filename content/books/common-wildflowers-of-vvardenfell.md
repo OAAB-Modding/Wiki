@@ -8,7 +8,6 @@ author:
   - Melchior Dahrk
   - Hemaris
 tags:
-  - items
   - books
   - current
   - fiction

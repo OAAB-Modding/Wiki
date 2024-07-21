@@ -6,7 +6,6 @@ description: Love letter from Runethyne Andas.
 author:
   - Melchior Dahrk
 tags:
-  - items
   - books
   - current
   - note

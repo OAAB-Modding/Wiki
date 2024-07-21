@@ -6,7 +6,6 @@ description: Letter from Divayth Fyr to Aryon with regard to the Sword of the Mo
 author:
   - Melchior Dahrk
 tags:
-  - items
   - books
   - current
   - note

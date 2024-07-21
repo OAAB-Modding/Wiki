@@ -3,7 +3,6 @@ title: Books
 aliases:
   - Books
 tags:
-  - items
   - books
 ---
 ### Book Tags
