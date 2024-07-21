@@ -3,8 +3,8 @@ title: Turedus Talanian
 aliases:
   - Turedus Talanian
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Turedus_Talanian)
 **Turedus Talanian** is an [Imperial](https://en.uesp.net/wiki/Morrowind:Imperial "Morrowind:Imperial") [warrior](https://en.uesp.net/wiki/Morrowind:Warrior "Morrowind:Warrior") and Lawman of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni") located in Aryon's Chambers, [[tel-vos|Tel Vos]]. Talanian is chief of the mercenaries and personal bodyguard of Master [[aryon|Aryon]].

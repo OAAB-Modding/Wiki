@@ -3,11 +3,16 @@ title: Letter from Master Fyr
 aliases:
   - Letter from Master Fyr
 description: Letter from Divayth Fyr to Aryon with regard to the Sword of the Moon Reiver.
-tags:
-  - Items
-  - Books
 author:
   - Melchior Dahrk
+tags:
+  - items
+  - books
+  - current
+  - note
+  - daedra
+  - unique
+  - original
 ---
 To my esteemed student, [[aryon|Aryon]],
 

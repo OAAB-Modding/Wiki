@@ -3,8 +3,8 @@ title: Tel Vos
 aliases:
   - Tel Vos
 tags:
-  - World
-  - Settlements
+  - world
+  - settlements
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos)
 ### Modded

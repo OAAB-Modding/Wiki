@@ -3,8 +3,8 @@ title: Raven Omayn
 aliases:
   - Raven Omayn
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Raven_Omayn)
 **Raven Omayn** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [sorceress](https://en.uesp.net/wiki/Morrowind:Sorcerer "Morrowind:Sorcerer") who can be found at the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). She is the [[mouth|Mouth]] for [Mistress Dratha](https://en.uesp.net/wiki/Morrowind:Dratha "Morrowind:Dratha") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").

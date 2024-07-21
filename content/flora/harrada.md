@@ -3,8 +3,8 @@ title: Harrada
 aliases:
   - Harrada
 tags:
-  - Flora
-  - Oblivion
+  - flora
+  - oblivion
 ---
 
 ### [UESP](https://en.uesp.net/wiki/Lore:Flora_H#Harrada_Root)

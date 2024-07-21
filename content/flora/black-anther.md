@@ -6,7 +6,7 @@ aliases:
   - Black-Anther
 description: Black anther is a flowering plant that grows along Azura's Coast.
 tags:
-  - Flora
+  - flora
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Black_Anther)
 **Black Anther** plants are common in the [Ascadian Isles](https://en.uesp.net/wiki/Morrowind:Ascadian_Isles "Morrowind:Ascadian Isles") region, and also grow in sparser patches around [Azura's Coast](https://en.uesp.net/wiki/Morrowind:Azura%27s_Coast "Morrowind:Azura's Coast").

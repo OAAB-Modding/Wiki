@@ -3,7 +3,7 @@ title: Chanil-Lee
 aliases:
   - Chanil-Lee
 tags:
-  - NPCs
+  - npcs
   - Mages-Guild
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Chanil-Lee)

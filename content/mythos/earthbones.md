@@ -6,7 +6,7 @@ aliases:
   - Elhnofey
   - Earth Bones
 tags:
-  - Mythos
+  - mythos
 ---
 ### [UESP](https://en.uesp.net/wiki/Lore:Ehlnofey)
 ### Modded

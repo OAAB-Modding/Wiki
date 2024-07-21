@@ -3,7 +3,7 @@ title: Maela Kaushad
 aliases:
   - Maela Kaushad
 tags:
-  - NPCs
+  - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Maela_Kaushad)
 **Maela Kaushad** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [wise woman](https://en.uesp.net/wiki/Morrowind:Wise_Woman "Morrowind:Wise Woman") who can be found inside her farmhouse in [[vos|Vos]]. According to other wise women, she married a villager, left her tribe, and then settled down in town. As such, they recommend talking to her if you want to learn more about their trade.

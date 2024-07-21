@@ -3,8 +3,8 @@ title: Molag Amur
 aliases:
   - Molag Amur
 tags:
-  - World
-  - Regions
+  - world
+  - regions
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Molag_Amur)
 ### Modded

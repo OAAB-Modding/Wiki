@@ -3,8 +3,8 @@ title: Vos
 aliases:
   - Vos
 tags:
-  - World
-  - Settlements
+  - world
+  - settlements
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Vos)
 ### Modded

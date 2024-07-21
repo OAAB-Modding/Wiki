@@ -3,8 +3,8 @@ title: Goler Andrethi
 aliases:
   - Goler Andrethi
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Goler_Andrethi)
 ### Modded

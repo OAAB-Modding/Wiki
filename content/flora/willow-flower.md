@@ -4,7 +4,7 @@ aliases:
   - Willow Flower
 description: Willow flowers are reddish and tall, but they do not bend to the ground like stoneflowers. The leaves are long and thin.
 tags:
-  - Flora
+  - flora
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Willow_Anther)
 > "Willow flowers are reddish and tall, but they do not bend to the ground like stoneflowers. The leaves are long and thin."

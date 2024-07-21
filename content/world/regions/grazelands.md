@@ -4,8 +4,8 @@ aliases:
   - Grazelands
   - Sunna Guradan
 tags:
-  - World
-  - Regions
+  - world
+  - regions
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Grazelands)
 ### Modded

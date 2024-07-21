@@ -3,7 +3,7 @@ title: Dunmeri
 aliases:
   - Dunmeri
 tags:
-  - Language
+  - language
 ---
 ### Dunmeri-Language
 

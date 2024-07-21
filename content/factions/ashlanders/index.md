@@ -4,6 +4,6 @@ aliases:
   - Ashlanders
 description: Ashlanders are the nomadic Dunmer barbarians of the Morrowind wastelands.
 tags:
-  - Factions
-  - Ashlanders
+  - factions
+  - ashlanders
 ---

@@ -3,8 +3,8 @@ title: Godros
 aliases:
   - Godros
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Godros)
 **Godros** is a [Wood Elf](https://en.uesp.net/wiki/Morrowind:Wood_Elf "Morrowind:Wood Elf") [agent](https://en.uesp.net/wiki/Morrowind:Agent "Morrowind:Agent") and a Lawman in [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni") located in the Tower Guardpost, [Tel Branora](https://en.uesp.net/wiki/Morrowind:Tel_Branora "Morrowind:Tel Branora").

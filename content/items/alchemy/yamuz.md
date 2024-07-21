@@ -4,7 +4,7 @@ aliases:
   - Yamuz
 description: Marshmerrow rum.
 tags:
-  - Alchemy
+  - alchemy
 ---
 ### Modded
 Marshmerrow rum, made from byproducts left after harvesting the plant's stalk and scraping out the marshmerrow pulp. Strong, sweet and cheap drink favored by farmers. <sup>[1]</sup>

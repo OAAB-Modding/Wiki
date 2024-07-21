@@ -3,10 +3,10 @@ title: Items
 aliases:
   - Items
 tags:
-  - Items
-  - Alchemy
-  - Artifacts
-  - Books
-  - Ingredients
-  - Miscellaneous
+  - items
+  - alchemy
+  - artifacts
+  - books
+  - ingredients
+  - miscellaneous
 ---

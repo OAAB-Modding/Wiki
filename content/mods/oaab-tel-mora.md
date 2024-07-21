@@ -3,7 +3,7 @@ title: OAAB Tel Mora
 aliases:
   - OAAB Tel Mora
 tags:
-  - Mods
+  - mods
 ---
 [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
 

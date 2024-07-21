@@ -5,8 +5,8 @@ aliases:
   - Rat
 description: The rat is a hardy, abundant hunter-scavenger, found on the land surface and in natural and excavated underground environments.
 tags:
-  - Creatures
-  - Beasts
+  - creatures
+  - beasts
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Beasts#Rat)
 ### Modded

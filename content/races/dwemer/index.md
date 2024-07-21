@@ -3,6 +3,6 @@ title: Dwemer
 aliases:
   - Dwemer
 tags:
-  - Races
-  - Dwemer
+  - races
+  - dwemer
 ---

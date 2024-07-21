@@ -3,6 +3,6 @@ title: Miscellaneous
 aliases:
   - Miscellaneous
 tags:
-  - Items
-  - Miscellaneous
+  - items
+  - miscellaneous
 ---

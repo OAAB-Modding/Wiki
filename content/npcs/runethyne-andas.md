@@ -3,7 +3,7 @@ title: Runethyne Andas
 aliases:
   - Runethyne Andas
 tags:
-  - NPCs
+  - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Vos#Runethyne_Andas)
 ### Modded

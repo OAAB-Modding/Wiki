@@ -5,8 +5,8 @@ aliases:
   - Blood Grass
 description: A tall, dark grey-colored reed covered in thick red veining, commonly found in the Deadlands.
 tags:
-  - Flora
-  - Oblivion
+  - flora
+  - oblivion
 ---
 ### [UESP](https://en.uesp.net/wiki/Lore:Flora_B#Bloodgrass)
 A tall, dark grey-colored reed covered in thick red veining, commonly found in the Deadlands.

@@ -3,18 +3,18 @@ title: OAAB Wiki
 aliases:
   - OAAB Wiki
 tags:
-  - Creatures
-  - Factions
-  - Flora
-  - Items
-  - Language
-  - Law
-  - Magic
-  - Mods
-  - Mythos
-  - NPCs
-  - Races
-  - World
+  - creatures
+  - factions
+  - flora
+  - items
+  - language
+  - law
+  - magic
+  - mods
+  - mythos
+  - npcs
+  - races
+  - world
 ---
 **Welcome to the OAAB Wiki!** This site is intended to collect lore, world-building, and characterization from among various OAAB-compatible mods into a single location. This can be used as a reference to build on ideas or keep their mods consistent with others for a cohesive player experience.
 

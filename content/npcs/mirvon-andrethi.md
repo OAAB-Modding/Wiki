@@ -3,8 +3,8 @@ title: Mirvon Andrethi
 aliases:
   - Mirvon Andrethi
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Mirvon_Andrethi)
 **Mirvon Andrethi** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [monk](https://en.uesp.net/wiki/Morrowind:Monk_Service "Morrowind:Monk Service") located in the Services Tower in [[tel-vos|Tel Vos]].

@@ -3,7 +3,7 @@ title: Dro'zharim
 aliases:
   - Dro'zharim
 tags:
-  - NPCs
+  - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Dro.27zharim)
 ### Modded

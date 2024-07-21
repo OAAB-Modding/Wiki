@@ -3,7 +3,7 @@ title: Dreynos Elvul
 aliases:
   - Dreynos Elvul
 tags:
-  - NPCs
+  - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Vos#Dreynos_Elvul)
 ### Quests

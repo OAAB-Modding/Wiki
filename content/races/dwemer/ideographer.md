@@ -3,8 +3,8 @@ title: ideographer
 aliases:
   - ideographer
 tags:
-  - Races
-  - Dwemer
+  - races
+  - dwemer
 ---
 ### Modded
 > Although it's original purpose is a mystery to me, I have found that the dwemer ideographer can be used to create summoning scrolls through a relatively cost effective process. -- Notes on the Dwemer Ideographer (book) <sup>[1]</sup>

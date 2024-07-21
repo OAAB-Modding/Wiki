@@ -4,7 +4,7 @@ aliases:
   - Gold Kanet
 description: Gold kanet is a flowering plant commonly found in the Ascadian Isles and on Azura's Coast.
 tags:
-  - Flora
+  - flora
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Gold_Kanet)
 > "Gold kanet is a flowering plant commonly found in the Ascadian Isles and on Azura's Coast."

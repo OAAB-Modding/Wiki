@@ -3,7 +3,7 @@ title: Kirsty
 aliases:
   - Kirsty
 tags:
-  - NPCs
+  - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Kirsty)
 ### Quests

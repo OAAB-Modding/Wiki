@@ -3,7 +3,7 @@ title: Stoneflower
 aliases:
   - Stoneflower
 tags:
-  - Flora
+  - flora
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Stoneflower_Petals)
 ### Modded

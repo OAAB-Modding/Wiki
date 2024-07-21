@@ -9,8 +9,8 @@ aliases:
   - Kwama Warrior
 description: Kwama are large insectoids native to Vvardenfell, which are usually kept for their eggs.
 tags:
-  - Creatures
-  - Beasts
+  - creatures
+  - beasts
 ---
 ### Colony
 > Kwama colonies, also known as eggmines, are home to the large creatures known as kwama. They are pock-marked with tunnels carved out by the foragers and workers. The former spray rock with acid to soften it, while the latter use their hard beaks to dig through the softened material. Egg miners must often use picks to widen tunnels too narrow to pass through in order to gather the precious kwama eggs.

@@ -3,8 +3,8 @@ title: Milar Maryon
 aliases:
   - Milar Maryon
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Milar_Maryon)
 **Milar Maryon** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [healer](https://en.uesp.net/wiki/Morrowind:Healer_Service "Morrowind:Healer Service") who sells [ingredients](https://en.uesp.net/wiki/Morrowind:Ingredients "Morrowind:Ingredients"), [potions](https://en.uesp.net/wiki/Morrowind:Potions "Morrowind:Potions"), and [spells](https://en.uesp.net/wiki/Morrowind:Spells "Morrowind:Spells") to all who need them in the Services Tower in [[tel-vos|Tel Vos]].

@@ -5,7 +5,7 @@ aliases:
   - NPC
   - Non Player Characters
 tags:
-  - NPCs
+  - npcs
 ---
 ### Symbols
 💀 = Dead NPC

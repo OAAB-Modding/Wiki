@@ -4,7 +4,7 @@ aliases:
   - Musa
 description: Scuttle liquor, popular among ashlanders and velothi in particular.
 tags:
-  - Alchemy
+  - alchemy
 ---
 ### Modded
 Scuttle liquor, popular among ashlanders and velothi in particular. <sup>[1]</sup>

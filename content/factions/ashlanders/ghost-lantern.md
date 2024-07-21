@@ -5,8 +5,8 @@ aliases:
   - Eerie Lantern
 description: The ghost lantern is a physical manifestation of the ancestor spirit's link to the otherworld.
 tags:
-  - Factions
-  - Ashlanders
+  - factions
+  - ashlanders
 ---
 ### Modded
 

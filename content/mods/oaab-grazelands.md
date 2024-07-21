@@ -3,7 +3,7 @@ title: OAAB Grazelands
 aliases:
   - OAAB Grazelands
 tags:
-  - Mods
+  - mods
 ---
 [OAAB Grazlands](https://www.nexusmods.com/morrowind/mods/49075)
 

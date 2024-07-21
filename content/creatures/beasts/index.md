@@ -3,6 +3,6 @@ title: Beasts
 aliases:
   - Beasts
 tags:
-  - Creatures
-  - Beasts
+  - creatures
+  - beasts
 ---

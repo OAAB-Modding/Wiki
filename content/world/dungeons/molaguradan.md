@@ -3,8 +3,8 @@ title: Molaguradan
 aliases:
   - Molaguradan
 tags:
-  - World
-  - Dungeons
+  - world
+  - dungeons
 ---
 ### Modded
 If [[grazelands|Sunna Guradan]] represents how the Ashlanders imagine their "heaven", then the fiery caverns of Molaguradan below [[tel-vos|Tel Vos]] is how they imagine their "hell". <sup>[1]</sup>

@@ -3,8 +3,8 @@ title: Galos Mathendis
 aliases:
   - Galos Mathendis
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Galos_Mathendis)
 **Galos Mathendis** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [enchanter](https://en.uesp.net/wiki/Morrowind:Enchanter_(class) "Morrowind:Enchanter (class)") found in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). He is the [[mouth|Mouth]] for Master [Aryon](https://en.uesp.net/wiki/Morrowind:Aryon "Morrowind:Aryon") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").

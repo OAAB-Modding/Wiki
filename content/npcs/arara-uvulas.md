@@ -3,8 +3,8 @@ title: Arara Uvulas
 aliases:
   - Arara Uvulas
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Arara_Uvulas)
 **Arara Uvulas** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [sorceress](https://en.uesp.net/wiki/Morrowind:Sorcerer "Morrowind:Sorcerer") in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). She is the [[mouth|Mouth]] for Master [Neloth](https://en.uesp.net/wiki/Morrowind:Neloth "Morrowind:Neloth") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").

@@ -3,12 +3,18 @@ title: Aetherial Ephemeris
 aliases:
   - Aetherial Ephemeris
   - THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC
+description: A technical manual containing reference data calculated by the Guild of Astrologers for the convenience of mariners, surveyors, mages, scholars, and travelers of all kinds.
+author:
+  - Lucevar
 tags:
-  - Items
-  - Books
-author: Lucevar
+  - items
+  - books
+  - nonfiction
+  - magic
+  - popular
+  - original
 ---
-THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC
+### THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC
 Published by the Guild of Astrologers
 
 [A technical manual containing reference data calculated by the Guild of Astrologers for the convenience of mariners, surveyors, mages, scholars, and travelers of all kinds.]
@@ -19,6 +25,6 @@ Celestial bodies covered by the almanac include Masser, Secunda, the Thirteen Pa
 
 As the constellation of The Serpent is not predictable in its path, choosing as it does to threaten the other constellations rather than following its own ordained path, detailed instructions are given on how to record and observe the unpredictable movements of the Serpent constellation with whatever equipment is at hand, allowing a prudent navigator to avoid ill-omened headings.
 
-This copy includes tide tables and phase readings for Masser and Secunda relevant to the Guild office that printed it.]
+[This copy includes tide tables and phase readings for Masser and Secunda relevant to the Guild office that printed it.]
 ### Source
 1. [[oaab-data|OAAB_Data]]

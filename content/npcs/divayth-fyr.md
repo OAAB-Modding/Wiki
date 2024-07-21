@@ -3,8 +3,8 @@ title: Divayth Fyr
 aliases:
   - Divayth Fyr
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Divayth_Fyr)
 **Divayth Fyr** is an ancient [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [sorcerer](https://en.uesp.net/wiki/Morrowind:Sorcerer "Morrowind:Sorcerer") who is the caretaker of the [Corprusarium](https://en.uesp.net/wiki/Morrowind:Corprusarium "Morrowind:Corprusarium") and the only person in the game who can cure your [Corprus](https://en.uesp.net/wiki/Morrowind:Corprus "Morrowind:Corprus") disease. He is a member of Great [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni"), though he generally stays out of House politics. Although he is the oldest and one of the most respected members of the House, he is not a member of the Council, and has no intention of joining. He can be found at the top of [Tel Fyr](https://en.uesp.net/wiki/Morrowind:Tel_Fyr "Morrowind:Tel Fyr"), his personal tower, where he lives with his four "daughters", who refer to themselves as his "wives": [Alfe](https://en.uesp.net/wiki/Morrowind:Alfe_Fyr "Morrowind:Alfe Fyr"), [Beyte](https://en.uesp.net/wiki/Morrowind:Beyte_Fyr "Morrowind:Beyte Fyr"), [Delte](https://en.uesp.net/wiki/Morrowind:Delte_Fyr "Morrowind:Delte Fyr"), and [Uupse](https://en.uesp.net/wiki/Morrowind:Uupse_Fyr "Morrowind:Uupse Fyr"). Divayth later reveals they are actually female clones of himself. He appears to be the oldest mortal character in the game–according to Alfe Fyr, who says that he is 4000 years old.

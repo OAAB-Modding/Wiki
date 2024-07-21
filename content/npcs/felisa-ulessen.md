@@ -3,8 +3,8 @@ title: Felisa Ulessen
 aliases:
   - Felisa Ulessen
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Erer_Darothril)
 **Felisa Ulessen**, a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [mage](https://en.uesp.net/wiki/Morrowind:Mage_(class) "Morrowind:Mage (class)"), is the [[mouth|Mouth]] for [Mistress Therana](https://en.uesp.net/wiki/Morrowind:Therana "Morrowind:Therana"). She can be found in the [Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni") [Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora") and is a quest giver for House Telvanni.

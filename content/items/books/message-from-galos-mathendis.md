@@ -4,8 +4,13 @@ aliases:
   - Message from Galos Mathendis
 description: A message from Galos Mathendis to Milar Maryon regarding magic doors.
 tags:
-  - Items
-  - Books
+  - items
+  - books
+  - current
+  - note
+  - magic
+  - unique
+  - original
 author:
   - Melchior Dahrk
 ---

@@ -3,8 +3,8 @@ title: Smokeskin-Killer
 aliases:
   - Smokeskin-Killer
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Smokeskin-Killer)
 ### Modded

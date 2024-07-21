@@ -3,6 +3,6 @@ title: Settlements
 aliases:
   - Settlements
 tags:
-  - World
-  - Settlements
+  - world
+  - settlements
 ---

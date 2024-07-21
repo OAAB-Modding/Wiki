@@ -4,7 +4,7 @@ aliases:
   - OAAB_Data
   - OAAB Data
 tags:
-  - Mods
+  - mods
 ---
 [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 

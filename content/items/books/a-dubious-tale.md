@@ -3,13 +3,20 @@ title: A Dubious Tale
 aliases:
   - A Dubious Tale
   - A Dubious Tale of the Crystal Tower
-tags:
-  - Items
-  - Books
+description: An amusing tale of a masquerade.
 author:
   - Bethesda
+tags:
+  - items
+  - books
+  - "#com_"
+  - current
+  - fiction
+  - humor
+  - popular
+  - TES2
 ---
-A Dubious Tale of the Crystal Tower
+### A Dubious Tale of the Crystal Tower
 by Bibenus Geon
 
 This story was first told to me when I was a neonate, newly studying in the Crystal Tower of Sumurset. I was admiring the famous animal pens of the Tower when I was approached by an older student. The fellow who told me this tale seemed very trustworthy at first, but, as the reader will soon discover, the tale is very dubious indeed. Of course, I have told it since to other neonates of the Tower in the same spirit.
@@ -30,5 +37,4 @@ Seeing no other way out, the bard screamed, "Help! Help!"
 
 The Snow Wolf whispered, "Shut up or you'll get us all fired."
 ### Source
-1. Daggerfall
-2. [[oaab-data|OAAB_Data]]
+1. [[oaab-data|OAAB_Data]]

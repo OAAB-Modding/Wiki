@@ -3,7 +3,7 @@ title: Telvon
 aliases:
   - Telvon
 tags:
-  - NPCs
+  - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Note_to_Telvon)
 Telvon does not exist in the original game (except for a seemingly unassociated smith). He is only mentioned in a note which can be found on the door of [Indoranyon](https://en.uesp.net/wiki/Morrowind:Indoranyon "Morrowind:Indoranyon").

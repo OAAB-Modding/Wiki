@@ -3,8 +3,8 @@ title: Endar Drenim
 aliases:
   - Endar Drenim
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Naga#People)
 ### Modded

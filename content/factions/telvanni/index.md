@@ -5,6 +5,6 @@ aliases:
   - House Telvanni
 description: The Telvanni wizard-lords of Vvardenfell have joined the competition to control and exploit Vvardenfell's land and resources.
 tags:
-  - Factions
-  - Telvanni
+  - factions
+  - telvanni
 ---

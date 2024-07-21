@@ -3,7 +3,7 @@ title: Indentured Servitude
 aliases:
   - Indentured Servitude
 tags:
-  - Law
+  - law
 ---
 ### Modded
 Imperial colonists in Morrowind are not permitted to own slaves. But indentured servants are allowed. Some less scrupulous colonists exploit this loophole by buying a slave's freedom only to keep them in indentured servitude until their debt is repaid. <sup>[1]</sup>

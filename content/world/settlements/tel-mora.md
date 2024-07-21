@@ -3,8 +3,8 @@ title: Tel Mora
 aliases:
   - Tel Mora
 tags:
-  - World
-  - Settlements
+  - world
+  - settlements
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Mora)
 ### Modded

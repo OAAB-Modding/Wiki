@@ -3,8 +3,8 @@ title: Lanabi
 aliases:
   - Lanabi
 tags:
-  - NPCs
-  - Ashlanders
+  - npcs
+  - ashlanders
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Lanabi)
 **Lanabi** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [trader](https://en.uesp.net/wiki/Morrowind:Trader_Service "Morrowind:Trader Service") who belongs to the [Ahemmusa](https://en.uesp.net/wiki/Morrowind:Ahemmusa_Tribe "Morrowind:Ahemmusa Tribe") [Ashlander](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders") tribe.

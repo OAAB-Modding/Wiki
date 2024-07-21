@@ -3,7 +3,7 @@ title: Creatures
 aliases:
   - Creatures
 tags:
-  - Creatures
-  - Beasts
-  - Daedra
+  - creatures
+  - beasts
+  - daedra
 ---

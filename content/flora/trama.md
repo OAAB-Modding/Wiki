@@ -6,7 +6,7 @@ aliases:
   - Trama Shrub
 description: The Trama shrub grows in the bitter, ashy soils of the Ashlands, Molag Amur, and Red Mountain.
 tags:
-  - Flora
+  - flora
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Trama_Root)
 

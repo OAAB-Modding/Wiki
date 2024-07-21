@@ -4,7 +4,7 @@ aliases:
   - Heather
 description: Heather is a low evergreen shrub of the Ascadian Isles, known for its small, pinkish-purple flowers.
 tags:
-  - Flora
+  - flora
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Heather)
 > "Heather is a low evergreen shrub of the Ascadian Isles, known for its small, pinkish-purple flowers with modest magical properties."

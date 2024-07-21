@@ -3,6 +3,6 @@ title: Dungeons
 aliases:
   - Dungeons
 tags:
-  - World
-  - Dungeons
+  - world
+  - dungeons
 ---

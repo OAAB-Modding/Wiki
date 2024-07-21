@@ -3,8 +3,8 @@ title: Alenus Vendu
 aliases:
   - Alenus Vendu
 tags:
-  - NPCs
-  - Telvanni
+  - npcs
+  - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Alenus_Vendu)
 **Alenus Vendu** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [enchantress](https://en.uesp.net/wiki/Morrowind:Enchanter_Service "Morrowind:Enchanter Service") who sells her wares from the Services Tower of [[tel-vos|Tel Vos]].

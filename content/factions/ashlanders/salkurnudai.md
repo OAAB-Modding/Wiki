@@ -4,8 +4,8 @@ aliases:
   - Salkurnudai
 description: An extinct Ashlander tribe who used to live in the Grazelands region.
 tags:
-  - Factions
-  - Ashlanders
+  - factions
+  - ashlanders
 ---
 ### Modded
 An extinct Ashlander tribe who used to live in the [[grazelands|Grazelands]] region.

@@ -3,8 +3,8 @@ title: World
 aliases:
   - World
 tags:
-  - World
-  - Dungeons
-  - Regions
-  - Settlements
+  - world
+  - dungeons
+  - regions
+  - settlements
 ---
