@@ -19,6 +19,7 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
+import Comments from "./Comments"
 // Custom components
 import LinksHeader from "./LinksHeader"
 
@@ -44,6 +45,8 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
+  Comments,
+  
 // Custom components
   LinksHeader,
 }
