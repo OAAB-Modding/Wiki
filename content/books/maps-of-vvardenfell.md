@@ -12,7 +12,6 @@ tags:
   - rare
   - original
 ---
-### Maps of Vvardenfell  
 ![[vvardenfellcitymap.png]]
   
 ### Travel Routes of Vvardenfell  
