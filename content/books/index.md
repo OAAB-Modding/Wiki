@@ -27,6 +27,7 @@ tags:
 |        |               |             |                     | #khajiit     |                     |          |                  |
 |        |               |             |                     | #akavir      |                     |          |                  |
 |        |               |             |                     | #argonian    |                     |          |                  |
+|        |               |             |                     | #ashlanders  |                     |          |                  |
 
 ### Tag Descriptions
 #### Usage
