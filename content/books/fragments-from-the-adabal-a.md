@@ -1,7 +1,7 @@
 ---
 title: Fragments from "The Adabal-a"
 aliases:
-  - Fragments from "The Adabal-a"
+  - Fragments from 'The Adabal-a'
 description: The memoirs of Morihaus, consort to Alessia and Taker of the Citadel.
 author:
   - Michael Kirkbride
