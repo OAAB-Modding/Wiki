@@ -10,6 +10,7 @@ tags:
   - dwemer
   - unique
   - original
+  - manual
 ---
 Although it's original purpose is a mystery to me, I have found that the dwemer ideographer can be used to create summoning scrolls through a relatively cost effective process.
 

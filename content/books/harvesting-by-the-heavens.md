@@ -11,6 +11,7 @@ tags:
   - nonfiction
   - popular
   - original
+  - manual
 ---
 A Farmer's Guide To Navigating The Seasons  
 The Official Agricultural Almanac  

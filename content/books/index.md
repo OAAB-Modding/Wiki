@@ -17,10 +17,10 @@ tags:
 |        |               |             | #spellbook          | #beasts      |                     |          | #ESO             |
 |        |               |             | #theatre            | #dwemer      |                     |          | #OOG             |
 |        |               |             | #children           | #dunmer      |                     |          | #original        |
-|        |               |             |                     | #geography   |                     |          |                  |
-|        |               |             |                     | #lycanthropy |                     |          |                  |
+|        |               |             | #legend             | #geography   |                     |          |                  |
+|        |               |             | #manual             | #lycanthropy |                     |          |                  |
 |        |               |             |                     | #vampirism   |                     |          |                  |
-|        |               |             |                     | #food        |                     |          |                  |
+|        |               |             |                     | #food        |                     |          |                  |
 |        |               |             |                     | #redguard    |                     |          |                  |
 |        |               |             |                     | #imperial    |                     |          |                  |
 |        |               |             |                     | #bosmer      |                     |          |                  |

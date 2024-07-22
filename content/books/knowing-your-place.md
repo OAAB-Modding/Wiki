@@ -9,7 +9,6 @@ tags:
   - com_
   - current
   - niche
-  - original
 ---
 An Instructional Letter To His Apprentice  
 By Ernestus Abertus  

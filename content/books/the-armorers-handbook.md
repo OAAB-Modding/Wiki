@@ -13,6 +13,7 @@ tags:
   - smithing
   - niche
   - original
+  - manual
 ---
 ## Volume I: Light Armor  
   
@@ -69,7 +70,7 @@ The next volume of The Armorer's Handbook will cover medium armor, and how to cr
 
 ### Tools of the Trade
 
-![[armor_tools.png]]
+![[armor-tools.png]]
 
 ***
 
@@ -156,7 +157,7 @@ The next volume of The Armorer's Handbook will cover heavy armor, and how to cre
 
 ### 4 into 1 Chain Mail Pattern
 
-![[armor_chain_4into1.png]]
+![[armor-chain-4into1.png]]
 
 ***
 
@@ -212,7 +213,7 @@ When the Dwemer disappeared, they took their secrets of metallurgy with them, an
 
 ### Full Suit of Plate Armor
 
-![[armor_plate_diagram.png]]
+![[armor-plate-diagram.png]]
 
 > [!Info]
 > Source: [[oaab-data|OAAB_Data]]

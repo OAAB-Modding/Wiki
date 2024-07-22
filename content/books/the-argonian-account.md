@@ -17,6 +17,9 @@ tags:
 by [Waughin Jarth](https://en.uesp.net/wiki/Lore:Books_by_Author#Waughin_Jarth "Lore:Books by Author")
 
 ### Book One
+> [!Info]
+> Teaches: Athletics
+
 On a minor but respectable plaza in the [Imperial City](https://en.uesp.net/wiki/Oblivion:Imperial_City "Oblivion:Imperial City") sat, or perhaps lounged, Lord Vanech's Building Commission. It was an unimaginative, austere building not noted so much for its aesthetic or architectural design as for its prodigious length. If any critics wondered why such an unornamented, extended erection held such fascination for Lord Vanech, they kept it to themselves.
 
 In the 398th year of the 3rd Era, Decumus Scotti was a senior clerk at the Commission.
@@ -192,6 +195,9 @@ The jumble of huts half-sunk in mud was decidedly less.
 
 "Hixinoag," replied Gemullus, pronouncing the queer name with confidence. "You were right. We were going north when we should have been going south."
 ### Book Three
+> [!Info]
+> Teaches: Illusion
+
 Decumus Scotti was supposed to be in [Gideon](https://en.uesp.net/wiki/Lore:Gideon "Lore:Gideon"), a thoroughly Imperialized city in southern [Black Marsh](https://en.uesp.net/wiki/Lore:Black_Marsh "Lore:Black Marsh"), arranging business dealings to improve commerce in the province on behalf of Lord Vanech's Building Commission and its clients. Instead, he was in a half-submerged, rotten little village called [Hixinoag](https://en.uesp.net/w/index.php?title=Oblivion:Hixinoag&action=edit&redlink=1 "Oblivion:Hixinoag (page does not exist)"), where he knew no one. Except for a [drug](https://en.uesp.net/wiki/Lore:Drug "Lore:Drug") smuggler named Chaero Gemullus.
 
 Gemullus was not at all perturbed that the merchant caravan had gone north instead of south. He even let Scotti share his bucket of [trodh](https://en.uesp.net/wiki/Lore:Trodh "Lore:Trodh"), tiny little crunchy fish, he had bought from the villagers. Scotti would have preferred them cooked, or at any rate, dead, but Gemullus blithely explained that dead, cooked trodh are deadly poison.

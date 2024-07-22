@@ -22,6 +22,8 @@ We not only render service to the Emperor in preparing volumes of new books, but
 Being a partial index of arcane contrivances known to the scholars and alchemists of Battlespire, that these contrivances might more readily be known to all students, and neither abused, nor neglected, nor wasted in their employment.
 
 ### Volume I
+> [!Info]
+> Teaches: Destruction
   
 "Art of Corruption"  
 Produces the casting of Major Poison Damage Range  
@@ -63,6 +65,9 @@ Renders the power of Cure Poison
 Produces the casting of Major Frost Damage
 
 ### Volume II
+> [!Info]
+> Teaches: Alteration
+
 "Faremyle of Burning Blows"  
 Renders the power of Medium Fire Damage  
   
@@ -109,6 +114,9 @@ Casts the spell of Resistance to Fire
 Produces the casting of Fire shield
 
 ### Volume III
+> [!Info]
+> Teaches: Restoration
+
 "Knight of the Grand Vigil"  
 Produces the casting of Major Shield  
   
@@ -170,6 +178,9 @@ Renders the power of Minor Delayed Damage
 Renders the power of Spell Absorption
 
 ### Volume IV
+> [!Info]
+> Teaches: Mysticism
+
 "Tale of the Whole Flesh"  
 Casts the spell of Major Cure Health  
   

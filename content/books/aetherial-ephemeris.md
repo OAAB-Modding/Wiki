@@ -14,6 +14,7 @@ tags:
   - original
   - current
   - com_
+  - manual
 ---
   
 THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC  

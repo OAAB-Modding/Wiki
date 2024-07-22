@@ -15,49 +15,49 @@ tags:
 ![[vvardenfellcitymap.png]]
   
 ### Travel Routes of Vvardenfell  
-![[MW_travelroutes.png]]
+![[mw-travelroutes.png]]
   
 ### Travel Routes of Vivec
-![[Vivec_travelmap.png]]
+![[vivec-travelmap.png]]
   
 ### The Ascadian Isles  
-![[Ascadian_regionmap.png]]
+![[ascadian-regionmap.png]]
   
 ### The Bitter Coast  
-![[BitterCoast_regionmap.png]]
+![[bittercoast-regionmap.png]]
   
 ### The West Gash  
-![[WestGash_regionmap.png]]
+![[westgash-regionmap.png]]
 
 ### The Ashlands
-![[Ashlands_regionmap.png]]
+![[ashlands-regionmap.png]]
 
 ### Molag Amur
-![[MolagAmur_regionmap.png]]
+![[molagamur-regionmap.png]]
 
 ### Southern Azura's Coast
-![[AzurasCoastS_regionmap.png]]
+![[azurascoasts-regionmap.png]]
 
 ### Northern Azura's Coast
-![[AzurasCoastN_regionmap.png]]
+![[azurascoastn-regionmap.png]]
 
 ### The Grazelands
-![[Grazelands_regionmap.png]]
+![[grazelands-regionmap.png]]
 
 ### Sheogorad
-![[Sheogorad_regionmap.png]]
+![[sheogorad-regionmap.png]]
 
 ### Vivec
-![[Vivec_citymap.png]]
+![[vivec-citymap.png]]
 
 ### Balmora
-![[Balmora_citymap.png]]
+![[balmora-citymap.png]]
 
 ### Ald'ruhn
-![[Aldruhn_citymap.png]]
+![[aldruhn-citymap.png]]
 
 ### Sadrith Mora
-![[SadrithMora_citymap.png]]
+![[sadrithmora-citymap.png]]
 
 > [!Info]
 > Source: [[oaab-data|OAAB_Data]]
