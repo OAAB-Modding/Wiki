@@ -16,7 +16,7 @@ tags:
 > > 
 > > The following head canon is not substantiated by any released mod yet and is subject to change.
 
-The [[races/dwemer/index|dwemer]] “cosmo” object which contains a green, transparent fluid refers to the real world [Cosmoline oil]([https://en.wikipedia.org/wiki/Cosmoline](https://en.wikipedia.org/wiki/Cosmoline). The important property of this oil is it’s preservative properties:
+The [[races/dwemer/index|dwemer]] “cosmo” object which contains a green, transparent fluid refers to the real world [Cosmoline oil]([https://en.wikipedia.org/wiki/Cosmoline). The important property of this oil is it’s preservative properties:
 
 > [!Quote]
 > The most common use of Cosmoline is in the storage and preservation of some [firearms](https://en.wikipedia.org/wiki/Firearm), hand tools, [machine tools](https://en.wikipedia.org/wiki/Machine_tool) and their tooling, and marine equipment. Entire vehicles can be preserved with cosmoline.
