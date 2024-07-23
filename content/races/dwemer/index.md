@@ -23,7 +23,7 @@ The coherers and cylinders found in [[races/dwemer/index|Dwemer]] ruins may have
 > > 
 > > **"That's a fascinating story you tell. So. You might be the Nerevarine. Means nothing, of course. Corprus victims have all sorts of delusions."**
 > > 
-> > The following head canon is not substantiated by any released mod yet and is subject to change.
+> > The following head canon is not yet substantiated by any released mod and is subject to change.
 
 The [[races/dwemer/index|Dwemer]] originated from the Ehlnofey in Atmora where Hermaeus Mora (The Woodland Man) conferred an excessive amount of knowledge to them which may have stirred their racial nihilism. They had ties to the Giant Ehlnofey of Atmora.
 

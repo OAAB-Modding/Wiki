@@ -5,5 +5,5 @@
 > > 
 > > **"That's a fascinating story you tell. So. You might be the Nerevarine. Means nothing, of course. Corprus victims have all sorts of delusions."**
 > > 
-> > The following head canon is not substantiated by any released mod yet and is subject to change.
+> > The following head canon is not yet substantiated by any released mod and is subject to change.
 
