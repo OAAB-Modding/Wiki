@@ -209,7 +209,7 @@ This armor is so rare, the price on the open market makes it nearly impossible t
 Because of this armor's Daedric nature, it cannot be crafted by mortal kind. It can however be repaired, but great care must be taken. Daedric armor must always be worked on at night, as this is the time when the shroud of Oblivion is not obscured. It must also be worked hot, just as any other ebony armor. Daedric armor is not as prone to cracking under stress as regular ebony armor, so it rarely requires repair.  
 
 ### Dwemer
-When the Dwemer disappeared, they took their secrets of metallurgy with them, and unfortunately the Imperial trade ban on Dwemer artifacts means smiths and armorers have not had much opportunity to study their secrets. This metal is heavier than steel, and highly resistant to corrosion. The Dwemer seemed to use the same alloy used to construct their centurions. It is precisely jointed, and gaps are minimized for better protection. Unfortunately, little more is known about this armor.
+When the [[races/dwemer/index|Dwemer]] disappeared, they took their secrets of metallurgy with them, and unfortunately the Imperial trade ban on Dwemer artifacts means smiths and armorers have not had much opportunity to study their secrets. This metal is heavier than steel, and highly resistant to corrosion. The Dwemer seemed to use the same alloy used to construct their centurions. It is precisely jointed, and gaps are minimized for better protection. Unfortunately, little more is known about this armor.
 
 ### Full Suit of Plate Armor
 

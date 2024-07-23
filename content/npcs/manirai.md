@@ -8,6 +8,8 @@ tags:
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Manirai)
 **Manirai** is the Wise Woman for the [Erabenimsun Tribe](https://en.uesp.net/wiki/Morrowind:Erabenimsun_Tribe "Morrowind:Erabenimsun Tribe") of [Ashlanders](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders"), and can be found in her yurt in the [camp](https://en.uesp.net/wiki/Morrowind:Erabenimsun_Camp).
+
+***
 ### Modded
 Manirai has an apprentice named Nirani who she believes is the prophesized [[red-wisdom|Red Wisdom]].
 ### Quests

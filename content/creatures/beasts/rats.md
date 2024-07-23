@@ -9,6 +9,8 @@ tags:
   - beasts
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Beasts#Rat)
+
+***
 ### Modded
 Dunmer may train large rats to kill other rats in place of owning cats.
 

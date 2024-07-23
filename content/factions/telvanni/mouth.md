@@ -9,6 +9,8 @@ tags:
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Mouth)
 **Mouth** is the term used for the spokesperson of a Telvanni Mage Lord. The [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") is the assembly for Telvanni wizard affairs in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"), the Mage Lords themselves are far too busy and couldn't be bothered with mundane affairs, hence they have their Mouths present instead. A somewhat justified fear of assassination by rivals may play into this as well.
+
+***
 ### Modded
 Telvanni Masters can communicate with their Mouths via telepathy.[^1]
 

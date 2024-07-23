@@ -128,7 +128,7 @@ _(Komon hiccoughs)_
 
 _(Lheban kicks Komon)_
 
-**Lheban:** You really must excuse Komon here: overwork, you know. Too many curings and conversions... Anyway, Old Nasty Nackles is supposed to wander under our [Tamriel](https://en.uesp.net/wiki/Lore:Tamriel "Lore:Tamriel"), in dirty deep dark [dwarven](https://en.uesp.net/wiki/Lore:Dwemer "Lore:Dwemer") tunnels. Everywhere under the lands, if you can believe that! Rides in a rusty squeaky old mine cart, on old mine tracks ...
+**Lheban:** You really must excuse Komon here: overwork, you know. Too many curings and conversions... Anyway, Old Nasty Nackles is supposed to wander under our [Tamriel](https://en.uesp.net/wiki/Lore:Tamriel "Lore:Tamriel"), in dirty deep dark [[races/dwemer/index|dwarven]] tunnels. Everywhere under the lands, if you can believe that! Rides in a rusty squeaky old mine cart, on old mine tracks ...
 
 **Adventurer:** I saw some of those in [Fang Lair](https://en.uesp.net/wiki/Lore:Fang_Lair "Lore:Fang Lair") once, down in [Hammerfell](https://en.uesp.net/wiki/Lore:Hammerfell "Lore:Hammerfell") a long long while ago ...
 
@@ -304,7 +304,7 @@ _(Exit Prologue)_
 
 **Lheban:** Well. Fools' Ebony now. Well, you know about ordinary Ebony, how it's rare, only some dwarven clans dig it and sell it. And not too many, these days and times ...
 
-**Stete:** How's that popular song go ..? _(singing)_ Where have all the Old [Dwarves](https://en.uesp.net/wiki/Lore:Dwemer "Lore:Dwemer") gone, Long time ago ...
+**Stete:** How's that popular song go ..? _(singing)_ Where have all the Old [[races/dwemer/index|Dwarves]] gone, Long time ago ...
 
 _(Lheben throws Innkeep at Stete)_
 
@@ -1144,7 +1144,7 @@ _(Exit Prologue)_
 
 **Adventurer:** Minnie's Inn? Oh, those two old scholars who gave it all up, came to run the inn out here. they must get all of two customers a year.
 
-**Contessa:** I think they like the solitude. It gives them time to study. They know a lot about old [Dwarvish](https://en.uesp.net/wiki/Lore:Dwemer "Lore:Dwemer") stuff -- get them started on that, they will wear you ears out.
+**Contessa:** I think they like the solitude. It gives them time to study. They know a lot about old [[races/dwemer/index|Dwarvish]] stuff -- get them started on that, they will wear you ears out.
 
 **Adventurer:** Er ... when does your surprise happen? I should probably know.
 

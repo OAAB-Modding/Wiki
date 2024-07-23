@@ -12,7 +12,7 @@ tags:
   - original
   - manual
 ---
-Although it's original purpose is a mystery to me, I have found that the dwemer ideographer can be used to create summoning scrolls through a relatively cost effective process.
+Although it's original purpose is a mystery to me, I have found that the [[races/dwemer/index|Dwemer]] [[ideographer|ideographer]] can be used to create summoning scrolls through a relatively cost effective process.
 
 Required materials:
 - 1 Blank Scroll (of standard quality or better)

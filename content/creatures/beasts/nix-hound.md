@@ -8,6 +8,8 @@ tags:
   - beasts
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Beasts#Nix-Hound)
+
+***
 ### Modded
 Nix-Hounds are somehow associated with dreams.[^1] Likely a reference to [PGE2](https://www.imperial-library.info/content/million-eyed-insect-dreaming-morrowind).
 

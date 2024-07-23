@@ -7,6 +7,8 @@ tags:
   - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Naga#People)
+
+***
 ### Modded
 Endar Drenim is head spymaster for House Telvanni on Vvardenfell. He currently lives in Tel Naga, Sadrith Mora. He was instrumental in paving the way for the Grand Council vote on the [Mages Guild Monopoly](https://en.uesp.net/wiki/Morrowind:Mages_Guild_Monopoly) prior to the player's involvement. He is the stepbrother of [[galas-drenim|Galas Drenim]] and somehow related to Mavon Drenim as well.[^1]
 

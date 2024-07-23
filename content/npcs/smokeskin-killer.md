@@ -7,8 +7,10 @@ tags:
   - telvanni
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Smokeskin-Killer)
+
+***
 ### Modded
-Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the Arnesian War. He is now employed by [[aryon|Aryon]] as the guard of his Dwemer Museum in [[tel-vos|Tel Vos]].[^1]
+Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the Arnesian War. He is now employed by [[aryon|Aryon]] as the guard of his [[races/dwemer/index|Dwemer]] Museum in [[tel-vos|Tel Vos]].[^1]
 
 > [!Quote]
 > He is the guard and caretaker of my Dwemer Museum. He's a good friend, but certainly not a scholar.

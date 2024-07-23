@@ -8,6 +8,8 @@ tags:
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Mirvon_Andrethi)
 **Mirvon Andrethi** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [monk](https://en.uesp.net/wiki/Morrowind:Monk_Service "Morrowind:Monk Service") located in the Services Tower in [[tel-vos|Tel Vos]].
+
+***
 ### Modded
 Mirvon is the Andrethi cousin of [[aryon|Aryon]] who is a student of the Marshmerrow society of martial artists as well as a fervent temple follower.[^1]
 

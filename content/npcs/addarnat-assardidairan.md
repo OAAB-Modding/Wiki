@@ -6,6 +6,8 @@ tags:
   - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Addarnat_Assardidairan)
+
+***
 ### Modded
 Addarnat is in a small camp near the [[zainab-sky-burial|Zainab Sky Burial]] along with [[manu-odirnapal|Manu Odirnapal]] and [[mut-urshan-adairan|Mut Urshan-Adairan]]. They are all hostile by default. But if the player brings racer plumes to honor the ceremony occurring at the nearby [[zainab-sky-burial|Zainab Sky Burial]], Addarnat will become friendly.
 ### Quests

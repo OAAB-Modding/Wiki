@@ -8,6 +8,8 @@ tags:
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Borwen)
 Oddly, she is the only non-[Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [Ashlander](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders") in the game, a fact which she seems to be unaware of. Whether or not her race being Bosmer was an oversight remains unknown.
+
+***
 ### Modded
 According to [[yakin-bael|Yakin Bael]], Borwen is suffering from a mental illness caused by Mistress [[dratha|Dratha]]'s usage of memory stones in [[tel-mora|Tel Mora]] which makes her think she is an Ashlander.[^1]
 

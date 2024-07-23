@@ -10,6 +10,8 @@ tags:
 **Galos Mathendis** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [enchanter](https://en.uesp.net/wiki/Morrowind:Enchanter_(class) "Morrowind:Enchanter (class)") found in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). He is the [[mouth|Mouth]] for Master [Aryon](https://en.uesp.net/wiki/Morrowind:Aryon "Morrowind:Aryon") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").
 
 If you advance far enough in House Telvanni, he will eventually step down and return to his research.
+
+***
 ### Modded
 After he retires, Galos moves to [[tel-vos|Tel Vos]] where he continues his research which is primarily focused on advanced enchanting techniques.[^2]
 

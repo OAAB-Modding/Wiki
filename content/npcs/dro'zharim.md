@@ -6,6 +6,8 @@ tags:
   - npcs
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Dro.27zharim)
+
+***
 ### Modded
 Dro'zharim was a slave who was part of the original crew who built [[tel-vos|Tel Vos]] giving him intimate knowledge of some of the secret passages in the tower. After Dro'zharim is freed, the player can learn that he helped build [[tel-vos|Tel Vos]].[^1]
 
