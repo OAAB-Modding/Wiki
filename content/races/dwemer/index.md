@@ -16,7 +16,7 @@ The coherers and cylinders found in [[races/dwemer/index|Dwemer]] ruins may have
 
 ***
 ### History
-![[headcanon-template#^0fe9e4]]
+![[headcanon-template#^0fe9e4|clean]]
 
 The [[races/dwemer/index|Dwemer]] originated from the Ehlnofey in Atmora where Hermaeus Mora (The Woodland Man) conferred an excessive amount of knowledge to them which may have stirred their racial nihilism. They had ties to the Giant Ehlnofey of Atmora.
 

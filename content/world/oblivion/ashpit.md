@@ -10,7 +10,7 @@ tags:
 
 ***
 ### Modded
-![[headcanon-template#^0fe9e4]]
+![[headcanon-template#^0fe9e4|clean]]
 
 The Spine of Ashpit is like a space elevator through the center of Ashpit which extends down to Nirn where it is said to manifest as a “Door to Oblivion” within dust and fire devils. It is said that the space elevator even extends to Aetherius - but the way has been long lost to mortal knowledge.
 

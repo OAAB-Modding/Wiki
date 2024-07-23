@@ -7,7 +7,7 @@ tags:
   - races
   - dwemer
 ---
-![[headcanon-template#^0fe9e4]]
+![[headcanon-template#^0fe9e4|clean]]
 
 The [[races/dwemer/index|dwemer]] “cosmo” object which contains a green, transparent fluid refers to the real world [Cosmoline oil]([https://en.wikipedia.org/wiki/Cosmoline). The important property of this oil is its preservative properties:
 
