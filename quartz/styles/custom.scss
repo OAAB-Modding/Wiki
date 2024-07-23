@@ -1,3 +1,6 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
+/* -- Custom SCSS Modules -- */
+@use "./custom/image-adjustments.scss";
 
 // put your custom CSS here!
