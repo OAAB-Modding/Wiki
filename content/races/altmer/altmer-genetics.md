@@ -5,14 +5,7 @@ aliases:
 tags:
   - altmer
 ---
-> [!maintenance] Headcanon
-> ![[npc-divayth-fyr.png|left wtiny]]
-> 
-> > [!maintenance|clean nbrd]
-> > 
-> > **"That's a fascinating story you tell. So. You might be the Nerevarine. Means nothing, of course. Corprus victims have all sorts of delusions."**
-> > 
-> > The following head canon is not yet substantiated by any released mod and is subject to change.
+![[headcanon-template#^0fe9e4]]
 
 Altmer practice genetic engineering, biomodification, and selective breeding. They are skilled creators of homunculi which are typically created from parts of various creatures combined together and then bound with a Daedric soul. This has created things such as the Chimera of Summerset which are feared throughout Tamriel.
 
