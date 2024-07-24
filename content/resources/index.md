@@ -1,0 +1,5 @@
+---
+title: Resources
+aliases:
+  - Resources
+---

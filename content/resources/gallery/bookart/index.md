@@ -1,0 +1,5 @@
+---
+title: Bookart
+aliases:
+  - Bookart
+---

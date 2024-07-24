@@ -1,7 +1,7 @@
 ---
-title: ideographer
+title: Ideographer
 aliases:
-  - ideographer
+  - Ideographer
 tags:
   - races
   - dwemer

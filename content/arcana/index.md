@@ -1,0 +1,5 @@
+---
+title: Arcana
+aliases:
+  - Arcana
+---

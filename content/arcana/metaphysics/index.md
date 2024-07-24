@@ -1,0 +1,5 @@
+---
+title: Metaphysics
+aliases:
+  - Metaphysics
+---

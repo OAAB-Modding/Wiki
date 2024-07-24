@@ -12,7 +12,7 @@ tags:
   - magic
   - mods
   - mythos
-  - npcs
+  - people
   - races
   - world
 ---

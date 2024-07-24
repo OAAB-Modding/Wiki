@@ -7,7 +7,6 @@ aliases:
   - Moon-Cursed Blade
 description: The Sword of the Moon Reiver is a broadsword created from Mehrunes Dagon's own substance.
 tags:
-  - items
   - artifacts
 ---
 ### [UESP](https://en.uesp.net/wiki/Lore:Sword_of_the_Moon_Reiver)

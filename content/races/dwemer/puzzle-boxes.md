@@ -1,8 +1,7 @@
 ---
-title: puzzle boxes
+title: Puzzle Boxes
 aliases:
-  - puzzle boxes
-  - puzzle box
+  - Puzzle Boxes
 tags:
   - races
   - dwemer

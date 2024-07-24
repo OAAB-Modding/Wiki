@@ -10,14 +10,8 @@ tags:
 
 ***
 ## Modded
-### Abilities
-#### The Calling
-The coherers and cylinders found in [[races/dwemer/index|Dwemer]] ruins may have been related to the mysterious Dwemer ability to communicate at a distance. This is alluded to by [[aryon|Aryon]] in the second addition of his [[dwemer-museum-additions|Dwemer Museum Additions]] notes.[^1]
-
-***
-### History
 ![[headcanon-template#^0fe9e4|clean]]
-
+### History
 The [[races/dwemer/index|Dwemer]] originated from the Ehlnofey in Atmora where Hermaeus Mora (The Woodland Man) conferred an excessive amount of knowledge to them which may have stirred their racial nihilism. They had ties to the Giant Ehlnofey of Atmora.
 
 > [!Quote]
@@ -28,4 +22,3 @@ The [[races/dwemer/index|Dwemer]] originated from the Ehlnofey in Atmora where H
 > Perhaps, then, the "brilliant students" of the titanic Ehlnofey mentioned in the Anuad are the Dwarves, and that their giant masters gave them this sobriquet
 -- [PGE1](http://www.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition/Hammerfell)
 
-[^1]: [[oaab-grazelands|OAAB Grazelands]]
