@@ -1,7 +1,6 @@
 ---
-title: Mods
+title: Sources
 aliases:
-  - Mods
-tags:
-  - mods
+  - Sources
+tags: []
 ---

@@ -3,10 +3,9 @@ title: OAAB_Data
 aliases:
   - OAAB_Data
   - OAAB Data
-tags:
-  - mods
+tags: []
 ---
-[OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
-
+> [!Note]
 > OAAB_Data is a free-to-use asset repository for the Morrowind Community.
+#### [Nexus Download](https://www.nexusmods.com/morrowind/mods/49042)
 
