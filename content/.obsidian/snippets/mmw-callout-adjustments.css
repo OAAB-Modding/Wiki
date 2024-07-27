@@ -18,75 +18,75 @@
 }
 
 .callout[data-callout-metadata~=clear] {
-    /* makes it so floating callouts stack vertically with content instead of horizontally */
-    clear: both;
+  /* makes it so floating callouts stack vertically with content instead of horizontally */
+  clear: both;
 }
 
 /* --- Sizing --- */
 .callout.callout.callout {
-    --callout-micro: 10%;
-    --callout-tiny: 20%;
-    --callout-small: 30%;
-    --callout-small-med: 40%;
-    --callout-med-small: 50%;
-    --callout-medium: 60%;
-    --callout-med-tall: 80%;
-    --callout-tall: 95%;
-  }
-  .callout.callout.callout[data-callout-metadata~=wmicro] {
-    max-width: unset;
-    width: var(--callout-micro);
-  }
-  .callout.callout.callout[data-callout-metadata~=wtiny] {
-    max-width: unset;
-    width: var(--callout-tiny);
-  }
-  .callout.callout.callout[data-callout-metadata~=wsmall] {
-    max-width: unset;
-    width: var(--callout-small);
-  }
-  .callout.callout.callout[data-callout-metadata~=ws-med] {
-    max-width: unset;
-    width: var(--callout-small-med);
-  }
-  .callout.callout.callout[data-callout-metadata~=wm-sm] {
-    max-width: unset;
-    width: var(--callout-med-small);
-  }
-  .callout.callout.callout[data-callout-metadata~=wmed] {
-    max-width: unset;
-    width: var(--callout-medium);
-  }
-  .callout.callout.callout[data-callout-metadata~=wm-tl] {
-    max-width: unset;
-    width: var(--callout-med-tall);
-  }
-  .callout.callout.callout[data-callout-metadata~=wtall] {
-    max-width: unset;
-    width: var(--callout-tall);
-  }
-  .callout.callout.callout[data-callout-metadata~=sban], .callout.callout.callout[data-callout-metadata~=wfull] {
-    width: 100%;
-    float: unset;
-    max-width: 100%;
-  }
+  --callout-micro: 10%;
+  --callout-tiny: 20%;
+  --callout-small: 30%;
+  --callout-small-med: 40%;
+  --callout-med-small: 50%;
+  --callout-medium: 60%;
+  --callout-med-tall: 80%;
+  --callout-tall: 95%;
+}
+.callout.callout.callout[data-callout-metadata~=wmicro] {
+  max-width: unset;
+  width: var(--callout-micro);
+}
+.callout.callout.callout[data-callout-metadata~=wtiny] {
+  max-width: unset;
+  width: var(--callout-tiny);
+}
+.callout.callout.callout[data-callout-metadata~=wsmall] {
+  max-width: unset;
+  width: var(--callout-small);
+}
+.callout.callout.callout[data-callout-metadata~=ws-med] {
+  max-width: unset;
+  width: var(--callout-small-med);
+}
+.callout.callout.callout[data-callout-metadata~=wm-sm] {
+  max-width: unset;
+  width: var(--callout-med-small);
+}
+.callout.callout.callout[data-callout-metadata~=wmed] {
+  max-width: unset;
+  width: var(--callout-medium);
+}
+.callout.callout.callout[data-callout-metadata~=wm-tl] {
+  max-width: unset;
+  width: var(--callout-med-tall);
+}
+.callout.callout.callout[data-callout-metadata~=wtall] {
+  max-width: unset;
+  width: var(--callout-tall);
+}
+.callout.callout.callout[data-callout-metadata~=sban], .callout.callout.callout[data-callout-metadata~=wfull] {
+  width: 100%;
+  float: unset;
+  max-width: 100%;
+}
 
-  .callout.callout.callout[data-callout-metadata~=wfit] {
-    width: fit-content;
-    max-width: min-content;
-  }
-  
-  .callout.callout[data-callout-metadata~=static] {
-    /* Callout sizing uses percentages by default, |static switches to pixels to use static sizing */
-    --callout-micro: 50px;
-    --callout-tiny: 100px;
-    --callout-small: 200px;
-    --callout-small-med: 300px;
-    --callout-med-small: 400px;
-    --callout-medium: 500px;
-    --callout-med-tall: 600px;
-    --callout-tall: 700px;
-  }
+.callout.callout.callout[data-callout-metadata~=wfit] {
+  width: fit-content;
+  max-width: min-content;
+}
+
+.callout.callout[data-callout-metadata~=static] {
+  /* Callout sizing uses percentages by default, |static switches to pixels to use static sizing */
+  --callout-micro: 50px;
+  --callout-tiny: 100px;
+  --callout-small: 200px;
+  --callout-small-med: 300px;
+  --callout-med-small: 400px;
+  --callout-medium: 500px;
+  --callout-med-tall: 600px;
+  --callout-tall: 700px;
+}
 
 /* --- Title Adjustments --- */
 .callout.callout.callout.callout:is([data-callout-metadata~=no-t],
@@ -131,45 +131,45 @@
 
 /* --- Callout Styling --- */
 .callout[data-callout-metadata~=embed] .callout-content, .callout[data-callout-metadata~=embed] > .callout-content > p {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
   }
   
-  .callout.callout.callout:is([data-callout-metadata~=nbrd],
-  [data-callout-metadata~=no-border]) {
-    border: 0;
-  }
-  
-  .callout.callout.callout[data-callout-metadata~=clean],
-  .callout.callout.callout[data-callout-metadata~=clean] > .callout-content {
-    border: 0;
-    box-shadow: none;
-    --callout-color: transparent;
-    /* Quartz does not use --callout-padding variable */
-    padding: 0;
-  }
-  .callout.callout.callout[data-callout-metadata~=clean] .callout-content,
-  .callout.callout.callout[data-callout-metadata~=clean] > .callout-content .callout-content {
-    padding: 0;
-  }
+.callout.callout.callout:is([data-callout-metadata~=nbrd],
+[data-callout-metadata~=no-border]) {
+  border: 0;
+}
 
-  .callout.callout:is([data-callout-metadata~=content-padding-small],
-  [data-callout-metadata~=c-p-sm]) {
-    --callout-content-padding: 6px;
-    /* Quartz does not use --callout-content-padding variable */
-  }
-  
-  .callout.callout:is([data-callout-metadata~=content-padding-medium],
-  [data-callout-metadata~=c-p-med]) {
-    --callout-content-padding: 12px;
-    /* Quartz does not use --callout-content-padding variable */
-  }
-  
-  .callout.callout:is([data-callout-metadata~=content-padding-large],
-  [data-callout-metadata~=c-p-lg]) {
-    --callout-content-padding: 24px;
-    /* Quartz does not use --callout-content-padding variable */
-  }
+.callout.callout.callout[data-callout-metadata~=clean],
+.callout.callout.callout[data-callout-metadata~=clean] > .callout-content {
+  border: 0;
+  box-shadow: none;
+  --callout-color: transparent;
+  /* Quartz does not use --callout-padding variable */
+  padding: 0;
+}
+.callout.callout.callout[data-callout-metadata~=clean] .callout-content,
+.callout.callout.callout[data-callout-metadata~=clean] > .callout-content .callout-content {
+  padding: 0;
+}
+
+.callout.callout:is([data-callout-metadata~=content-padding-small],
+[data-callout-metadata~=c-p-sm]) {
+  --callout-content-padding: 6px;
+  /* Quartz does not use --callout-content-padding variable */
+}
+
+.callout.callout:is([data-callout-metadata~=content-padding-medium],
+[data-callout-metadata~=c-p-med]) {
+  --callout-content-padding: 12px;
+  /* Quartz does not use --callout-content-padding variable */
+}
+
+.callout.callout:is([data-callout-metadata~=content-padding-large],
+[data-callout-metadata~=c-p-lg]) {
+  --callout-content-padding: 24px;
+  /* Quartz does not use --callout-content-padding variable */
+}
 
 /* --- Text Formatting --- */
 
@@ -204,4 +204,14 @@
   --tag-size: var(--font-smallest);
   --table-text-size: var(--font-smallest);
   font-size: var(--font-text-size);
+}
+
+.callout:is([data-callout-metadata~=n-th],
+[data-callout-metadata~=no-table-header]) > .callout-content table {
+  margin-bottom: 5px;
+}
+.callout:is([data-callout-metadata~=n-th],
+[data-callout-metadata~=no-table-header]) > .callout-content table thead, .callout:is([data-callout-metadata~=n-th],
+[data-callout-metadata~=no-table-header]) > .callout-content table th {
+  display: none;
 }
