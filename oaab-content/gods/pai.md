@@ -4,6 +4,7 @@ aliases:
   - Pai
 tags:
   - gods
+description: Pai is a well known patron demigod of unfinished tasks.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

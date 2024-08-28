@@ -4,6 +4,7 @@ aliases:
   - Ebonarm
 tags:
   - gods
+description: Reymon Ebonarm is a maniacal war god. They have not appeared in post-Daggerfall TES titles.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

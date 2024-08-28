@@ -6,6 +6,7 @@ tags:
   - creatures
   - constructs
   - dwemer
+description: Animunculi are the Dwemer automatons, such as Steam Centurions
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

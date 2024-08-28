@@ -5,6 +5,7 @@ aliases:
 tags:
   - factions
   - ashlanders
+description: An individual foretold to save the Dunmer people by an ancient Ashlander prophecy from a future calamity.
 ---
 An individual foretold to save the Dunmer people by an ancient [[hassours-red-wisdom|Ashlander prophecy]] from a future calamity.
 

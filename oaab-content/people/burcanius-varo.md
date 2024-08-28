@@ -4,6 +4,7 @@ aliases:
   - Burcanius Varo
 tags:
   - people
+description: An Imperial who runs the Varo Tradehouse with his wife Ferise in the town of Vos.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Burcanius_Varo)
 **Burcanius Varo** is an [Imperial](https://en.uesp.net/wiki/Morrowind:Imperial "Morrowind:Imperial") who runs the [Varo Tradehouse](https://en.uesp.net/wiki/Morrowind:Varo_Tradehouse "Morrowind:Varo Tradehouse") with his wife [Ferise](https://en.uesp.net/wiki/Morrowind:Ferise_Varo "Morrowind:Ferise Varo") in the town of [[vos|Vos]].

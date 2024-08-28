@@ -4,6 +4,7 @@ aliases:
   - Dunmeri
 tags:
   - language
+description: An overview of the language of the Dunmer
 ---
 ### Dunmeri-Language
 

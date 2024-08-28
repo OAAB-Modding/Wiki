@@ -4,6 +4,7 @@ aliases:
   - Stoneflower
 tags:
   - flora
+description: Pleasant, aromatic flowers found on scrub plains, near rocks, shores, roadsides. Ascadian Isles, Azuras Coast, Grazelands and the West Gash.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Stoneflower_Petals)
 

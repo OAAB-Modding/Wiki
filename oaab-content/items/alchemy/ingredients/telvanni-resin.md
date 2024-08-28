@@ -5,6 +5,7 @@ aliases:
 tags:
   - items
   - ingredients
+description: A luminous resin secreted by Telvanni mushroom roots, useful in fortify-strength potions when mixed with ash yams.
 ---
 ### Modded
 > [!Quote]

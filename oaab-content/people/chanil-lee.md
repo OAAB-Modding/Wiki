@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - Mages-Guild
+description: a Mages Guild spy agent who's currently staying at the Six Fishes in Ebonheart.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Chanil-Lee)
 

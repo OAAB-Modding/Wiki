@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - telvanni
+description: The jailer of Tel Vos.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Goler_Andrethi)
 

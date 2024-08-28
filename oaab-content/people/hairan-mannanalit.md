@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - ashlanders
+description: A Dark Elf scout and Hearthfriend of the Ashlanders located inside Varo Tradehouse in Vos.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Hairan_Mannanalit)
 **Hairan Mannanalit** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [scout](https://en.uesp.net/wiki/Morrowind:Scout "Morrowind:Scout") and Hearthfriend of the [Ashlanders](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders") located inside [Varo Tradehouse](https://en.uesp.net/wiki/Morrowind:Varo_Tradehouse "Morrowind:Varo Tradehouse") in [[vos|Vos]].

@@ -1,3 +1,14 @@
+---
+title: Geas
+aliases:
+  - Geas
+  - Geasa
+tags:
+  - curses
+  - magic
+  - ashlanders
+description: These specialized curses are most frequently used by mabrigash.
+---
 ### Modded
 Geas is singular. Geasa is plural. These specialized curses are most frequently used by mabrigash.[^1]
 

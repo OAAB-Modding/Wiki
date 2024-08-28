@@ -6,5 +6,6 @@ aliases:
 tags:
   - creatures
   - beasts
+description: Ventworm live near hot sulfur, brimstone or lava areas and metabolize sulphur.
 ---
-Live near hot sulfur/brimstone/lava areas and metabolize sulphur.
+**Ventworm** live near hot sulfur, brimstone or lava areas and metabolize sulphur.

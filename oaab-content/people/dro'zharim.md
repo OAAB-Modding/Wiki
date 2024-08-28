@@ -4,6 +4,7 @@ aliases:
   - Dro'zharim
 tags:
   - people
+description: A slave who was part of the original crew who built Tel Vos giving him intimate knowledge of some of the secret passages in the tower.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Dro.27zharim)
 

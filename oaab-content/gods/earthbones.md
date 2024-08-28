@@ -7,6 +7,7 @@ aliases:
   - Earth Bones
 tags:
   - mythos
+description: Related to Elhnofey and Lodestones
 ---
 ### [UESP](https://en.uesp.net/wiki/Lore:Ehlnofey)
 

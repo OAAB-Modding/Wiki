@@ -7,6 +7,7 @@ aliases:
   - enchanted door
 tags:
   - magic
+description: Magically enchanted doors are occasionally employed by mages to move those opening them somewhere unexpected.
 ---
 ### Modded
 Magically enchanted doors are occasionally employed by mages to move those opening them somewhere unexpected. Examples include the Telvanni Vaults in Vivec and the ruins of Indoranyon. This is the primary focus of [[galos-mathendis|Galos Mathendis]]' research. 

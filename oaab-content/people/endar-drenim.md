@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - telvanni
+description: Head spymaster for House Telvanni on Vvardenfell, instrumental in the Grand Council vote on the Mages Guild Monopoly.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Naga#People)
 

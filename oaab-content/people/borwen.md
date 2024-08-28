@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - ashlanders
+description: The only non-Dark Elf Ashlander in the game, a fact which she seems to be unaware of.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Borwen)
 Oddly, she is the only non-[Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [Ashlander](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders") in the game, a fact which she seems to be unaware of. Whether or not her race being Bosmer was an oversight remains unknown.

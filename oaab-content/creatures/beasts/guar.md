@@ -5,6 +5,7 @@ aliases:
 tags:
   - creatures
   - beasts
+description: On the outside, and in most respects, the guar of Morrowind resemble large, bipedal reptiles which can be found in other regions of Tamriel.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

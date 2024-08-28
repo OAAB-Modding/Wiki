@@ -5,6 +5,7 @@ aliases:
 tags:
   - flora
   - oblivion
+description: A spiky root which is native to the Deadlands in Oblivion and possibly other realms.
 ---
 
 ### [UESP](https://en.uesp.net/wiki/Lore:Flora_H#Harrada_Root)
