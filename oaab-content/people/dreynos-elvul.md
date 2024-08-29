@@ -8,7 +8,7 @@ description: a Dark Elf farmer found outside Vos.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Vos#Dreynos_Elvul)
 
-Dreynos Elvul is a Dark Elf farmer found outside [[vos|Vos]].
+**Dreynos Elvul** is a Dark Elf farmer found outside [[vos|Vos]].
 
 ***
 ### Quests

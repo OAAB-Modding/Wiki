@@ -6,6 +6,7 @@ aliases:
 tags:
   - regions
   - places
+description: Known as Sunna Guradan by the Ashlanders, the Grazelands sprawl across the north-east of Vvardenfell.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Grazelands)
 
@@ -20,4 +21,5 @@ tags:
 > -- Wise Woman (dialogue)[^1]
 
 Sunna Guradan translates to "blessed green land" and is how the ashlanders refer to the [[grazelands]] -- at least when discussing it from a spiritual perspective. They think it represents how their afterlife looks. And this link to the dream world of their ancestors manifests sometimes in phenomenon such as the [[ghost-lantern|Ghost Lantern]].
--grazelands|OAAB Grazelands]]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

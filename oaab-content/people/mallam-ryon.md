@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - telvanni
+description: A Dark Elf mage in the Telvanni Council House in Sadrith Mora and Mouth for Archmagister Gothren.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Mallam_Ryon)
 **Mallam Ryon** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [mage](https://en.uesp.net/wiki/Morrowind:Mage_(class) "Morrowind:Mage (class)") in the [Telvanni Council House](https://en.uesp.net/wiki/Morrowind:Telvanni_Council_House "Morrowind:Telvanni Council House") in [Sadrith Mora](https://en.uesp.net/wiki/Morrowind:Sadrith_Mora "Morrowind:Sadrith Mora"). He is the [[mouth|Mouth]] for Archmagister [Gothren](https://en.uesp.net/wiki/Morrowind:Gothren "Morrowind:Gothren") of [House Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni").

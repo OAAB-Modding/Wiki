@@ -5,8 +5,11 @@ aliases:
 tags:
   - people
   - telvanni
+description: an Argonian warrior and veteran of the Arnesian War, located in the Central Tower of Tel Vos.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Vos#Smokeskin-Killer)
+
+**Smokeskin-Killer** is an Argonian warrior, located in the Central Tower of [[tel-vos|Tel Vos]].
 
 ***
 ### Modded
@@ -24,4 +27,5 @@ Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the 
 	* Smokeskin-Killer tips the player off that [[aryon|Aryon]] may be interested in a new Dwemer artifact for the [[tel-vos|Tel Vos]] Dwemer Museum.
 * Smokeskin-Willer[^1]
 	* Smokeskin-Killer is not directly involved with this quest but is the subject of [[milar-maryon|Milar Maryon]]'s ministrations.
--grazelands|OAAB Grazelands]]
+
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

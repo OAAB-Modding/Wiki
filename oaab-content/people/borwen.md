@@ -12,7 +12,7 @@ Oddly, she is the only non-[Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_El
 
 ***
 ### Modded
-According to [[yakin-bael|Yakin Bael]], Borwen is suffering from a mental illness caused by Mistress [[dratha|Dratha]]'s usage of memory stones in [[tel-mora|Tel Mora]] which makes her think she is an Ashlander.[^1]
+According to [[yakin-bael|Yakin Bael]], **Borwen** is suffering from a mental illness caused by Mistress [[dratha|Dratha]]'s usage of memory stones in [[tel-mora|Tel Mora]] which makes her think she is an Ashlander.[^1]
 
 However, if you talk to Borwen, she mentions that she has been doing business with the Ashlanders for years and they consider her "one of their own".[^2]
 
@@ -30,4 +30,4 @@ It is unclear whether Yakin has misdiagnosed her condition or if she is simply c
 	* Borwen will sell the player an inscribed guar hide which describes the prophecy of Red Wisdom.
 
 [^1]: [[oaab-tel-mora|OAAB Tel Mora]]
-[^2]: [[red-wisdom-an-ashlander-prophecy|Red Wisdom - An Ashlander Prophecy]]n Ashlander Prophecy]]
+[^2]: [[red-wisdom-an-ashlander-prophecy|Red Wisdom - An Ashlander Prophecy]]

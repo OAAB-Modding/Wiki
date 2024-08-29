@@ -4,7 +4,7 @@ aliases:
   - Enchanting Candles
 tags:
   - magic
-description: Scamptallow and magetallow are the two most commonly used fuels for enchanting candles. But ogrim lard is occasionally turned into an oil to fuel special "Grim Lamps".
+description: Scamptallow and magetallow are the two most commonly used fuels for enchanting candles. But ogrim lard is occasionally turned into an oil to fuel special Grim Lamps.
 ---
 ### Modded
 > [!Quote]

@@ -15,4 +15,4 @@ tags:
 ### Modded
 The Black Anther (occasionally styled 'Black-Anther' or 'Blackanther') is a six-part flower reminiscent of the common lily but for its downward tapering leaves and tendency to branch multiple flowers from the main stem when competitive pressure is low. Note the upward-facing blossoms with dark spotting near the stem (most spotted lilies nod) which turn to a vibrant violet color towards the tepal tip. Knee to shoulder-high. Found near rocks, lightly wooded areas, openings. Ascadian Isles, Azura's Coast, Sheogorad. The eponymous anther absorbs small amounts of light energy; alchemists have found it useful in weak potions.[^1]
 
-1. [[common-wildflowers-of-vvardenfell]]
+1. [[common-wildflowers-of-vvardenfell|Common Wildflowers of Vvardenfell]]

@@ -5,6 +5,7 @@ aliases:
 tags:
   - dungeons
   - places
+description: A Velothi tower in south-eastern Azuras Coast and home to Milyn Faram.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Odirniran_(place))
 **Odirniran** is a [Velothi tower](https://en.uesp.net/wiki/Morrowind:Velothi_Towers "Morrowind:Velothi Towers") that resembles a tomb located on [Azura's Coast](https://en.uesp.net/wiki/Morrowind:Azura%27s_Coast "Morrowind:Azura's Coast"), west of the [Shrine of Azura](https://en.uesp.net/wiki/Morrowind:Shrine_of_Azura "Morrowind:Shrine of Azura") on the same peninsula. According to local rumors Hlaalu and Telvanni have been fighting for this place for years.

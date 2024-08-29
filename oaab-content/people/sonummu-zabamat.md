@@ -5,6 +5,7 @@ aliases:
 tags:
   - people
   - ashlanders
+description: A Dark Elf Wise Woman and Clanholder of the Zainab Ashlanders.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Sonummu_Zabamat)
 **Sonummu Zabamat**, a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") Wise Woman, is a Clanholder for the Zainab [Ashlanders](https://en.uesp.net/wiki/Morrowind:Ashlanders "Morrowind:Ashlanders").

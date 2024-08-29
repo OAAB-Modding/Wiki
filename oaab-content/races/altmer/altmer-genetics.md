@@ -4,6 +4,7 @@ aliases:
   - Altmer Genetics
 tags:
   - altmer
+description: Altmer practice genetic engineering, biomodification, selective breeding and the creation of homunculi.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

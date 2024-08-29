@@ -5,6 +5,7 @@ aliases:
 tags:
   - dungeons
   - places
+description: Fiery Caverns hidden below Tel Vos, once a host to ancient Ashlander Tribe burials.
 ---
 ### Modded
 If [[grazelands|Sunna Guradan]] represents how the Ashlanders imagine their "heaven", then the fiery caverns of Molaguradan below [[tel-vos|Tel Vos]] is how they imagine their "hell".[^1]

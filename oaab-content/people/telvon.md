@@ -4,9 +4,10 @@ aliases:
   - Telvon
 tags:
   - people
+description: Mentioned in a note found on the door to Indoranyon, seemingly having escaped the stronghold.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Note_to_Telvon)
-Telvon does not exist in the original game (except for a seemingly unassociated smith). He is only mentioned in a note which can be found on the door of [[indoranyon|Indoranyon]].
+**Telvon** does not exist in the original game (except for a seemingly unassociated smith). He is only mentioned in a note which can be found on the door of [[indoranyon|Indoranyon]].
 
 > [!Note]
 > Telvon,  

@@ -4,8 +4,11 @@ aliases:
   - Kirsty
 tags:
   - people
+description: A Wood Elf Commoner who can be found in her home in Tel Mora.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Kirsty)
+
+**Kirsty** is a Wood Elf Commoner who can be found in her home in [[tel-mora|Tel Mora]].
 
 ***
 ### Quests

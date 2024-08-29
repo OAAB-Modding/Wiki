@@ -5,6 +5,7 @@ aliases:
 tags:
   - settlements
   - places
+description: The tower of Mistress Dratha of House Telvanni in the north-eastern Azuras Coast
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Tel_Mora)
 

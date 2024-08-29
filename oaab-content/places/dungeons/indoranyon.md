@@ -5,6 +5,7 @@ aliases:
 tags:
   - dungeons
   - places
+description: An ancient Dunmer stronghold in the Grazelands, once home to the rogue battlemage Egroamaro.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Indoranyon)
 > [!Quote]
@@ -13,6 +14,6 @@ tags:
 
 ***
 ### Modded
-The bones of [[egroamaro|Egroamaro]] can be found in the main hall of Indoranyon through a [[magic-doors|magic door]] which [[galos-mathendis|Galos Mathendis]] helps the player unlock.[^1]
+The bones of [[egroamaro|Egroamaro]] can be found in the main hall of **Indoranyon** through a [[magic-doors|magic door]] which [[galos-mathendis|Galos Mathendis]] helps the player unlock.[^1]
 
 [^1]: [[oaab-grazelands|OAAB Grazelands]]

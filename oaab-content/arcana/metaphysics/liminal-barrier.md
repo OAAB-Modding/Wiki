@@ -4,6 +4,7 @@ aliases:
   - Liminal Barrier
 tags:
   - metaphysics
+description: OAAB headcanon pertaining to the Liminal Barrier between Nirn and Oblivion.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

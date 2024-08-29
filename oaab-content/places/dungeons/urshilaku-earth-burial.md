@@ -6,6 +6,7 @@ aliases:
 tags:
   - locations
   - places
+description: A burial site of the Urshilaku Ashlander Tribe.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Urshilaku_Burial_Caverns)
 
@@ -19,4 +20,4 @@ Urshilaku - Earth | Ash / Cairn or Foundation
 > We place our dead in the burial cavern. Most are devoured by beasts and returned to the earth. The most honored are preserved so that they may watch under us.
 > -- Urshilaku Ashlander (dialogue)[^1]
 
-[^1]: [[red-wisdom-an-ashlander-prophecy|Red Wisdom - An Ashlander Prophecy]]n Ashlander Prophecy]]
+[^1]: [[red-wisdom-an-ashlander-prophecy|Red Wisdom - An Ashlander Prophecy]]

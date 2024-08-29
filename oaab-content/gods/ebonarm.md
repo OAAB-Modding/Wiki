@@ -4,7 +4,7 @@ aliases:
   - Ebonarm
 tags:
   - gods
-description: Reymon Ebonarm is a maniacal war god. They have not appeared in post-Daggerfall TES titles.
+description: OAAB headcanon pertaining to Reymon Ebonarm, a maniacal war god whose last appearance was in TES II Daggerfall.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

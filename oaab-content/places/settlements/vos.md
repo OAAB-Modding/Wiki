@@ -5,6 +5,7 @@ aliases:
 tags:
   - settlements
   - places
+description: An ancient Velothi farming settlement on the coast of the Grazelands, between Tel Vos and Tel Mora.
 ---
 ### [UESP](https://en.uesp.net/wiki/Morrowind:Vos)
 

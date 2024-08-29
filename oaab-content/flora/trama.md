@@ -8,10 +8,10 @@ description: The Trama shrub grows in the bitter, ashy soils of the Ashlands, Mo
 tags:
   - flora
 ---
-### [UESP](https://en.uesp.net/wiki/Morrowind:Trama_Root)
+****### [UESP](https://en.uesp.net/wiki/Morrowind:Trama_Root)
 
 > [!Quote]
-> A calming tea with modest magical properties is brewed from the thick, bitter-tasting root of the trama shrub. The Trama shrub grows in the bitter, ashy soils of the Ashlands, Molag Amur, and Red Mountain.
+> A calming tea with modest magical properties is brewed from the thick, bitter-tasting root of the **trama** shrub. The Trama shrub grows in the bitter, ashy soils of the Ashlands, Molag Amur, and Red Mountain.
 > -- Anarenen (dialogue)
 
 ***

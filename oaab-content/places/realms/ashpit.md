@@ -5,6 +5,7 @@ aliases:
 tags:
   - oblivion
   - places
+description: The realm of Oblivion ruled over by Malacath, the Dadric Prince of outcasts.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

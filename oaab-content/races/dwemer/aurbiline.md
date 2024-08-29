@@ -6,6 +6,7 @@ aliases:
 tags:
   - races
   - dwemer
+description: OAAB headcanon pertaining to the purpose of Cosmo found among Dwemer ruins.
 ---
 ![[headcanon-template#^0fe9e4|clean]]
 

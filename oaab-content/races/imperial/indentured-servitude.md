@@ -6,6 +6,7 @@ tags:
   - imperial
   - law
   - races
+description: Imperial colonists in Morrowind are not permitted to own slaves. But indentured servants are allowed.
 ---
 Imperial colonists in Morrowind are not permitted to own slaves. But indentured servants are allowed. Some less scrupulous colonists exploit this loophole by buying a slave's freedom only to keep them in indentured servitude until their debt is repaid.[^1]
 
