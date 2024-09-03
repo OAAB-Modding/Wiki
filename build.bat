@@ -1,1 +1,1 @@
-npx quartz build --serve
+npx quartz build --serve -d oaab-content
