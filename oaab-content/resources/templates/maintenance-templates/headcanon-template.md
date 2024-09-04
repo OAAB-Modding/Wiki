@@ -1,3 +1,8 @@
+---
+tags:
+  - graph-exclude
+---
+
 > [!maintenance] Headcanon
 > ![[npc-divayth-fyr.png|left wtiny]]
 > 
