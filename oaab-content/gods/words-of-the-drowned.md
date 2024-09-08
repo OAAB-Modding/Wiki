@@ -4,7 +4,7 @@ aliases:
   - Words of the Drowned
 description: When a soul is doomed to die by drowning at sea, the inspiration may come upon them from the communal consciousness to write down these exact words.
 ---
-![[headcanon-template#^0fe9e4|clean]]
+![[maintenance-headcanon#^0fe9e4|clean]]
 
 > [!Quote]
 > ...That, which has gifted me with more pain than I have ever known in all of my lives or all of the lives that I know through my own.”

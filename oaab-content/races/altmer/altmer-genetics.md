@@ -6,7 +6,7 @@ tags:
   - altmer
 description: Altmer practice genetic engineering, biomodification, selective breeding and the creation of homunculi.
 ---
-![[headcanon-template#^0fe9e4|clean]]
+![[maintenance-headcanon#^0fe9e4|clean]]
 
 Altmer practice genetic engineering, biomodification, and selective breeding. They are skilled creators of homunculi which are typically created from parts of various creatures combined together and then bound with a Daedric soul. This has created things such as the Chimera of Summerset which are feared throughout Tamriel.
 

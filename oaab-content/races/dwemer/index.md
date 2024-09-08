@@ -11,7 +11,7 @@ description: OAAB headcanon pertaining to the Dwemer and their origins.
 
 ***
 ## Modded
-![[headcanon-template#^0fe9e4|clean]]
+![[maintenance-headcanon#^0fe9e4|clean]]
 ### History
 The [[races/dwemer/index|Dwemer]] originated from the Ehlnofey in Atmora where Hermaeus Mora (The Woodland Man) conferred an excessive amount of knowledge to them which may have stirred their racial nihilism. They had ties to the Giant Ehlnofey of Atmora.
 

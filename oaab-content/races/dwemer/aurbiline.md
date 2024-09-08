@@ -8,7 +8,7 @@ tags:
   - dwemer
 description: OAAB headcanon pertaining to the purpose of Cosmo found among Dwemer ruins.
 ---
-![[headcanon-template#^0fe9e4|clean]]
+![[maintenance-headcanon#^0fe9e4|clean]]
 
 The [[races/dwemer/index|dwemer]] “cosmo” object which contains a green, transparent fluid refers to the real world [Cosmoline oil]([https://en.wikipedia.org/wiki/Cosmoline). The important property of this oil is its preservative properties:
 

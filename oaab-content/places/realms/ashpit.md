@@ -7,7 +7,7 @@ tags:
   - places
 description: The realm of Oblivion ruled over by Malacath, the Dadric Prince of outcasts.
 ---
-![[headcanon-template#^0fe9e4|clean]]
+![[maintenance-headcanon#^0fe9e4|clean]]
 
 The Spine of [Ashpit](https://en.uesp.net/wiki/Lore:Ashpit) is like a space elevator through the center of Ashpit which extends down to Nirn where it is said to manifest as a “Door to Oblivion” within dust and fire devils. It is said that the space elevator even extends to Aetherius - but the way has been long lost to mortal knowledge.
 
