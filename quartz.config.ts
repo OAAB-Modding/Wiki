@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "oaab.dev",
     ignorePatterns: ["private", "**/templates/", ".obsidian"],
     defaultDateType: "modified",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
