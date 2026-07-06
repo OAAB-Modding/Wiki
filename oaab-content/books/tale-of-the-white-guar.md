@@ -13,6 +13,8 @@ tags:
   - dunmer
   - niche
   - original
+id:
+  - AB_bk_WhiteGuar_sk
 ---
 There once was a poor farmer and his wife, who lived in the Grazelands their whole life. While the farmer dutifully tended the lands of his fathers, toiling all day in golden fields, his wife dutifully tended hearth and home. Their sons were not so dutiful, and had all sought work in the cities, leaving their aged parents to tend the crops alone. This old couple made a meager living, and the farmer's toil gave him great thirst. Exhausted at the end of every day, the farmer sank into his cups, and his wife despaired of ever knowing him as he once was.  
   

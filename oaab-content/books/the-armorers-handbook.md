@@ -14,6 +14,10 @@ tags:
   - niche
   - original
   - manual
+id:
+  - AB_bk_BlacksmithArmor01
+  - AB_bk_BlacksmithArmor02
+  - AB_bk_BlacksmithArmor03
 ---
 ## Volume I: Light Armor  
   

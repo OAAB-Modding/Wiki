@@ -12,6 +12,9 @@ tags:
   - popular
   - original
   - manual
+id:
+  - AB_bk_HarvestingByTheHeavens
+  - AB_bk_HarvestingByTheHeavens_o
 ---
 A Farmer's Guide To Navigating The Seasons  
 The Official Agricultural Almanac  

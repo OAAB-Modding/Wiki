@@ -13,6 +13,13 @@ tags:
   - humor
   - niche
   - TES2
+id:
+  - AB_bk_FoolsEbony1
+  - AB_bk_FoolsEbony2
+  - AB_bk_FoolsEbony3
+  - AB_bk_FoolsEbony4
+  - AB_bk_FoolsEbony5
+  - AB_bk_FoolsEbony6
 ---
 **by [Frincheps](https://en.uesp.net/wiki/Lore:Books_by_Author#Frincheps "Lore:Books by Author")**
 ## _[Part the Oneth](https://en.uesp.net/wiki/Daggerfall:Fools%27_Ebony,_Part_the_Oneth "Daggerfall:Fools' Ebony, Part the Oneth")_

@@ -12,6 +12,8 @@ tags:
   - popular
   - original
   - manual
+id:
+  - AB_bk_DaedricAlphabet
 ---
 It is important for every Dunmer child to learn the Daedric alphabet, as it is used in both Temple banners and magical scrolls. A remnant of Daedric worship, from before the Battle of Red Mountain, it is part of Dunmer cultural heritage.  
 

@@ -12,6 +12,8 @@ tags:
   - popular
   - original
   - com_
+id:
+  - AB_sc_mapSkyrim
 ---
 ![[skyrim-377-253.png]]
 

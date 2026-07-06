@@ -10,6 +10,8 @@ tags:
   - lore
   - rare
   - OOG
+id:
+  - AB_sc_TheSoftDoctrinesOfMagnus
 ---
 The Dragon is bound with noble sighs.  
 The Serpent is bound with shifting tones.  

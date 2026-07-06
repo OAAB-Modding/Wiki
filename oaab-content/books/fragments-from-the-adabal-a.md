@@ -11,6 +11,8 @@ tags:
   - religious-imperial
   - rare
   - TES4
+id:
+  - AB_bk_FragmentsFromTheAdabal
 ---
 ### The Pelinal:  
 "And in the blood-floored throne room of White-Gold, the severed head of Pelinal spoke to the winged-bull, Morihaus, demigod lover of Al-Esh, saying, ‘Our enemies have undone me, and spread my body into hiding. In mockery of divine purpose, the ayleids cut me into eighths, for they are obsessed with this number.’"  

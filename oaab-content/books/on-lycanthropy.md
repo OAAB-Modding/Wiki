@@ -13,6 +13,8 @@ tags:
   - lycanthropy
   - niche
   - TES2
+id:
+  - AB_bk_OnLycanthropy
 ---
 by Varnard Karessen
 

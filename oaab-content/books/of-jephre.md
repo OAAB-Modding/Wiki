@@ -10,6 +10,8 @@ tags:
   - religious
   - niche
   - TES2
+id:
+  - AB_bk_OfJephre
 ---
 When the elven folk walked the land alone and sang songs of power amongst the trees and stars, Jephre the Singer walked with them. Jephre gave heed to the nature of the forests and delighted in the gurgling streams and brooks. It was Jephre who taught the birds to sing their songs of the seasons and He that taught the streams the tinkling ethereal tune. The very trees are said to have moved close to hear him sing on the warm summer nights of those elder days. It was in this time that the first great ballads of the elves were made, crafted from the songs that Jephre taught to the sylvan youth who frolicked to his lively tunes and ballads of nature and the unspoiled forest. In truth, He is worshipped as god of song and forest.  
   

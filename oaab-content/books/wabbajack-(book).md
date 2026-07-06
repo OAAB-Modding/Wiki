@@ -11,6 +11,8 @@ tags:
   - daedra
   - niche
   - TES2
+id:
+  - AB_bk_Wabbajack
 ---
 Little boys shouldn't summon up the forces of eternal darkness unless they have an adult supervising, I know, I know. But on that sunny night on the 5th of First Seed, I didn't want an adult. I wanted Hermaeus Mora, the daedra of knowledge, learning, gums, and varnishes. You see, I was told by a beautiful, large breasted man who lived under the library in my home town that the 5th of First Seed was Hermaeus Mora's night. And if I wanted the Oghma Infinium, the book of knowledge, I had to summon him. When you're the new king of Solitude, every bit of knowledge helps.  
   

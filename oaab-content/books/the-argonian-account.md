@@ -13,6 +13,11 @@ tags:
   - niche
   - TES4
   - com_
+id:
+  - AB_bk_ArgonianAccount1_sk
+  - AB_bk_ArgonianAccount2
+  - AB_bk_ArgonianAccount3_sk
+  - AB_bk_ArgonianAccount4
 ---
 by [Waughin Jarth](https://en.uesp.net/wiki/Lore:Books_by_Author#Waughin_Jarth "Lore:Books by Author")
 

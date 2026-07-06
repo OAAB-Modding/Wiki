@@ -13,6 +13,11 @@ tags:
   - magic
   - niche
   - TES-Battlespire
+id:
+  - AB_bk_CodexArcana1_sk
+  - AB_bk_CodexArcana2_sk
+  - AB_bk_CodexArcana3_sk
+  - AB_bk_CodexArcana4_sk
 ---
 STUDENTS AND SCHOLAR: Attend our Abjurations!  
 SHOWING DUE PROPRIETY IN THE CUSTODY OF BOOKS  

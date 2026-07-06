@@ -9,6 +9,8 @@ tags:
   - com_
   - current
   - niche
+id:
+  - AB_bk_KnowingYourPlace
 ---
 An Instructional Letter To His Apprentice  
 By Ernestus Abertus  

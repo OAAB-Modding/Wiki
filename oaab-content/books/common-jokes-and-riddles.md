@@ -13,6 +13,8 @@ tags:
   - humor
   - popular
   - original
+id:
+  - AB_bk_CrudeJokes
 ---
 Q. What's the difference between an Argonian and a Sload?  
 A. You can't make soap out of an Argonian.  

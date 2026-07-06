@@ -12,6 +12,8 @@ tags:
   - humor
   - niche
   - original
+id:
+  - AB_bk_DunmerInsults
 ---
 Many who have traveled through Morrowind have come across the most common insults of the Dunmer. The words fetcher, n'wah, and s'wit roll often off Dunmer tongues, but they have many more colorful insults to sling. This is a collection of some of the best ever heard while traveling through the region.
 

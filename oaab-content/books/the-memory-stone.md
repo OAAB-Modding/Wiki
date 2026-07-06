@@ -12,6 +12,8 @@ tags:
   - redguard
   - niche
   - TES2
+id:
+  - AB_bk_TheMemoryStone
 ---
 From The Memory Stone of Makela Leki
 

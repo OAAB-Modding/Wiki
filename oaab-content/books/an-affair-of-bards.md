@@ -14,6 +14,7 @@ tags:
   - niche
   - original
   - com_
+id: AB_bk_AffairOfBards
 ---
 by the Breton Bard Deandre  
 

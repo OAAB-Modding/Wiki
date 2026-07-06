@@ -15,6 +15,9 @@ tags:
   - current
   - com_
   - manual
+id:
+  - AB_bk_AetherialEphemeris
+  - AB_bk_AetherialEphemeris_o
 ---
   
 THE AETHERIAL EPHEMERIS AND ASTROLOGICAL ALMANAC  

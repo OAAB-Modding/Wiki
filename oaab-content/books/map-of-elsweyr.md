@@ -12,6 +12,8 @@ tags:
   - popular
   - original
   - com_
+id:
+  - AB_sc_mapElsweyr
 ---
 ![[elsweyr-377-253.png]]
 
